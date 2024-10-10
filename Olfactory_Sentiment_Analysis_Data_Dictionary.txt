@@ -1,0 +1,15 @@
+Data Dictionary for Olfactory Sentiment Analysis Dataset
+
+Column Name            Data Type   Description
+-------------          ----------  --------------------------------------------------------------
+Participant ID         Integer     A unique identifier for each participant.
+Scent ID               Integer     A unique identifier for each scent.
+Scent Description      String      A brief description of the scent (e.g., "Lavender", "Citrus").
+Chemical Compounds     String      Main chemical compounds present in the scent, contributing to its olfactory properties.
+Sentiment Label        String      The emotion or sentiment evoked by the scent (e.g., "Relaxation", "Happiness").
+Age                    Integer     Age of the participant.
+Gender                 String      Gender of the participant. Choices are "Male", "Female", "Other".
+Cultural Background    String      The cultural background of the participant (e.g., "American", "French").
+Previous Experience    Boolean     Whether the participant has had a notable previous experience with the scent (True or False).
+Current Mood           String      The mood of the participant at the time of the experiment (e.g., "Calm", "Stressed").
+Emotional Intensity    String      The intensity of the emotional response rated as "Low", "Medium", or "High".
