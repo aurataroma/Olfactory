@@ -1,4 +1,6 @@
 # Olfactory Intelligence
+![Aurat Banner 2 Sensory Intell](https://github.com/user-attachments/assets/161954f8-d212-41f9-9ebf-b03f37f23e69)
+
 Olfactory Computational Neuroscience (Public Info)
 In order to understand the true value of our sense of smell. We must first understand olfaction "how we smell" and aroma "what we smell", which both provide key scientific value. 
 
