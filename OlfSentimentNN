@@ -1,0 +1,54 @@
+import tensorflow as tf
+from tensorflow.keras.models import Sequential
+from tensorflow.keras.layers import Dense, Dropout
+from tensorflow.keras.utils import to_categorical
+from sklearn.model_selection import train_test_split
+from sklearn.preprocessing import StandardScaler, LabelEncoder
+import pandas as pd
+import numpy as np
+
+# Load your dataset
+data = pd.read_csv('Olfactory_Sentiment_Analysis_Dataset.csv')
+
+# Scent Description, Gender, Cultural Background, and Current Mood 
+categorical_features = ['Scent Description', 'Gender', 'Cultural Background', 'Current Mood']
+data = pd.get_dummies(data, columns=categorical_features)
+
+# Sentiment Label
+label_encoder = LabelEncoder()
+data['Sentiment Label'] = label_encoder.fit_transform(data['Sentiment Label'])
+
+# Target Variable
+X = data.drop('Sentiment Label', axis=1)
+y = to_categorical(data['Sentiment Label'])
+
+# Normalize 
+scaler = StandardScaler()
+X_scaled = scaler.fit_transform(X)
+
+# Split data into training and test sets
+X_train, X_test, y_train, y_test = train_test_split(X_scaled, y, test_size=0.2, random_state=42)
+
+# Model Architecture
+model = Sequential([
+    Dense(128, activation='relu', input_shape=(X_train.shape[1],)),
+    Dropout(0.5),
+    Dense(64, activation='relu'),
+    Dropout(0.5),
+    Dense(y_train.shape[1], activation='softmax')
+])
+
+# Compile 
+model.compile(optimizer='adam',
+              loss='categorical_crossentropy',
+              metrics=['accuracy'])
+
+# Train 
+history = model.fit(X_train, y_train, epochs=50, validation_split=0.2)
+
+# Evaluate 
+test_loss, test_acc = model.evaluate(X_test, y_test)
+print(f"Test Accuracy: {test_acc * 100:.2f}%")
+
+# Save 
+model.save('olfactory_sentiment_model.h5')
