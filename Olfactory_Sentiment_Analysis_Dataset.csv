@@ -1,0 +1,2001 @@
+Participant ID,Scent ID,Scent Description,Chemical Compounds,Sentiment Label,Age,Gender,Cultural Background,Previous Experience,Current Mood,Emotional Intensity
+1,1,Lavender,"Linalool, Linalyl acetate",Relaxation,56,Male,Chinese,False,Calm,Medium
+1,2,Citrus,"Limonene, Citral",Happiness,69,Male,Indian,True,Neutral,High
+1,3,Pine,Pinene,Calmness,46,Female,British,False,Energized,Low
+1,4,Fresh Linen,Aldehydes,Cleanliness,32,Other,French,True,Neutral,Medium
+1,5,Peppermint,Menthol,Refreshment,60,Female,Chinese,True,Sad,Medium
+1,6,Vanilla,Vanillin,Comfort,25,Other,French,True,Stressed,Low
+1,7,Rose,"Citronellol, Geraniol",Romance,38,Male,French,False,Calm,Medium
+1,8,Eucalyptus,Eucalyptol,Healing,56,Female,French,True,Sad,High
+1,9,Sandalwood,Santalol,Tranquility,36,Female,British,False,Sad,Low
+1,10,Leather,Benzaldehyde,Luxury,40,Other,American,False,Energized,Medium
+1,11,Coffee,"Caffeine, Niacin",Alertness,28,Male,Chinese,True,Stressed,Medium
+1,12,Chocolate,Theobromine,Pleasure,28,Female,American,False,Stressed,Low
+1,13,Burnt Wood,Guaiacol,Nostalgia,41,Male,American,True,Calm,Low
+1,14,Cinnamon,Cinnamaldehyde,Warmth,53,Female,American,True,Energized,Low
+1,15,Apple,Amyl acetate,Freshness,57,Male,French,False,Calm,Low
+1,16,Strawberry,Methyl anthranilate,Joy,41,Other,Indian,True,Neutral,High
+1,17,Smoky,Creosol,Mystery,20,Female,French,True,Sad,Low
+1,18,Floral,Phenyl ethyl alcohol,Delight,39,Female,French,True,Calm,High
+1,19,Ocean Breeze,Dimethyl sulfide,Freedom,19,Male,American,False,Sad,High
+1,20,Rain,Geosmin,Nature,41,Male,French,True,Energized,Low
+1,21,Lavender,"Linalool, Linalyl acetate",Relaxation,61,Female,American,False,Neutral,High
+1,22,Citrus,"Limonene, Citral",Happiness,47,Other,Indian,False,Energized,Low
+1,23,Pine,Pinene,Calmness,55,Male,Chinese,True,Neutral,Low
+1,24,Fresh Linen,Aldehydes,Cleanliness,19,Male,American,True,Neutral,Medium
+1,25,Peppermint,Menthol,Refreshment,38,Male,Indian,False,Sad,Low
+1,26,Vanilla,Vanillin,Comfort,50,Female,Chinese,False,Energized,Medium
+1,27,Rose,"Citronellol, Geraniol",Romance,29,Female,British,True,Energized,High
+1,28,Eucalyptus,Eucalyptol,Healing,39,Female,American,True,Calm,Medium
+1,29,Sandalwood,Santalol,Tranquility,61,Female,American,False,Energized,High
+1,30,Leather,Benzaldehyde,Luxury,42,Other,British,False,Calm,Low
+1,31,Coffee,"Caffeine, Niacin",Alertness,66,Other,British,False,Stressed,High
+1,32,Chocolate,Theobromine,Pleasure,44,Female,American,False,Stressed,High
+1,33,Burnt Wood,Guaiacol,Nostalgia,59,Other,British,False,Stressed,Low
+1,34,Cinnamon,Cinnamaldehyde,Warmth,45,Male,French,True,Energized,High
+1,35,Apple,Amyl acetate,Freshness,33,Male,Chinese,False,Energized,Low
+1,36,Strawberry,Methyl anthranilate,Joy,32,Male,Chinese,False,Calm,Medium
+1,37,Smoky,Creosol,Mystery,64,Female,Chinese,True,Neutral,Low
+1,38,Floral,Phenyl ethyl alcohol,Delight,68,Male,French,True,Calm,Low
+1,39,Ocean Breeze,Dimethyl sulfide,Freedom,61,Other,British,False,Stressed,High
+1,40,Rain,Geosmin,Nature,69,Female,Indian,False,Calm,Medium
+1,41,Lavender,"Linalool, Linalyl acetate",Relaxation,20,Other,British,True,Neutral,Low
+1,42,Citrus,"Limonene, Citral",Happiness,54,Male,American,False,Energized,Medium
+1,43,Pine,Pinene,Calmness,68,Male,Chinese,False,Calm,Medium
+1,44,Fresh Linen,Aldehydes,Cleanliness,24,Male,British,True,Stressed,High
+1,45,Peppermint,Menthol,Refreshment,38,Female,Indian,False,Stressed,Low
+1,46,Vanilla,Vanillin,Comfort,26,Other,American,True,Energized,High
+1,47,Rose,"Citronellol, Geraniol",Romance,56,Female,French,True,Calm,Low
+1,48,Eucalyptus,Eucalyptol,Healing,35,Female,French,True,Neutral,Medium
+1,49,Sandalwood,Santalol,Tranquility,21,Male,Indian,True,Energized,Low
+1,50,Leather,Benzaldehyde,Luxury,42,Female,American,False,Calm,Low
+1,51,Coffee,"Caffeine, Niacin",Alertness,31,Female,Chinese,True,Sad,Medium
+1,52,Chocolate,Theobromine,Pleasure,67,Male,British,False,Stressed,Medium
+1,53,Burnt Wood,Guaiacol,Nostalgia,26,Female,American,False,Neutral,Low
+1,54,Cinnamon,Cinnamaldehyde,Warmth,43,Male,French,False,Neutral,High
+1,55,Apple,Amyl acetate,Freshness,19,Male,Indian,False,Neutral,Low
+1,56,Strawberry,Methyl anthranilate,Joy,37,Male,Indian,False,Stressed,Medium
+1,57,Smoky,Creosol,Mystery,45,Male,British,True,Calm,High
+1,58,Floral,Phenyl ethyl alcohol,Delight,64,Female,Indian,True,Energized,Medium
+1,59,Ocean Breeze,Dimethyl sulfide,Freedom,24,Male,Indian,True,Calm,Medium
+1,60,Rain,Geosmin,Nature,61,Male,American,True,Energized,High
+1,61,Lavender,"Linalool, Linalyl acetate",Relaxation,25,Female,Chinese,False,Neutral,Medium
+1,62,Citrus,"Limonene, Citral",Happiness,64,Female,British,True,Calm,Medium
+1,63,Pine,Pinene,Calmness,52,Other,American,False,Neutral,Medium
+1,64,Fresh Linen,Aldehydes,Cleanliness,31,Female,Chinese,False,Sad,Medium
+1,65,Peppermint,Menthol,Refreshment,34,Female,American,True,Neutral,Medium
+1,66,Vanilla,Vanillin,Comfort,53,Other,American,True,Neutral,Medium
+1,67,Rose,"Citronellol, Geraniol",Romance,67,Female,Indian,True,Energized,Medium
+1,68,Eucalyptus,Eucalyptol,Healing,57,Female,Chinese,True,Sad,Medium
+1,69,Sandalwood,Santalol,Tranquility,21,Female,British,False,Neutral,Medium
+1,70,Leather,Benzaldehyde,Luxury,19,Female,British,False,Neutral,Low
+1,71,Coffee,"Caffeine, Niacin",Alertness,23,Other,Chinese,True,Sad,Low
+1,72,Chocolate,Theobromine,Pleasure,59,Female,Indian,False,Sad,Medium
+1,73,Burnt Wood,Guaiacol,Nostalgia,21,Female,French,False,Calm,Low
+1,74,Cinnamon,Cinnamaldehyde,Warmth,46,Other,American,False,Energized,High
+1,75,Apple,Amyl acetate,Freshness,35,Male,Indian,True,Sad,Low
+1,76,Strawberry,Methyl anthranilate,Joy,43,Other,Chinese,False,Sad,Medium
+1,77,Smoky,Creosol,Mystery,61,Male,American,True,Stressed,Medium
+1,78,Floral,Phenyl ethyl alcohol,Delight,51,Other,British,True,Sad,Low
+1,79,Ocean Breeze,Dimethyl sulfide,Freedom,27,Other,French,False,Energized,Medium
+1,80,Rain,Geosmin,Nature,53,Female,British,False,Neutral,High
+1,81,Lavender,"Linalool, Linalyl acetate",Relaxation,31,Male,Chinese,True,Neutral,High
+1,82,Citrus,"Limonene, Citral",Happiness,48,Female,American,False,Neutral,Medium
+1,83,Pine,Pinene,Calmness,65,Male,Chinese,False,Neutral,High
+1,84,Fresh Linen,Aldehydes,Cleanliness,32,Other,American,True,Stressed,High
+1,85,Peppermint,Menthol,Refreshment,25,Other,Indian,True,Sad,Low
+1,86,Vanilla,Vanillin,Comfort,31,Male,French,True,Neutral,High
+1,87,Rose,"Citronellol, Geraniol",Romance,40,Female,Indian,True,Calm,Low
+1,88,Eucalyptus,Eucalyptol,Healing,57,Female,Indian,False,Neutral,Medium
+1,89,Sandalwood,Santalol,Tranquility,38,Female,Chinese,False,Sad,Low
+1,90,Leather,Benzaldehyde,Luxury,33,Female,French,True,Neutral,Medium
+1,91,Coffee,"Caffeine, Niacin",Alertness,62,Other,American,True,Stressed,Medium
+1,92,Chocolate,Theobromine,Pleasure,35,Other,American,True,Energized,Medium
+1,93,Burnt Wood,Guaiacol,Nostalgia,64,Other,British,False,Energized,Medium
+1,94,Cinnamon,Cinnamaldehyde,Warmth,41,Other,American,True,Sad,Medium
+1,95,Apple,Amyl acetate,Freshness,43,Other,Chinese,False,Energized,Low
+1,96,Strawberry,Methyl anthranilate,Joy,42,Female,Indian,True,Energized,Medium
+1,97,Smoky,Creosol,Mystery,62,Female,Indian,True,Calm,High
+1,98,Floral,Phenyl ethyl alcohol,Delight,58,Female,Indian,True,Sad,High
+1,99,Ocean Breeze,Dimethyl sulfide,Freedom,46,Female,French,False,Sad,Medium
+1,100,Rain,Geosmin,Nature,32,Other,American,False,Energized,High
+1,101,Lavender,"Linalool, Linalyl acetate",Relaxation,62,Other,Chinese,False,Energized,Low
+1,102,Citrus,"Limonene, Citral",Happiness,18,Other,French,True,Energized,Low
+1,103,Pine,Pinene,Calmness,42,Male,British,False,Stressed,Medium
+1,104,Fresh Linen,Aldehydes,Cleanliness,24,Female,Chinese,False,Neutral,Medium
+1,105,Peppermint,Menthol,Refreshment,26,Female,Chinese,True,Stressed,Medium
+1,106,Vanilla,Vanillin,Comfort,41,Other,Chinese,True,Sad,High
+1,107,Rose,"Citronellol, Geraniol",Romance,18,Female,Indian,False,Calm,High
+1,108,Eucalyptus,Eucalyptol,Healing,61,Female,Chinese,False,Neutral,Low
+1,109,Sandalwood,Santalol,Tranquility,25,Other,American,False,Calm,High
+1,110,Leather,Benzaldehyde,Luxury,41,Male,Chinese,False,Sad,Low
+1,111,Coffee,"Caffeine, Niacin",Alertness,28,Male,Indian,True,Sad,High
+1,112,Chocolate,Theobromine,Pleasure,68,Male,Chinese,True,Calm,Low
+1,113,Burnt Wood,Guaiacol,Nostalgia,34,Other,British,True,Calm,Medium
+1,114,Cinnamon,Cinnamaldehyde,Warmth,25,Female,British,False,Calm,High
+1,115,Apple,Amyl acetate,Freshness,52,Other,Indian,False,Sad,Low
+1,116,Strawberry,Methyl anthranilate,Joy,52,Other,American,True,Energized,High
+1,117,Smoky,Creosol,Mystery,50,Female,American,True,Calm,Medium
+1,118,Floral,Phenyl ethyl alcohol,Delight,22,Male,French,False,Neutral,Low
+1,119,Ocean Breeze,Dimethyl sulfide,Freedom,59,Male,Indian,False,Sad,High
+1,120,Rain,Geosmin,Nature,56,Other,Chinese,True,Stressed,High
+1,121,Lavender,"Linalool, Linalyl acetate",Relaxation,58,Male,Indian,True,Stressed,Medium
+1,122,Citrus,"Limonene, Citral",Happiness,45,Other,French,True,Neutral,Medium
+1,123,Pine,Pinene,Calmness,24,Other,Indian,False,Energized,Low
+1,124,Fresh Linen,Aldehydes,Cleanliness,26,Female,Indian,False,Calm,High
+1,125,Peppermint,Menthol,Refreshment,25,Female,French,False,Sad,High
+1,126,Vanilla,Vanillin,Comfort,29,Female,American,False,Calm,Medium
+1,127,Rose,"Citronellol, Geraniol",Romance,51,Other,Chinese,False,Sad,Medium
+1,128,Eucalyptus,Eucalyptol,Healing,50,Female,French,False,Stressed,Low
+1,129,Sandalwood,Santalol,Tranquility,65,Male,British,True,Calm,High
+1,130,Leather,Benzaldehyde,Luxury,40,Male,American,True,Neutral,High
+1,131,Coffee,"Caffeine, Niacin",Alertness,41,Other,British,False,Energized,Low
+1,132,Chocolate,Theobromine,Pleasure,54,Other,American,True,Neutral,Low
+1,133,Burnt Wood,Guaiacol,Nostalgia,52,Female,Chinese,False,Energized,Medium
+1,134,Cinnamon,Cinnamaldehyde,Warmth,61,Other,Chinese,True,Calm,Medium
+1,135,Apple,Amyl acetate,Freshness,57,Other,Indian,False,Calm,Low
+1,136,Strawberry,Methyl anthranilate,Joy,39,Male,British,True,Energized,Low
+1,137,Smoky,Creosol,Mystery,44,Male,American,True,Stressed,High
+1,138,Floral,Phenyl ethyl alcohol,Delight,52,Female,Chinese,False,Sad,Low
+1,139,Ocean Breeze,Dimethyl sulfide,Freedom,18,Other,French,False,Neutral,Low
+1,140,Rain,Geosmin,Nature,52,Other,Chinese,True,Neutral,High
+1,141,Lavender,"Linalool, Linalyl acetate",Relaxation,54,Male,French,True,Neutral,Low
+1,142,Citrus,"Limonene, Citral",Happiness,64,Other,American,False,Calm,Medium
+1,143,Pine,Pinene,Calmness,31,Male,Chinese,True,Neutral,Medium
+1,144,Fresh Linen,Aldehydes,Cleanliness,20,Female,Chinese,False,Sad,High
+1,145,Peppermint,Menthol,Refreshment,18,Male,American,False,Sad,Low
+1,146,Vanilla,Vanillin,Comfort,22,Other,Chinese,True,Energized,Medium
+1,147,Rose,"Citronellol, Geraniol",Romance,43,Female,French,False,Calm,Medium
+1,148,Eucalyptus,Eucalyptol,Healing,31,Male,Chinese,True,Sad,Medium
+1,149,Sandalwood,Santalol,Tranquility,56,Male,British,True,Stressed,Medium
+1,150,Leather,Benzaldehyde,Luxury,44,Female,Indian,False,Calm,Low
+1,151,Coffee,"Caffeine, Niacin",Alertness,26,Female,French,True,Calm,Low
+1,152,Chocolate,Theobromine,Pleasure,32,Male,British,False,Sad,Low
+1,153,Burnt Wood,Guaiacol,Nostalgia,32,Other,American,False,Stressed,Low
+1,154,Cinnamon,Cinnamaldehyde,Warmth,43,Male,French,False,Energized,Medium
+1,155,Apple,Amyl acetate,Freshness,59,Female,Indian,True,Sad,High
+1,156,Strawberry,Methyl anthranilate,Joy,30,Male,Indian,False,Stressed,High
+1,157,Smoky,Creosol,Mystery,68,Female,American,True,Calm,Medium
+1,158,Floral,Phenyl ethyl alcohol,Delight,49,Female,American,False,Stressed,Medium
+1,159,Ocean Breeze,Dimethyl sulfide,Freedom,56,Other,French,False,Calm,High
+1,160,Rain,Geosmin,Nature,66,Female,Chinese,False,Sad,High
+1,161,Lavender,"Linalool, Linalyl acetate",Relaxation,69,Female,American,True,Sad,Medium
+1,162,Citrus,"Limonene, Citral",Happiness,49,Other,Chinese,True,Neutral,Medium
+1,163,Pine,Pinene,Calmness,21,Female,British,False,Neutral,Low
+1,164,Fresh Linen,Aldehydes,Cleanliness,47,Other,Indian,False,Neutral,Low
+1,165,Peppermint,Menthol,Refreshment,54,Other,Chinese,True,Sad,High
+1,166,Vanilla,Vanillin,Comfort,40,Female,Indian,True,Energized,Medium
+1,167,Rose,"Citronellol, Geraniol",Romance,56,Female,Chinese,True,Sad,High
+1,168,Eucalyptus,Eucalyptol,Healing,62,Male,British,False,Stressed,Low
+1,169,Sandalwood,Santalol,Tranquility,32,Other,American,True,Sad,Low
+1,170,Leather,Benzaldehyde,Luxury,60,Male,British,False,Sad,High
+1,171,Coffee,"Caffeine, Niacin",Alertness,46,Female,American,True,Calm,Low
+1,172,Chocolate,Theobromine,Pleasure,53,Male,American,False,Calm,Medium
+1,173,Burnt Wood,Guaiacol,Nostalgia,30,Other,Indian,False,Calm,High
+1,174,Cinnamon,Cinnamaldehyde,Warmth,49,Male,British,False,Sad,Medium
+1,175,Apple,Amyl acetate,Freshness,24,Other,Chinese,True,Energized,Medium
+1,176,Strawberry,Methyl anthranilate,Joy,68,Female,British,True,Stressed,Low
+1,177,Smoky,Creosol,Mystery,39,Female,Indian,True,Stressed,Medium
+1,178,Floral,Phenyl ethyl alcohol,Delight,45,Other,American,False,Energized,High
+1,179,Ocean Breeze,Dimethyl sulfide,Freedom,19,Female,Indian,False,Energized,Medium
+1,180,Rain,Geosmin,Nature,59,Female,French,True,Stressed,Medium
+1,181,Lavender,"Linalool, Linalyl acetate",Relaxation,62,Female,French,False,Neutral,Medium
+1,182,Citrus,"Limonene, Citral",Happiness,23,Female,Chinese,False,Calm,Medium
+1,183,Pine,Pinene,Calmness,45,Other,Indian,False,Calm,Medium
+1,184,Fresh Linen,Aldehydes,Cleanliness,45,Male,Chinese,True,Stressed,Low
+1,185,Peppermint,Menthol,Refreshment,61,Male,Chinese,False,Energized,High
+1,186,Vanilla,Vanillin,Comfort,61,Female,French,True,Neutral,Low
+1,187,Rose,"Citronellol, Geraniol",Romance,37,Male,Chinese,True,Stressed,High
+1,188,Eucalyptus,Eucalyptol,Healing,47,Male,French,True,Calm,High
+1,189,Sandalwood,Santalol,Tranquility,28,Female,American,True,Sad,High
+1,190,Leather,Benzaldehyde,Luxury,45,Female,Indian,True,Energized,High
+1,191,Coffee,"Caffeine, Niacin",Alertness,42,Male,Chinese,False,Sad,High
+1,192,Chocolate,Theobromine,Pleasure,56,Other,French,True,Stressed,Medium
+1,193,Burnt Wood,Guaiacol,Nostalgia,50,Female,British,True,Calm,Low
+1,194,Cinnamon,Cinnamaldehyde,Warmth,18,Other,Chinese,True,Neutral,Low
+1,195,Apple,Amyl acetate,Freshness,44,Male,American,False,Sad,Medium
+1,196,Strawberry,Methyl anthranilate,Joy,69,Female,American,False,Neutral,High
+1,197,Smoky,Creosol,Mystery,30,Other,British,False,Calm,Low
+1,198,Floral,Phenyl ethyl alcohol,Delight,58,Female,French,False,Sad,Medium
+1,199,Ocean Breeze,Dimethyl sulfide,Freedom,20,Male,Chinese,True,Neutral,Medium
+1,200,Rain,Geosmin,Nature,56,Other,French,True,Neutral,Low
+2,1,Lavender,"Linalool, Linalyl acetate",Relaxation,23,Male,American,False,Sad,Low
+2,2,Citrus,"Limonene, Citral",Happiness,25,Male,French,False,Calm,High
+2,3,Pine,Pinene,Calmness,44,Female,American,False,Neutral,High
+2,4,Fresh Linen,Aldehydes,Cleanliness,26,Other,French,False,Stressed,Low
+2,5,Peppermint,Menthol,Refreshment,54,Male,British,True,Sad,High
+2,6,Vanilla,Vanillin,Comfort,50,Male,Indian,False,Energized,Medium
+2,7,Rose,"Citronellol, Geraniol",Romance,68,Other,British,False,Energized,High
+2,8,Eucalyptus,Eucalyptol,Healing,59,Male,British,False,Calm,High
+2,9,Sandalwood,Santalol,Tranquility,61,Male,Indian,False,Stressed,Medium
+2,10,Leather,Benzaldehyde,Luxury,41,Other,Indian,False,Neutral,High
+2,11,Coffee,"Caffeine, Niacin",Alertness,32,Other,Chinese,False,Energized,Medium
+2,12,Chocolate,Theobromine,Pleasure,49,Other,Chinese,False,Calm,High
+2,13,Burnt Wood,Guaiacol,Nostalgia,49,Other,British,True,Stressed,Low
+2,14,Cinnamon,Cinnamaldehyde,Warmth,41,Female,British,True,Stressed,High
+2,15,Apple,Amyl acetate,Freshness,58,Other,American,True,Calm,Low
+2,16,Strawberry,Methyl anthranilate,Joy,69,Female,American,True,Calm,Low
+2,17,Smoky,Creosol,Mystery,66,Female,Chinese,True,Neutral,Low
+2,18,Floral,Phenyl ethyl alcohol,Delight,66,Female,Chinese,True,Calm,Low
+2,19,Ocean Breeze,Dimethyl sulfide,Freedom,69,Male,American,False,Neutral,Low
+2,20,Rain,Geosmin,Nature,29,Female,American,False,Neutral,Medium
+2,21,Lavender,"Linalool, Linalyl acetate",Relaxation,56,Female,French,True,Sad,Medium
+2,22,Citrus,"Limonene, Citral",Happiness,19,Male,French,False,Stressed,Medium
+2,23,Pine,Pinene,Calmness,20,Male,American,True,Stressed,Low
+2,24,Fresh Linen,Aldehydes,Cleanliness,66,Male,French,False,Stressed,High
+2,25,Peppermint,Menthol,Refreshment,54,Other,Indian,False,Sad,Medium
+2,26,Vanilla,Vanillin,Comfort,66,Male,Chinese,False,Neutral,High
+2,27,Rose,"Citronellol, Geraniol",Romance,34,Male,Chinese,False,Neutral,High
+2,28,Eucalyptus,Eucalyptol,Healing,66,Female,American,False,Calm,Low
+2,29,Sandalwood,Santalol,Tranquility,19,Male,British,False,Sad,Low
+2,30,Leather,Benzaldehyde,Luxury,19,Other,American,True,Calm,Low
+2,31,Coffee,"Caffeine, Niacin",Alertness,45,Male,French,True,Sad,Medium
+2,32,Chocolate,Theobromine,Pleasure,40,Other,British,False,Calm,Low
+2,33,Burnt Wood,Guaiacol,Nostalgia,54,Male,French,True,Energized,Medium
+2,34,Cinnamon,Cinnamaldehyde,Warmth,49,Male,Indian,False,Stressed,Medium
+2,35,Apple,Amyl acetate,Freshness,50,Male,French,True,Stressed,Medium
+2,36,Strawberry,Methyl anthranilate,Joy,18,Male,Indian,False,Neutral,Medium
+2,37,Smoky,Creosol,Mystery,36,Other,Indian,True,Energized,Low
+2,38,Floral,Phenyl ethyl alcohol,Delight,19,Other,French,False,Stressed,Medium
+2,39,Ocean Breeze,Dimethyl sulfide,Freedom,61,Female,French,True,Neutral,Low
+2,40,Rain,Geosmin,Nature,43,Other,Indian,False,Energized,Low
+2,41,Lavender,"Linalool, Linalyl acetate",Relaxation,49,Male,British,True,Stressed,Medium
+2,42,Citrus,"Limonene, Citral",Happiness,23,Female,Indian,False,Calm,Low
+2,43,Pine,Pinene,Calmness,49,Female,Chinese,False,Sad,High
+2,44,Fresh Linen,Aldehydes,Cleanliness,21,Female,Indian,False,Energized,Low
+2,45,Peppermint,Menthol,Refreshment,28,Male,British,True,Neutral,Low
+2,46,Vanilla,Vanillin,Comfort,34,Other,Chinese,True,Energized,Medium
+2,47,Rose,"Citronellol, Geraniol",Romance,55,Male,American,True,Neutral,Medium
+2,48,Eucalyptus,Eucalyptol,Healing,41,Female,American,False,Energized,Low
+2,49,Sandalwood,Santalol,Tranquility,22,Male,British,True,Neutral,Medium
+2,50,Leather,Benzaldehyde,Luxury,69,Male,Indian,False,Stressed,High
+2,51,Coffee,"Caffeine, Niacin",Alertness,51,Other,French,True,Calm,High
+2,52,Chocolate,Theobromine,Pleasure,23,Other,British,True,Stressed,Medium
+2,53,Burnt Wood,Guaiacol,Nostalgia,39,Female,Chinese,True,Calm,Low
+2,54,Cinnamon,Cinnamaldehyde,Warmth,28,Male,Chinese,True,Stressed,High
+2,55,Apple,Amyl acetate,Freshness,65,Male,American,False,Stressed,High
+2,56,Strawberry,Methyl anthranilate,Joy,33,Other,Chinese,True,Energized,Low
+2,57,Smoky,Creosol,Mystery,50,Male,British,True,Sad,Medium
+2,58,Floral,Phenyl ethyl alcohol,Delight,26,Male,Chinese,False,Neutral,High
+2,59,Ocean Breeze,Dimethyl sulfide,Freedom,23,Male,British,False,Neutral,Low
+2,60,Rain,Geosmin,Nature,33,Other,French,True,Neutral,Low
+2,61,Lavender,"Linalool, Linalyl acetate",Relaxation,46,Female,American,True,Calm,High
+2,62,Citrus,"Limonene, Citral",Happiness,20,Female,Chinese,False,Neutral,Medium
+2,63,Pine,Pinene,Calmness,37,Male,British,False,Neutral,High
+2,64,Fresh Linen,Aldehydes,Cleanliness,53,Female,Indian,False,Energized,Low
+2,65,Peppermint,Menthol,Refreshment,36,Other,American,True,Stressed,High
+2,66,Vanilla,Vanillin,Comfort,43,Other,French,True,Neutral,Medium
+2,67,Rose,"Citronellol, Geraniol",Romance,20,Female,British,True,Sad,Low
+2,68,Eucalyptus,Eucalyptol,Healing,36,Female,French,False,Neutral,Medium
+2,69,Sandalwood,Santalol,Tranquility,37,Male,French,False,Calm,High
+2,70,Leather,Benzaldehyde,Luxury,49,Female,Chinese,False,Calm,High
+2,71,Coffee,"Caffeine, Niacin",Alertness,24,Male,Chinese,True,Calm,Medium
+2,72,Chocolate,Theobromine,Pleasure,69,Male,British,False,Neutral,High
+2,73,Burnt Wood,Guaiacol,Nostalgia,58,Other,Indian,True,Energized,Medium
+2,74,Cinnamon,Cinnamaldehyde,Warmth,50,Other,British,False,Sad,High
+2,75,Apple,Amyl acetate,Freshness,57,Other,Indian,True,Neutral,Medium
+2,76,Strawberry,Methyl anthranilate,Joy,56,Other,French,True,Energized,Medium
+2,77,Smoky,Creosol,Mystery,35,Female,American,False,Energized,Low
+2,78,Floral,Phenyl ethyl alcohol,Delight,57,Other,British,True,Neutral,Low
+2,79,Ocean Breeze,Dimethyl sulfide,Freedom,18,Female,British,False,Neutral,Medium
+2,80,Rain,Geosmin,Nature,28,Other,Indian,True,Energized,High
+2,81,Lavender,"Linalool, Linalyl acetate",Relaxation,45,Female,French,False,Energized,High
+2,82,Citrus,"Limonene, Citral",Happiness,42,Male,French,False,Energized,High
+2,83,Pine,Pinene,Calmness,67,Female,Indian,True,Neutral,Medium
+2,84,Fresh Linen,Aldehydes,Cleanliness,40,Female,French,False,Energized,Medium
+2,85,Peppermint,Menthol,Refreshment,48,Other,Chinese,True,Calm,Medium
+2,86,Vanilla,Vanillin,Comfort,47,Female,American,False,Neutral,Medium
+2,87,Rose,"Citronellol, Geraniol",Romance,59,Male,British,False,Calm,Low
+2,88,Eucalyptus,Eucalyptol,Healing,52,Male,American,False,Stressed,Medium
+2,89,Sandalwood,Santalol,Tranquility,24,Other,British,False,Neutral,High
+2,90,Leather,Benzaldehyde,Luxury,33,Male,Chinese,True,Stressed,Low
+2,91,Coffee,"Caffeine, Niacin",Alertness,43,Female,French,False,Energized,High
+2,92,Chocolate,Theobromine,Pleasure,65,Male,Indian,False,Energized,Medium
+2,93,Burnt Wood,Guaiacol,Nostalgia,69,Other,Chinese,True,Sad,Low
+2,94,Cinnamon,Cinnamaldehyde,Warmth,66,Female,American,True,Energized,Medium
+2,95,Apple,Amyl acetate,Freshness,19,Other,Indian,True,Stressed,Low
+2,96,Strawberry,Methyl anthranilate,Joy,18,Female,French,True,Energized,High
+2,97,Smoky,Creosol,Mystery,65,Male,Chinese,True,Neutral,Medium
+2,98,Floral,Phenyl ethyl alcohol,Delight,29,Other,Indian,True,Energized,Medium
+2,99,Ocean Breeze,Dimethyl sulfide,Freedom,22,Other,Chinese,False,Sad,Low
+2,100,Rain,Geosmin,Nature,54,Female,Chinese,True,Energized,Low
+2,101,Lavender,"Linalool, Linalyl acetate",Relaxation,49,Other,French,False,Stressed,Medium
+2,102,Citrus,"Limonene, Citral",Happiness,26,Female,British,True,Stressed,Low
+2,103,Pine,Pinene,Calmness,58,Female,Indian,False,Energized,Medium
+2,104,Fresh Linen,Aldehydes,Cleanliness,52,Female,French,False,Stressed,Low
+2,105,Peppermint,Menthol,Refreshment,36,Female,Chinese,False,Stressed,High
+2,106,Vanilla,Vanillin,Comfort,65,Male,French,True,Sad,Low
+2,107,Rose,"Citronellol, Geraniol",Romance,33,Female,British,True,Neutral,High
+2,108,Eucalyptus,Eucalyptol,Healing,20,Other,Indian,True,Sad,Low
+2,109,Sandalwood,Santalol,Tranquility,37,Male,British,True,Calm,Low
+2,110,Leather,Benzaldehyde,Luxury,41,Other,American,False,Sad,Medium
+2,111,Coffee,"Caffeine, Niacin",Alertness,50,Male,Indian,True,Energized,Low
+2,112,Chocolate,Theobromine,Pleasure,41,Female,British,False,Neutral,Low
+2,113,Burnt Wood,Guaiacol,Nostalgia,69,Male,Chinese,False,Energized,High
+2,114,Cinnamon,Cinnamaldehyde,Warmth,28,Male,Indian,True,Calm,Low
+2,115,Apple,Amyl acetate,Freshness,66,Other,Indian,True,Neutral,Medium
+2,116,Strawberry,Methyl anthranilate,Joy,25,Other,French,True,Stressed,High
+2,117,Smoky,Creosol,Mystery,53,Female,Chinese,False,Sad,Medium
+2,118,Floral,Phenyl ethyl alcohol,Delight,55,Male,American,True,Energized,Medium
+2,119,Ocean Breeze,Dimethyl sulfide,Freedom,57,Male,British,False,Calm,Medium
+2,120,Rain,Geosmin,Nature,37,Male,French,True,Stressed,Medium
+2,121,Lavender,"Linalool, Linalyl acetate",Relaxation,52,Female,British,False,Sad,High
+2,122,Citrus,"Limonene, Citral",Happiness,65,Female,American,True,Stressed,Low
+2,123,Pine,Pinene,Calmness,42,Female,American,True,Sad,Medium
+2,124,Fresh Linen,Aldehydes,Cleanliness,52,Female,Indian,False,Neutral,High
+2,125,Peppermint,Menthol,Refreshment,42,Female,American,True,Stressed,Medium
+2,126,Vanilla,Vanillin,Comfort,46,Other,British,True,Stressed,Low
+2,127,Rose,"Citronellol, Geraniol",Romance,35,Male,Chinese,True,Stressed,High
+2,128,Eucalyptus,Eucalyptol,Healing,63,Male,Chinese,True,Neutral,High
+2,129,Sandalwood,Santalol,Tranquility,35,Male,Indian,True,Calm,Low
+2,130,Leather,Benzaldehyde,Luxury,19,Male,British,True,Sad,High
+2,131,Coffee,"Caffeine, Niacin",Alertness,52,Male,British,True,Stressed,Low
+2,132,Chocolate,Theobromine,Pleasure,33,Male,American,False,Neutral,High
+2,133,Burnt Wood,Guaiacol,Nostalgia,58,Male,British,False,Calm,High
+2,134,Cinnamon,Cinnamaldehyde,Warmth,53,Male,French,True,Sad,Low
+2,135,Apple,Amyl acetate,Freshness,50,Other,American,True,Neutral,Low
+2,136,Strawberry,Methyl anthranilate,Joy,21,Male,French,True,Sad,High
+2,137,Smoky,Creosol,Mystery,50,Other,Indian,False,Stressed,High
+2,138,Floral,Phenyl ethyl alcohol,Delight,31,Female,Chinese,False,Calm,Low
+2,139,Ocean Breeze,Dimethyl sulfide,Freedom,38,Male,Indian,True,Neutral,Low
+2,140,Rain,Geosmin,Nature,65,Female,Chinese,False,Calm,High
+2,141,Lavender,"Linalool, Linalyl acetate",Relaxation,37,Female,Indian,True,Stressed,High
+2,142,Citrus,"Limonene, Citral",Happiness,25,Female,British,True,Calm,High
+2,143,Pine,Pinene,Calmness,24,Other,French,True,Calm,Low
+2,144,Fresh Linen,Aldehydes,Cleanliness,20,Female,Chinese,True,Energized,High
+2,145,Peppermint,Menthol,Refreshment,34,Female,American,False,Calm,Medium
+2,146,Vanilla,Vanillin,Comfort,50,Female,French,False,Sad,Low
+2,147,Rose,"Citronellol, Geraniol",Romance,65,Male,American,True,Neutral,High
+2,148,Eucalyptus,Eucalyptol,Healing,29,Male,French,False,Energized,Low
+2,149,Sandalwood,Santalol,Tranquility,68,Other,French,False,Neutral,Medium
+2,150,Leather,Benzaldehyde,Luxury,39,Other,Indian,True,Neutral,Low
+2,151,Coffee,"Caffeine, Niacin",Alertness,39,Male,Chinese,False,Stressed,High
+2,152,Chocolate,Theobromine,Pleasure,63,Other,Chinese,True,Stressed,Medium
+2,153,Burnt Wood,Guaiacol,Nostalgia,47,Male,French,True,Energized,Medium
+2,154,Cinnamon,Cinnamaldehyde,Warmth,55,Female,British,True,Stressed,High
+2,155,Apple,Amyl acetate,Freshness,55,Female,British,True,Stressed,High
+2,156,Strawberry,Methyl anthranilate,Joy,62,Other,American,False,Stressed,High
+2,157,Smoky,Creosol,Mystery,68,Male,American,True,Neutral,Low
+2,158,Floral,Phenyl ethyl alcohol,Delight,25,Male,Indian,False,Energized,Low
+2,159,Ocean Breeze,Dimethyl sulfide,Freedom,44,Other,French,True,Neutral,Low
+2,160,Rain,Geosmin,Nature,44,Male,American,True,Sad,High
+2,161,Lavender,"Linalool, Linalyl acetate",Relaxation,51,Female,American,False,Neutral,High
+2,162,Citrus,"Limonene, Citral",Happiness,38,Other,French,True,Sad,Low
+2,163,Pine,Pinene,Calmness,47,Other,Indian,False,Calm,Medium
+2,164,Fresh Linen,Aldehydes,Cleanliness,50,Male,American,False,Calm,Low
+2,165,Peppermint,Menthol,Refreshment,45,Other,Indian,True,Sad,Medium
+2,166,Vanilla,Vanillin,Comfort,64,Male,Chinese,True,Sad,High
+2,167,Rose,"Citronellol, Geraniol",Romance,50,Male,Indian,True,Neutral,High
+2,168,Eucalyptus,Eucalyptol,Healing,22,Male,British,True,Sad,Low
+2,169,Sandalwood,Santalol,Tranquility,65,Male,British,True,Energized,Low
+2,170,Leather,Benzaldehyde,Luxury,36,Male,Indian,True,Calm,High
+2,171,Coffee,"Caffeine, Niacin",Alertness,21,Other,British,False,Calm,Low
+2,172,Chocolate,Theobromine,Pleasure,52,Female,Chinese,False,Sad,High
+2,173,Burnt Wood,Guaiacol,Nostalgia,66,Female,French,True,Stressed,High
+2,174,Cinnamon,Cinnamaldehyde,Warmth,34,Other,British,False,Stressed,Medium
+2,175,Apple,Amyl acetate,Freshness,61,Other,British,False,Sad,Low
+2,176,Strawberry,Methyl anthranilate,Joy,45,Female,Indian,True,Energized,High
+2,177,Smoky,Creosol,Mystery,47,Female,Chinese,True,Stressed,Low
+2,178,Floral,Phenyl ethyl alcohol,Delight,46,Female,French,False,Sad,Medium
+2,179,Ocean Breeze,Dimethyl sulfide,Freedom,63,Female,Indian,True,Energized,Medium
+2,180,Rain,Geosmin,Nature,23,Female,Indian,False,Energized,Low
+2,181,Lavender,"Linalool, Linalyl acetate",Relaxation,52,Male,Chinese,True,Neutral,Low
+2,182,Citrus,"Limonene, Citral",Happiness,58,Other,French,False,Energized,High
+2,183,Pine,Pinene,Calmness,54,Male,Chinese,False,Stressed,Medium
+2,184,Fresh Linen,Aldehydes,Cleanliness,41,Female,French,False,Stressed,Medium
+2,185,Peppermint,Menthol,Refreshment,46,Female,Chinese,False,Sad,Medium
+2,186,Vanilla,Vanillin,Comfort,66,Female,Indian,True,Sad,Low
+2,187,Rose,"Citronellol, Geraniol",Romance,63,Male,Indian,True,Energized,High
+2,188,Eucalyptus,Eucalyptol,Healing,48,Male,American,False,Calm,Low
+2,189,Sandalwood,Santalol,Tranquility,52,Female,British,False,Neutral,Low
+2,190,Leather,Benzaldehyde,Luxury,50,Male,Chinese,True,Calm,Low
+2,191,Coffee,"Caffeine, Niacin",Alertness,69,Male,American,True,Energized,High
+2,192,Chocolate,Theobromine,Pleasure,38,Female,British,False,Energized,Low
+2,193,Burnt Wood,Guaiacol,Nostalgia,49,Male,Chinese,False,Calm,Medium
+2,194,Cinnamon,Cinnamaldehyde,Warmth,40,Other,French,False,Neutral,Medium
+2,195,Apple,Amyl acetate,Freshness,50,Other,British,False,Calm,Medium
+2,196,Strawberry,Methyl anthranilate,Joy,20,Other,Indian,False,Sad,High
+2,197,Smoky,Creosol,Mystery,35,Other,American,True,Stressed,Low
+2,198,Floral,Phenyl ethyl alcohol,Delight,42,Female,British,False,Sad,High
+2,199,Ocean Breeze,Dimethyl sulfide,Freedom,59,Female,British,True,Stressed,Low
+2,200,Rain,Geosmin,Nature,48,Female,Indian,True,Energized,Medium
+3,1,Lavender,"Linalool, Linalyl acetate",Relaxation,20,Other,Chinese,True,Neutral,Low
+3,2,Citrus,"Limonene, Citral",Happiness,57,Other,French,False,Calm,Low
+3,3,Pine,Pinene,Calmness,63,Male,Indian,True,Neutral,Low
+3,4,Fresh Linen,Aldehydes,Cleanliness,41,Male,French,True,Calm,High
+3,5,Peppermint,Menthol,Refreshment,67,Other,Chinese,True,Sad,Low
+3,6,Vanilla,Vanillin,Comfort,49,Other,British,True,Sad,Low
+3,7,Rose,"Citronellol, Geraniol",Romance,64,Other,French,False,Calm,Low
+3,8,Eucalyptus,Eucalyptol,Healing,39,Other,American,False,Neutral,High
+3,9,Sandalwood,Santalol,Tranquility,40,Male,American,True,Calm,High
+3,10,Leather,Benzaldehyde,Luxury,19,Other,Indian,True,Energized,High
+3,11,Coffee,"Caffeine, Niacin",Alertness,44,Male,Chinese,False,Sad,Low
+3,12,Chocolate,Theobromine,Pleasure,59,Other,Indian,False,Energized,Medium
+3,13,Burnt Wood,Guaiacol,Nostalgia,19,Other,Indian,False,Sad,Medium
+3,14,Cinnamon,Cinnamaldehyde,Warmth,43,Other,Indian,True,Sad,Medium
+3,15,Apple,Amyl acetate,Freshness,34,Male,American,False,Stressed,Low
+3,16,Strawberry,Methyl anthranilate,Joy,57,Male,American,True,Energized,Medium
+3,17,Smoky,Creosol,Mystery,50,Female,Indian,True,Energized,Medium
+3,18,Floral,Phenyl ethyl alcohol,Delight,26,Other,American,False,Stressed,Medium
+3,19,Ocean Breeze,Dimethyl sulfide,Freedom,60,Female,Chinese,True,Neutral,Low
+3,20,Rain,Geosmin,Nature,65,Female,Indian,False,Energized,Medium
+3,21,Lavender,"Linalool, Linalyl acetate",Relaxation,56,Male,American,True,Calm,Medium
+3,22,Citrus,"Limonene, Citral",Happiness,46,Male,French,False,Stressed,Low
+3,23,Pine,Pinene,Calmness,59,Female,Indian,True,Energized,High
+3,24,Fresh Linen,Aldehydes,Cleanliness,43,Other,Indian,True,Neutral,Medium
+3,25,Peppermint,Menthol,Refreshment,52,Male,Chinese,False,Energized,High
+3,26,Vanilla,Vanillin,Comfort,67,Other,British,False,Sad,Medium
+3,27,Rose,"Citronellol, Geraniol",Romance,42,Other,British,False,Calm,Low
+3,28,Eucalyptus,Eucalyptol,Healing,41,Female,Chinese,False,Stressed,High
+3,29,Sandalwood,Santalol,Tranquility,30,Female,Chinese,True,Sad,High
+3,30,Leather,Benzaldehyde,Luxury,24,Female,Chinese,False,Neutral,High
+3,31,Coffee,"Caffeine, Niacin",Alertness,53,Female,British,False,Sad,High
+3,32,Chocolate,Theobromine,Pleasure,62,Male,Chinese,True,Sad,Medium
+3,33,Burnt Wood,Guaiacol,Nostalgia,37,Male,American,False,Neutral,Medium
+3,34,Cinnamon,Cinnamaldehyde,Warmth,18,Female,Indian,False,Sad,High
+3,35,Apple,Amyl acetate,Freshness,25,Male,Indian,True,Stressed,Medium
+3,36,Strawberry,Methyl anthranilate,Joy,63,Female,French,False,Energized,High
+3,37,Smoky,Creosol,Mystery,33,Other,French,False,Sad,High
+3,38,Floral,Phenyl ethyl alcohol,Delight,31,Other,Indian,False,Stressed,Low
+3,39,Ocean Breeze,Dimethyl sulfide,Freedom,29,Other,American,False,Energized,High
+3,40,Rain,Geosmin,Nature,68,Female,British,False,Energized,Medium
+3,41,Lavender,"Linalool, Linalyl acetate",Relaxation,40,Other,British,False,Sad,High
+3,42,Citrus,"Limonene, Citral",Happiness,32,Male,American,True,Stressed,Low
+3,43,Pine,Pinene,Calmness,45,Other,British,False,Sad,Medium
+3,44,Fresh Linen,Aldehydes,Cleanliness,51,Other,Chinese,True,Neutral,Low
+3,45,Peppermint,Menthol,Refreshment,19,Other,Indian,True,Energized,Low
+3,46,Vanilla,Vanillin,Comfort,49,Male,Indian,True,Sad,High
+3,47,Rose,"Citronellol, Geraniol",Romance,40,Female,American,True,Energized,Low
+3,48,Eucalyptus,Eucalyptol,Healing,39,Male,British,False,Stressed,Low
+3,49,Sandalwood,Santalol,Tranquility,68,Female,French,False,Calm,Medium
+3,50,Leather,Benzaldehyde,Luxury,42,Female,French,False,Sad,Low
+3,51,Coffee,"Caffeine, Niacin",Alertness,39,Other,British,True,Sad,High
+3,52,Chocolate,Theobromine,Pleasure,39,Female,French,False,Energized,High
+3,53,Burnt Wood,Guaiacol,Nostalgia,66,Male,American,False,Stressed,High
+3,54,Cinnamon,Cinnamaldehyde,Warmth,69,Male,American,False,Neutral,Low
+3,55,Apple,Amyl acetate,Freshness,59,Female,British,True,Stressed,Medium
+3,56,Strawberry,Methyl anthranilate,Joy,23,Other,French,True,Sad,High
+3,57,Smoky,Creosol,Mystery,32,Other,American,False,Neutral,Low
+3,58,Floral,Phenyl ethyl alcohol,Delight,60,Male,American,True,Stressed,High
+3,59,Ocean Breeze,Dimethyl sulfide,Freedom,54,Other,Chinese,True,Calm,High
+3,60,Rain,Geosmin,Nature,50,Female,Chinese,False,Energized,Medium
+3,61,Lavender,"Linalool, Linalyl acetate",Relaxation,25,Female,American,True,Stressed,High
+3,62,Citrus,"Limonene, Citral",Happiness,61,Male,British,True,Stressed,Medium
+3,63,Pine,Pinene,Calmness,61,Female,Indian,False,Calm,Low
+3,64,Fresh Linen,Aldehydes,Cleanliness,22,Male,Indian,True,Sad,High
+3,65,Peppermint,Menthol,Refreshment,56,Female,American,True,Energized,Low
+3,66,Vanilla,Vanillin,Comfort,21,Male,American,True,Stressed,Low
+3,67,Rose,"Citronellol, Geraniol",Romance,23,Other,American,True,Neutral,Low
+3,68,Eucalyptus,Eucalyptol,Healing,62,Female,British,True,Stressed,High
+3,69,Sandalwood,Santalol,Tranquility,49,Female,Chinese,True,Energized,Medium
+3,70,Leather,Benzaldehyde,Luxury,69,Male,American,True,Stressed,High
+3,71,Coffee,"Caffeine, Niacin",Alertness,47,Male,American,True,Calm,Low
+3,72,Chocolate,Theobromine,Pleasure,64,Female,French,False,Stressed,Medium
+3,73,Burnt Wood,Guaiacol,Nostalgia,52,Male,British,False,Stressed,Low
+3,74,Cinnamon,Cinnamaldehyde,Warmth,57,Female,American,False,Neutral,Medium
+3,75,Apple,Amyl acetate,Freshness,69,Other,French,False,Calm,High
+3,76,Strawberry,Methyl anthranilate,Joy,33,Male,Indian,True,Calm,Medium
+3,77,Smoky,Creosol,Mystery,30,Female,American,False,Stressed,High
+3,78,Floral,Phenyl ethyl alcohol,Delight,67,Other,American,False,Neutral,Low
+3,79,Ocean Breeze,Dimethyl sulfide,Freedom,59,Other,French,True,Stressed,Medium
+3,80,Rain,Geosmin,Nature,47,Female,British,True,Stressed,Low
+3,81,Lavender,"Linalool, Linalyl acetate",Relaxation,36,Male,American,True,Energized,Medium
+3,82,Citrus,"Limonene, Citral",Happiness,34,Female,Indian,True,Energized,High
+3,83,Pine,Pinene,Calmness,36,Other,American,True,Neutral,Medium
+3,84,Fresh Linen,Aldehydes,Cleanliness,45,Female,Indian,False,Sad,Medium
+3,85,Peppermint,Menthol,Refreshment,43,Male,Chinese,True,Energized,High
+3,86,Vanilla,Vanillin,Comfort,54,Other,Chinese,False,Sad,High
+3,87,Rose,"Citronellol, Geraniol",Romance,43,Female,Indian,False,Calm,High
+3,88,Eucalyptus,Eucalyptol,Healing,40,Male,British,True,Energized,Medium
+3,89,Sandalwood,Santalol,Tranquility,26,Other,American,False,Energized,Low
+3,90,Leather,Benzaldehyde,Luxury,29,Male,American,False,Neutral,Medium
+3,91,Coffee,"Caffeine, Niacin",Alertness,18,Other,Chinese,True,Sad,Medium
+3,92,Chocolate,Theobromine,Pleasure,18,Female,Indian,False,Energized,Low
+3,93,Burnt Wood,Guaiacol,Nostalgia,64,Male,American,False,Energized,High
+3,94,Cinnamon,Cinnamaldehyde,Warmth,51,Other,American,False,Neutral,Medium
+3,95,Apple,Amyl acetate,Freshness,49,Male,British,True,Neutral,Low
+3,96,Strawberry,Methyl anthranilate,Joy,65,Male,French,True,Sad,High
+3,97,Smoky,Creosol,Mystery,42,Female,Chinese,True,Calm,High
+3,98,Floral,Phenyl ethyl alcohol,Delight,57,Male,Chinese,False,Calm,Medium
+3,99,Ocean Breeze,Dimethyl sulfide,Freedom,62,Other,French,True,Stressed,High
+3,100,Rain,Geosmin,Nature,18,Other,American,False,Energized,High
+3,101,Lavender,"Linalool, Linalyl acetate",Relaxation,33,Other,British,True,Sad,Low
+3,102,Citrus,"Limonene, Citral",Happiness,56,Other,British,False,Energized,Low
+3,103,Pine,Pinene,Calmness,22,Female,Chinese,True,Sad,High
+3,104,Fresh Linen,Aldehydes,Cleanliness,39,Male,British,True,Sad,Low
+3,105,Peppermint,Menthol,Refreshment,46,Female,French,False,Sad,High
+3,106,Vanilla,Vanillin,Comfort,20,Male,American,True,Energized,Medium
+3,107,Rose,"Citronellol, Geraniol",Romance,29,Male,French,False,Neutral,Low
+3,108,Eucalyptus,Eucalyptol,Healing,43,Male,Indian,True,Energized,High
+3,109,Sandalwood,Santalol,Tranquility,33,Female,Chinese,True,Sad,High
+3,110,Leather,Benzaldehyde,Luxury,68,Male,British,False,Stressed,Low
+3,111,Coffee,"Caffeine, Niacin",Alertness,54,Female,Indian,False,Calm,Low
+3,112,Chocolate,Theobromine,Pleasure,39,Other,British,False,Sad,Medium
+3,113,Burnt Wood,Guaiacol,Nostalgia,46,Other,American,True,Stressed,High
+3,114,Cinnamon,Cinnamaldehyde,Warmth,31,Male,American,False,Neutral,Medium
+3,115,Apple,Amyl acetate,Freshness,45,Female,American,True,Sad,Medium
+3,116,Strawberry,Methyl anthranilate,Joy,22,Other,British,False,Stressed,Medium
+3,117,Smoky,Creosol,Mystery,64,Female,Indian,False,Sad,Low
+3,118,Floral,Phenyl ethyl alcohol,Delight,66,Female,American,False,Energized,Medium
+3,119,Ocean Breeze,Dimethyl sulfide,Freedom,47,Male,Indian,False,Stressed,Low
+3,120,Rain,Geosmin,Nature,63,Other,British,False,Energized,Low
+3,121,Lavender,"Linalool, Linalyl acetate",Relaxation,69,Male,Indian,False,Energized,Medium
+3,122,Citrus,"Limonene, Citral",Happiness,22,Male,British,True,Stressed,Medium
+3,123,Pine,Pinene,Calmness,29,Other,British,False,Calm,High
+3,124,Fresh Linen,Aldehydes,Cleanliness,33,Other,Chinese,True,Stressed,Medium
+3,125,Peppermint,Menthol,Refreshment,43,Female,British,False,Calm,High
+3,126,Vanilla,Vanillin,Comfort,43,Other,British,False,Sad,Medium
+3,127,Rose,"Citronellol, Geraniol",Romance,65,Female,French,False,Sad,Medium
+3,128,Eucalyptus,Eucalyptol,Healing,38,Female,American,True,Stressed,Medium
+3,129,Sandalwood,Santalol,Tranquility,56,Female,Chinese,True,Sad,Medium
+3,130,Leather,Benzaldehyde,Luxury,53,Other,Chinese,False,Neutral,High
+3,131,Coffee,"Caffeine, Niacin",Alertness,50,Male,Chinese,True,Energized,High
+3,132,Chocolate,Theobromine,Pleasure,47,Female,French,False,Energized,Medium
+3,133,Burnt Wood,Guaiacol,Nostalgia,54,Male,British,False,Calm,Medium
+3,134,Cinnamon,Cinnamaldehyde,Warmth,40,Male,American,True,Sad,High
+3,135,Apple,Amyl acetate,Freshness,27,Other,Indian,True,Calm,Low
+3,136,Strawberry,Methyl anthranilate,Joy,22,Male,British,True,Energized,Low
+3,137,Smoky,Creosol,Mystery,53,Male,French,True,Energized,Low
+3,138,Floral,Phenyl ethyl alcohol,Delight,51,Other,British,False,Sad,High
+3,139,Ocean Breeze,Dimethyl sulfide,Freedom,69,Female,British,True,Neutral,High
+3,140,Rain,Geosmin,Nature,48,Male,French,True,Neutral,Low
+3,141,Lavender,"Linalool, Linalyl acetate",Relaxation,27,Other,Chinese,False,Sad,Low
+3,142,Citrus,"Limonene, Citral",Happiness,36,Male,Chinese,True,Sad,Medium
+3,143,Pine,Pinene,Calmness,49,Male,American,True,Calm,High
+3,144,Fresh Linen,Aldehydes,Cleanliness,18,Female,American,True,Sad,High
+3,145,Peppermint,Menthol,Refreshment,22,Male,Chinese,True,Neutral,Low
+3,146,Vanilla,Vanillin,Comfort,62,Other,Indian,False,Sad,Low
+3,147,Rose,"Citronellol, Geraniol",Romance,21,Male,British,False,Calm,High
+3,148,Eucalyptus,Eucalyptol,Healing,33,Female,Indian,True,Calm,Medium
+3,149,Sandalwood,Santalol,Tranquility,41,Female,British,True,Calm,Low
+3,150,Leather,Benzaldehyde,Luxury,33,Other,Chinese,False,Calm,High
+3,151,Coffee,"Caffeine, Niacin",Alertness,19,Female,American,True,Stressed,High
+3,152,Chocolate,Theobromine,Pleasure,66,Male,American,True,Sad,Medium
+3,153,Burnt Wood,Guaiacol,Nostalgia,45,Female,Indian,True,Energized,Medium
+3,154,Cinnamon,Cinnamaldehyde,Warmth,49,Other,American,True,Sad,Low
+3,155,Apple,Amyl acetate,Freshness,44,Female,Chinese,True,Stressed,Low
+3,156,Strawberry,Methyl anthranilate,Joy,37,Female,Indian,True,Calm,Low
+3,157,Smoky,Creosol,Mystery,41,Female,British,True,Stressed,High
+3,158,Floral,Phenyl ethyl alcohol,Delight,29,Other,American,True,Neutral,Low
+3,159,Ocean Breeze,Dimethyl sulfide,Freedom,67,Female,French,True,Neutral,High
+3,160,Rain,Geosmin,Nature,52,Female,American,False,Sad,Low
+3,161,Lavender,"Linalool, Linalyl acetate",Relaxation,50,Male,British,False,Sad,Medium
+3,162,Citrus,"Limonene, Citral",Happiness,50,Other,Indian,False,Energized,Medium
+3,163,Pine,Pinene,Calmness,68,Female,British,True,Energized,High
+3,164,Fresh Linen,Aldehydes,Cleanliness,60,Other,French,True,Neutral,Medium
+3,165,Peppermint,Menthol,Refreshment,54,Female,Chinese,False,Calm,High
+3,166,Vanilla,Vanillin,Comfort,29,Female,American,True,Stressed,High
+3,167,Rose,"Citronellol, Geraniol",Romance,20,Female,Indian,False,Energized,Medium
+3,168,Eucalyptus,Eucalyptol,Healing,18,Male,Chinese,True,Energized,High
+3,169,Sandalwood,Santalol,Tranquility,50,Male,British,False,Calm,Medium
+3,170,Leather,Benzaldehyde,Luxury,57,Male,Indian,False,Calm,Low
+3,171,Coffee,"Caffeine, Niacin",Alertness,27,Other,Chinese,False,Sad,Low
+3,172,Chocolate,Theobromine,Pleasure,60,Other,Indian,True,Stressed,Medium
+3,173,Burnt Wood,Guaiacol,Nostalgia,61,Male,French,False,Calm,Medium
+3,174,Cinnamon,Cinnamaldehyde,Warmth,46,Other,French,True,Energized,Medium
+3,175,Apple,Amyl acetate,Freshness,30,Female,American,True,Energized,Medium
+3,176,Strawberry,Methyl anthranilate,Joy,29,Female,American,True,Neutral,Low
+3,177,Smoky,Creosol,Mystery,48,Female,French,True,Calm,High
+3,178,Floral,Phenyl ethyl alcohol,Delight,63,Male,Indian,True,Sad,High
+3,179,Ocean Breeze,Dimethyl sulfide,Freedom,19,Other,French,True,Stressed,Low
+3,180,Rain,Geosmin,Nature,68,Male,American,True,Sad,High
+3,181,Lavender,"Linalool, Linalyl acetate",Relaxation,67,Other,French,False,Energized,Low
+3,182,Citrus,"Limonene, Citral",Happiness,52,Female,French,False,Sad,High
+3,183,Pine,Pinene,Calmness,40,Male,Indian,False,Energized,Medium
+3,184,Fresh Linen,Aldehydes,Cleanliness,34,Other,Chinese,True,Energized,Medium
+3,185,Peppermint,Menthol,Refreshment,43,Other,American,True,Energized,Medium
+3,186,Vanilla,Vanillin,Comfort,25,Female,Indian,True,Energized,Low
+3,187,Rose,"Citronellol, Geraniol",Romance,46,Male,French,True,Energized,Low
+3,188,Eucalyptus,Eucalyptol,Healing,43,Male,French,False,Neutral,High
+3,189,Sandalwood,Santalol,Tranquility,27,Male,Chinese,True,Sad,High
+3,190,Leather,Benzaldehyde,Luxury,43,Female,American,False,Neutral,High
+3,191,Coffee,"Caffeine, Niacin",Alertness,51,Male,American,True,Neutral,Low
+3,192,Chocolate,Theobromine,Pleasure,68,Female,British,False,Calm,High
+3,193,Burnt Wood,Guaiacol,Nostalgia,58,Female,American,True,Calm,Medium
+3,194,Cinnamon,Cinnamaldehyde,Warmth,24,Female,Chinese,False,Calm,High
+3,195,Apple,Amyl acetate,Freshness,21,Other,British,True,Stressed,Medium
+3,196,Strawberry,Methyl anthranilate,Joy,67,Male,British,False,Calm,Low
+3,197,Smoky,Creosol,Mystery,62,Male,French,True,Sad,Medium
+3,198,Floral,Phenyl ethyl alcohol,Delight,28,Female,French,False,Neutral,Medium
+3,199,Ocean Breeze,Dimethyl sulfide,Freedom,46,Female,American,False,Sad,Medium
+3,200,Rain,Geosmin,Nature,53,Male,British,True,Calm,Low
+4,1,Lavender,"Linalool, Linalyl acetate",Relaxation,42,Female,French,False,Stressed,Low
+4,2,Citrus,"Limonene, Citral",Happiness,38,Male,Chinese,True,Stressed,Low
+4,3,Pine,Pinene,Calmness,53,Other,French,True,Neutral,Low
+4,4,Fresh Linen,Aldehydes,Cleanliness,27,Female,French,True,Sad,High
+4,5,Peppermint,Menthol,Refreshment,54,Male,British,False,Energized,Low
+4,6,Vanilla,Vanillin,Comfort,26,Female,British,False,Sad,Medium
+4,7,Rose,"Citronellol, Geraniol",Romance,41,Male,Indian,True,Calm,Low
+4,8,Eucalyptus,Eucalyptol,Healing,52,Male,Chinese,True,Energized,High
+4,9,Sandalwood,Santalol,Tranquility,66,Female,British,False,Stressed,High
+4,10,Leather,Benzaldehyde,Luxury,52,Other,American,False,Neutral,High
+4,11,Coffee,"Caffeine, Niacin",Alertness,65,Male,Chinese,False,Neutral,Medium
+4,12,Chocolate,Theobromine,Pleasure,53,Male,Chinese,True,Stressed,Low
+4,13,Burnt Wood,Guaiacol,Nostalgia,35,Male,British,True,Calm,Low
+4,14,Cinnamon,Cinnamaldehyde,Warmth,66,Other,Chinese,True,Stressed,Low
+4,15,Apple,Amyl acetate,Freshness,56,Other,British,True,Calm,Medium
+4,16,Strawberry,Methyl anthranilate,Joy,49,Female,French,True,Energized,Medium
+4,17,Smoky,Creosol,Mystery,41,Other,Indian,False,Stressed,High
+4,18,Floral,Phenyl ethyl alcohol,Delight,40,Female,French,True,Calm,High
+4,19,Ocean Breeze,Dimethyl sulfide,Freedom,49,Female,British,False,Energized,Low
+4,20,Rain,Geosmin,Nature,54,Other,British,False,Stressed,Medium
+4,21,Lavender,"Linalool, Linalyl acetate",Relaxation,29,Female,French,True,Neutral,Medium
+4,22,Citrus,"Limonene, Citral",Happiness,66,Other,American,False,Stressed,Low
+4,23,Pine,Pinene,Calmness,30,Female,American,True,Sad,Low
+4,24,Fresh Linen,Aldehydes,Cleanliness,40,Other,American,False,Stressed,High
+4,25,Peppermint,Menthol,Refreshment,42,Other,British,True,Sad,High
+4,26,Vanilla,Vanillin,Comfort,52,Female,Chinese,True,Energized,High
+4,27,Rose,"Citronellol, Geraniol",Romance,58,Male,British,False,Stressed,Low
+4,28,Eucalyptus,Eucalyptol,Healing,47,Female,Chinese,True,Energized,Low
+4,29,Sandalwood,Santalol,Tranquility,34,Other,French,False,Energized,High
+4,30,Leather,Benzaldehyde,Luxury,66,Male,Indian,True,Calm,High
+4,31,Coffee,"Caffeine, Niacin",Alertness,37,Female,Chinese,True,Energized,Medium
+4,32,Chocolate,Theobromine,Pleasure,65,Female,American,True,Energized,Medium
+4,33,Burnt Wood,Guaiacol,Nostalgia,42,Female,British,False,Stressed,High
+4,34,Cinnamon,Cinnamaldehyde,Warmth,39,Male,French,False,Stressed,High
+4,35,Apple,Amyl acetate,Freshness,30,Other,American,True,Neutral,Medium
+4,36,Strawberry,Methyl anthranilate,Joy,36,Female,French,False,Calm,High
+4,37,Smoky,Creosol,Mystery,66,Female,Indian,True,Energized,Medium
+4,38,Floral,Phenyl ethyl alcohol,Delight,53,Female,British,False,Calm,Medium
+4,39,Ocean Breeze,Dimethyl sulfide,Freedom,29,Female,British,False,Sad,Medium
+4,40,Rain,Geosmin,Nature,58,Female,Indian,True,Energized,Low
+4,41,Lavender,"Linalool, Linalyl acetate",Relaxation,36,Other,British,True,Calm,Low
+4,42,Citrus,"Limonene, Citral",Happiness,29,Other,Chinese,True,Neutral,High
+4,43,Pine,Pinene,Calmness,26,Female,French,True,Neutral,Medium
+4,44,Fresh Linen,Aldehydes,Cleanliness,24,Male,American,True,Energized,Low
+4,45,Peppermint,Menthol,Refreshment,45,Other,Indian,False,Sad,High
+4,46,Vanilla,Vanillin,Comfort,31,Male,Chinese,False,Neutral,High
+4,47,Rose,"Citronellol, Geraniol",Romance,48,Other,American,True,Neutral,High
+4,48,Eucalyptus,Eucalyptol,Healing,69,Female,American,True,Sad,High
+4,49,Sandalwood,Santalol,Tranquility,36,Other,Indian,True,Calm,High
+4,50,Leather,Benzaldehyde,Luxury,64,Female,Chinese,False,Neutral,Medium
+4,51,Coffee,"Caffeine, Niacin",Alertness,33,Other,American,True,Stressed,High
+4,52,Chocolate,Theobromine,Pleasure,22,Female,American,True,Neutral,Medium
+4,53,Burnt Wood,Guaiacol,Nostalgia,52,Female,Chinese,False,Calm,Low
+4,54,Cinnamon,Cinnamaldehyde,Warmth,29,Female,British,False,Calm,High
+4,55,Apple,Amyl acetate,Freshness,42,Female,American,False,Energized,Low
+4,56,Strawberry,Methyl anthranilate,Joy,69,Male,French,False,Stressed,Medium
+4,57,Smoky,Creosol,Mystery,38,Female,Chinese,True,Calm,Medium
+4,58,Floral,Phenyl ethyl alcohol,Delight,53,Male,American,False,Sad,Low
+4,59,Ocean Breeze,Dimethyl sulfide,Freedom,40,Male,Indian,False,Stressed,High
+4,60,Rain,Geosmin,Nature,33,Female,French,True,Stressed,High
+4,61,Lavender,"Linalool, Linalyl acetate",Relaxation,56,Male,American,True,Sad,Low
+4,62,Citrus,"Limonene, Citral",Happiness,62,Other,French,True,Neutral,Low
+4,63,Pine,Pinene,Calmness,59,Female,French,False,Sad,Low
+4,64,Fresh Linen,Aldehydes,Cleanliness,56,Male,British,True,Sad,High
+4,65,Peppermint,Menthol,Refreshment,31,Female,French,False,Neutral,High
+4,66,Vanilla,Vanillin,Comfort,48,Female,British,False,Neutral,High
+4,67,Rose,"Citronellol, Geraniol",Romance,22,Female,Chinese,False,Neutral,Low
+4,68,Eucalyptus,Eucalyptol,Healing,52,Male,British,True,Neutral,High
+4,69,Sandalwood,Santalol,Tranquility,40,Other,Indian,False,Neutral,Medium
+4,70,Leather,Benzaldehyde,Luxury,46,Other,American,True,Sad,Low
+4,71,Coffee,"Caffeine, Niacin",Alertness,60,Male,Chinese,True,Energized,High
+4,72,Chocolate,Theobromine,Pleasure,28,Female,Chinese,True,Energized,Low
+4,73,Burnt Wood,Guaiacol,Nostalgia,35,Male,Indian,False,Calm,Medium
+4,74,Cinnamon,Cinnamaldehyde,Warmth,64,Male,British,False,Energized,Medium
+4,75,Apple,Amyl acetate,Freshness,29,Male,American,False,Energized,Low
+4,76,Strawberry,Methyl anthranilate,Joy,26,Female,British,True,Sad,Low
+4,77,Smoky,Creosol,Mystery,27,Male,French,False,Neutral,Medium
+4,78,Floral,Phenyl ethyl alcohol,Delight,61,Female,British,False,Neutral,Low
+4,79,Ocean Breeze,Dimethyl sulfide,Freedom,34,Male,Chinese,False,Sad,Medium
+4,80,Rain,Geosmin,Nature,55,Other,American,False,Energized,Medium
+4,81,Lavender,"Linalool, Linalyl acetate",Relaxation,24,Male,British,False,Sad,High
+4,82,Citrus,"Limonene, Citral",Happiness,63,Male,American,True,Calm,Low
+4,83,Pine,Pinene,Calmness,30,Other,American,True,Neutral,Low
+4,84,Fresh Linen,Aldehydes,Cleanliness,57,Female,French,True,Stressed,High
+4,85,Peppermint,Menthol,Refreshment,59,Female,French,True,Calm,Medium
+4,86,Vanilla,Vanillin,Comfort,26,Male,Chinese,False,Calm,Low
+4,87,Rose,"Citronellol, Geraniol",Romance,67,Other,Indian,True,Sad,High
+4,88,Eucalyptus,Eucalyptol,Healing,44,Female,American,False,Energized,High
+4,89,Sandalwood,Santalol,Tranquility,19,Male,Indian,True,Neutral,Low
+4,90,Leather,Benzaldehyde,Luxury,22,Other,Chinese,True,Stressed,High
+4,91,Coffee,"Caffeine, Niacin",Alertness,46,Female,American,True,Calm,Medium
+4,92,Chocolate,Theobromine,Pleasure,54,Female,American,False,Stressed,High
+4,93,Burnt Wood,Guaiacol,Nostalgia,55,Other,Indian,False,Energized,Medium
+4,94,Cinnamon,Cinnamaldehyde,Warmth,36,Other,British,True,Energized,Medium
+4,95,Apple,Amyl acetate,Freshness,25,Other,French,False,Stressed,Low
+4,96,Strawberry,Methyl anthranilate,Joy,65,Other,British,True,Neutral,High
+4,97,Smoky,Creosol,Mystery,62,Male,Indian,True,Energized,Medium
+4,98,Floral,Phenyl ethyl alcohol,Delight,18,Other,French,True,Stressed,Medium
+4,99,Ocean Breeze,Dimethyl sulfide,Freedom,39,Female,British,False,Calm,High
+4,100,Rain,Geosmin,Nature,69,Female,French,True,Stressed,Medium
+4,101,Lavender,"Linalool, Linalyl acetate",Relaxation,34,Male,American,True,Stressed,High
+4,102,Citrus,"Limonene, Citral",Happiness,24,Female,British,True,Sad,Low
+4,103,Pine,Pinene,Calmness,42,Female,French,False,Energized,Medium
+4,104,Fresh Linen,Aldehydes,Cleanliness,62,Other,French,True,Neutral,Medium
+4,105,Peppermint,Menthol,Refreshment,21,Female,French,False,Neutral,High
+4,106,Vanilla,Vanillin,Comfort,53,Male,British,True,Sad,High
+4,107,Rose,"Citronellol, Geraniol",Romance,23,Other,Chinese,False,Neutral,High
+4,108,Eucalyptus,Eucalyptol,Healing,48,Other,British,True,Stressed,High
+4,109,Sandalwood,Santalol,Tranquility,36,Male,Indian,True,Sad,Medium
+4,110,Leather,Benzaldehyde,Luxury,61,Other,British,False,Calm,Low
+4,111,Coffee,"Caffeine, Niacin",Alertness,56,Other,French,False,Energized,Low
+4,112,Chocolate,Theobromine,Pleasure,44,Male,American,True,Energized,Low
+4,113,Burnt Wood,Guaiacol,Nostalgia,27,Other,British,False,Energized,Low
+4,114,Cinnamon,Cinnamaldehyde,Warmth,43,Male,British,True,Stressed,High
+4,115,Apple,Amyl acetate,Freshness,36,Male,French,True,Calm,Medium
+4,116,Strawberry,Methyl anthranilate,Joy,56,Female,American,True,Sad,Medium
+4,117,Smoky,Creosol,Mystery,20,Female,American,False,Sad,Medium
+4,118,Floral,Phenyl ethyl alcohol,Delight,62,Other,Indian,True,Energized,High
+4,119,Ocean Breeze,Dimethyl sulfide,Freedom,30,Other,British,False,Calm,Medium
+4,120,Rain,Geosmin,Nature,67,Male,American,True,Calm,High
+4,121,Lavender,"Linalool, Linalyl acetate",Relaxation,45,Other,American,False,Calm,Medium
+4,122,Citrus,"Limonene, Citral",Happiness,37,Male,Chinese,False,Neutral,Low
+4,123,Pine,Pinene,Calmness,45,Male,Chinese,True,Neutral,High
+4,124,Fresh Linen,Aldehydes,Cleanliness,25,Other,American,False,Energized,Medium
+4,125,Peppermint,Menthol,Refreshment,58,Male,Indian,True,Calm,Low
+4,126,Vanilla,Vanillin,Comfort,56,Female,American,True,Calm,Low
+4,127,Rose,"Citronellol, Geraniol",Romance,18,Other,French,True,Sad,Low
+4,128,Eucalyptus,Eucalyptol,Healing,20,Female,British,True,Sad,High
+4,129,Sandalwood,Santalol,Tranquility,30,Other,Indian,True,Energized,High
+4,130,Leather,Benzaldehyde,Luxury,45,Male,French,False,Calm,Medium
+4,131,Coffee,"Caffeine, Niacin",Alertness,66,Other,Indian,True,Energized,Low
+4,132,Chocolate,Theobromine,Pleasure,42,Female,French,False,Sad,Medium
+4,133,Burnt Wood,Guaiacol,Nostalgia,50,Male,British,False,Sad,Medium
+4,134,Cinnamon,Cinnamaldehyde,Warmth,55,Other,British,True,Neutral,Low
+4,135,Apple,Amyl acetate,Freshness,23,Other,Chinese,False,Energized,Medium
+4,136,Strawberry,Methyl anthranilate,Joy,61,Other,French,True,Energized,High
+4,137,Smoky,Creosol,Mystery,62,Female,Chinese,False,Calm,Medium
+4,138,Floral,Phenyl ethyl alcohol,Delight,49,Female,French,False,Calm,Low
+4,139,Ocean Breeze,Dimethyl sulfide,Freedom,62,Other,Chinese,False,Neutral,High
+4,140,Rain,Geosmin,Nature,64,Male,British,True,Stressed,High
+4,141,Lavender,"Linalool, Linalyl acetate",Relaxation,38,Male,Indian,False,Stressed,Medium
+4,142,Citrus,"Limonene, Citral",Happiness,33,Female,Chinese,True,Stressed,Medium
+4,143,Pine,Pinene,Calmness,38,Male,French,False,Energized,High
+4,144,Fresh Linen,Aldehydes,Cleanliness,28,Female,French,False,Energized,Medium
+4,145,Peppermint,Menthol,Refreshment,54,Other,British,False,Sad,Low
+4,146,Vanilla,Vanillin,Comfort,53,Female,French,False,Energized,Medium
+4,147,Rose,"Citronellol, Geraniol",Romance,52,Female,American,True,Energized,Medium
+4,148,Eucalyptus,Eucalyptol,Healing,36,Other,Indian,True,Energized,High
+4,149,Sandalwood,Santalol,Tranquility,37,Male,Chinese,False,Neutral,Medium
+4,150,Leather,Benzaldehyde,Luxury,35,Female,Indian,False,Energized,Medium
+4,151,Coffee,"Caffeine, Niacin",Alertness,64,Female,British,True,Calm,Medium
+4,152,Chocolate,Theobromine,Pleasure,58,Other,Chinese,True,Calm,Low
+4,153,Burnt Wood,Guaiacol,Nostalgia,66,Male,Chinese,True,Sad,Medium
+4,154,Cinnamon,Cinnamaldehyde,Warmth,31,Female,American,True,Neutral,Low
+4,155,Apple,Amyl acetate,Freshness,32,Other,British,False,Calm,Low
+4,156,Strawberry,Methyl anthranilate,Joy,48,Female,French,False,Neutral,Low
+4,157,Smoky,Creosol,Mystery,18,Other,American,True,Neutral,Low
+4,158,Floral,Phenyl ethyl alcohol,Delight,20,Male,American,True,Sad,High
+4,159,Ocean Breeze,Dimethyl sulfide,Freedom,33,Male,Indian,True,Neutral,Low
+4,160,Rain,Geosmin,Nature,40,Male,Indian,True,Energized,Medium
+4,161,Lavender,"Linalool, Linalyl acetate",Relaxation,28,Male,Indian,True,Neutral,Low
+4,162,Citrus,"Limonene, Citral",Happiness,29,Female,American,True,Sad,Medium
+4,163,Pine,Pinene,Calmness,27,Female,French,False,Sad,Low
+4,164,Fresh Linen,Aldehydes,Cleanliness,49,Male,Chinese,False,Sad,High
+4,165,Peppermint,Menthol,Refreshment,33,Male,Indian,False,Calm,Low
+4,166,Vanilla,Vanillin,Comfort,25,Male,French,True,Energized,Low
+4,167,Rose,"Citronellol, Geraniol",Romance,55,Female,British,True,Calm,High
+4,168,Eucalyptus,Eucalyptol,Healing,29,Male,Indian,True,Stressed,Low
+4,169,Sandalwood,Santalol,Tranquility,41,Male,Chinese,False,Energized,Medium
+4,170,Leather,Benzaldehyde,Luxury,45,Male,British,True,Neutral,Low
+4,171,Coffee,"Caffeine, Niacin",Alertness,25,Other,British,True,Sad,Low
+4,172,Chocolate,Theobromine,Pleasure,45,Male,Chinese,False,Stressed,Low
+4,173,Burnt Wood,Guaiacol,Nostalgia,53,Other,Indian,True,Energized,High
+4,174,Cinnamon,Cinnamaldehyde,Warmth,43,Other,American,False,Calm,Low
+4,175,Apple,Amyl acetate,Freshness,25,Male,Chinese,False,Sad,Low
+4,176,Strawberry,Methyl anthranilate,Joy,67,Other,Chinese,True,Calm,Medium
+4,177,Smoky,Creosol,Mystery,45,Male,Chinese,False,Energized,Low
+4,178,Floral,Phenyl ethyl alcohol,Delight,45,Female,British,True,Energized,Low
+4,179,Ocean Breeze,Dimethyl sulfide,Freedom,54,Female,French,False,Stressed,Low
+4,180,Rain,Geosmin,Nature,58,Female,American,True,Neutral,Low
+4,181,Lavender,"Linalool, Linalyl acetate",Relaxation,53,Female,Indian,False,Calm,Medium
+4,182,Citrus,"Limonene, Citral",Happiness,44,Other,Indian,True,Stressed,Medium
+4,183,Pine,Pinene,Calmness,34,Male,French,False,Sad,High
+4,184,Fresh Linen,Aldehydes,Cleanliness,26,Male,Chinese,False,Neutral,Low
+4,185,Peppermint,Menthol,Refreshment,50,Male,American,False,Stressed,High
+4,186,Vanilla,Vanillin,Comfort,37,Female,Indian,True,Calm,High
+4,187,Rose,"Citronellol, Geraniol",Romance,30,Female,Indian,True,Energized,Low
+4,188,Eucalyptus,Eucalyptol,Healing,45,Male,Chinese,False,Sad,Medium
+4,189,Sandalwood,Santalol,Tranquility,65,Female,French,True,Calm,Medium
+4,190,Leather,Benzaldehyde,Luxury,46,Male,American,False,Neutral,Low
+4,191,Coffee,"Caffeine, Niacin",Alertness,30,Male,French,True,Neutral,Low
+4,192,Chocolate,Theobromine,Pleasure,63,Male,French,False,Energized,Medium
+4,193,Burnt Wood,Guaiacol,Nostalgia,52,Male,American,True,Energized,Low
+4,194,Cinnamon,Cinnamaldehyde,Warmth,23,Male,American,False,Sad,Low
+4,195,Apple,Amyl acetate,Freshness,35,Male,Indian,False,Sad,Low
+4,196,Strawberry,Methyl anthranilate,Joy,68,Male,Indian,False,Energized,Medium
+4,197,Smoky,Creosol,Mystery,22,Female,American,False,Energized,High
+4,198,Floral,Phenyl ethyl alcohol,Delight,64,Male,British,True,Neutral,High
+4,199,Ocean Breeze,Dimethyl sulfide,Freedom,42,Male,Indian,False,Energized,Low
+4,200,Rain,Geosmin,Nature,19,Female,British,True,Stressed,Medium
+5,1,Lavender,"Linalool, Linalyl acetate",Relaxation,27,Female,American,True,Calm,Low
+5,2,Citrus,"Limonene, Citral",Happiness,47,Female,Indian,False,Energized,Medium
+5,3,Pine,Pinene,Calmness,67,Male,French,True,Sad,Low
+5,4,Fresh Linen,Aldehydes,Cleanliness,62,Other,American,True,Stressed,Medium
+5,5,Peppermint,Menthol,Refreshment,22,Other,Chinese,True,Sad,Medium
+5,6,Vanilla,Vanillin,Comfort,50,Female,British,False,Stressed,High
+5,7,Rose,"Citronellol, Geraniol",Romance,18,Other,American,True,Energized,Low
+5,8,Eucalyptus,Eucalyptol,Healing,35,Female,American,True,Calm,High
+5,9,Sandalwood,Santalol,Tranquility,49,Male,Indian,False,Sad,High
+5,10,Leather,Benzaldehyde,Luxury,64,Other,Indian,False,Stressed,Medium
+5,11,Coffee,"Caffeine, Niacin",Alertness,66,Male,Indian,True,Neutral,Low
+5,12,Chocolate,Theobromine,Pleasure,28,Other,Chinese,False,Energized,Medium
+5,13,Burnt Wood,Guaiacol,Nostalgia,38,Male,Indian,True,Calm,Medium
+5,14,Cinnamon,Cinnamaldehyde,Warmth,43,Other,American,True,Energized,Medium
+5,15,Apple,Amyl acetate,Freshness,42,Male,Indian,True,Neutral,Low
+5,16,Strawberry,Methyl anthranilate,Joy,39,Male,French,False,Calm,Low
+5,17,Smoky,Creosol,Mystery,44,Other,Indian,True,Neutral,Medium
+5,18,Floral,Phenyl ethyl alcohol,Delight,66,Male,Chinese,False,Energized,Low
+5,19,Ocean Breeze,Dimethyl sulfide,Freedom,30,Male,French,False,Stressed,Medium
+5,20,Rain,Geosmin,Nature,50,Male,American,True,Energized,Low
+5,21,Lavender,"Linalool, Linalyl acetate",Relaxation,51,Other,American,False,Energized,Low
+5,22,Citrus,"Limonene, Citral",Happiness,58,Other,British,False,Energized,High
+5,23,Pine,Pinene,Calmness,52,Male,French,False,Sad,Medium
+5,24,Fresh Linen,Aldehydes,Cleanliness,18,Male,British,False,Neutral,High
+5,25,Peppermint,Menthol,Refreshment,38,Other,French,False,Neutral,High
+5,26,Vanilla,Vanillin,Comfort,65,Other,French,True,Neutral,Medium
+5,27,Rose,"Citronellol, Geraniol",Romance,23,Male,Chinese,False,Sad,Medium
+5,28,Eucalyptus,Eucalyptol,Healing,45,Male,British,True,Stressed,Low
+5,29,Sandalwood,Santalol,Tranquility,34,Male,Chinese,True,Energized,Medium
+5,30,Leather,Benzaldehyde,Luxury,22,Female,French,True,Stressed,High
+5,31,Coffee,"Caffeine, Niacin",Alertness,48,Other,American,True,Sad,High
+5,32,Chocolate,Theobromine,Pleasure,22,Female,French,True,Neutral,Medium
+5,33,Burnt Wood,Guaiacol,Nostalgia,55,Other,Chinese,True,Energized,High
+5,34,Cinnamon,Cinnamaldehyde,Warmth,20,Other,British,False,Calm,Low
+5,35,Apple,Amyl acetate,Freshness,40,Other,British,False,Calm,High
+5,36,Strawberry,Methyl anthranilate,Joy,54,Other,Chinese,False,Stressed,Low
+5,37,Smoky,Creosol,Mystery,54,Other,British,True,Neutral,High
+5,38,Floral,Phenyl ethyl alcohol,Delight,27,Other,Indian,False,Calm,Low
+5,39,Ocean Breeze,Dimethyl sulfide,Freedom,27,Other,American,False,Stressed,Low
+5,40,Rain,Geosmin,Nature,36,Female,American,False,Sad,Medium
+5,41,Lavender,"Linalool, Linalyl acetate",Relaxation,34,Male,American,True,Stressed,Low
+5,42,Citrus,"Limonene, Citral",Happiness,38,Male,British,False,Stressed,Medium
+5,43,Pine,Pinene,Calmness,31,Female,British,True,Stressed,High
+5,44,Fresh Linen,Aldehydes,Cleanliness,26,Female,French,False,Energized,High
+5,45,Peppermint,Menthol,Refreshment,63,Female,French,True,Stressed,High
+5,46,Vanilla,Vanillin,Comfort,18,Female,American,True,Stressed,Low
+5,47,Rose,"Citronellol, Geraniol",Romance,68,Other,Indian,True,Energized,High
+5,48,Eucalyptus,Eucalyptol,Healing,62,Male,French,False,Energized,High
+5,49,Sandalwood,Santalol,Tranquility,30,Other,French,False,Sad,Medium
+5,50,Leather,Benzaldehyde,Luxury,21,Male,British,True,Neutral,Medium
+5,51,Coffee,"Caffeine, Niacin",Alertness,18,Male,Indian,False,Calm,High
+5,52,Chocolate,Theobromine,Pleasure,66,Female,American,True,Calm,High
+5,53,Burnt Wood,Guaiacol,Nostalgia,57,Other,French,True,Stressed,Low
+5,54,Cinnamon,Cinnamaldehyde,Warmth,49,Female,Indian,False,Sad,Low
+5,55,Apple,Amyl acetate,Freshness,51,Other,Indian,False,Stressed,High
+5,56,Strawberry,Methyl anthranilate,Joy,45,Male,American,False,Calm,Medium
+5,57,Smoky,Creosol,Mystery,48,Female,Indian,True,Energized,High
+5,58,Floral,Phenyl ethyl alcohol,Delight,25,Female,Indian,True,Neutral,Low
+5,59,Ocean Breeze,Dimethyl sulfide,Freedom,56,Male,Indian,False,Sad,Medium
+5,60,Rain,Geosmin,Nature,43,Male,French,True,Energized,Medium
+5,61,Lavender,"Linalool, Linalyl acetate",Relaxation,51,Male,American,False,Neutral,Low
+5,62,Citrus,"Limonene, Citral",Happiness,20,Female,Indian,True,Sad,High
+5,63,Pine,Pinene,Calmness,67,Other,Indian,False,Sad,High
+5,64,Fresh Linen,Aldehydes,Cleanliness,29,Female,French,False,Calm,High
+5,65,Peppermint,Menthol,Refreshment,18,Other,American,True,Energized,Low
+5,66,Vanilla,Vanillin,Comfort,61,Female,British,False,Sad,Medium
+5,67,Rose,"Citronellol, Geraniol",Romance,22,Female,French,False,Sad,Low
+5,68,Eucalyptus,Eucalyptol,Healing,47,Male,American,True,Neutral,High
+5,69,Sandalwood,Santalol,Tranquility,47,Other,Indian,False,Calm,Low
+5,70,Leather,Benzaldehyde,Luxury,34,Female,American,True,Stressed,Medium
+5,71,Coffee,"Caffeine, Niacin",Alertness,65,Female,American,False,Calm,Low
+5,72,Chocolate,Theobromine,Pleasure,64,Male,American,True,Stressed,High
+5,73,Burnt Wood,Guaiacol,Nostalgia,40,Male,British,False,Energized,Medium
+5,74,Cinnamon,Cinnamaldehyde,Warmth,32,Other,American,False,Energized,Low
+5,75,Apple,Amyl acetate,Freshness,54,Female,British,False,Sad,Low
+5,76,Strawberry,Methyl anthranilate,Joy,38,Other,Indian,False,Energized,Medium
+5,77,Smoky,Creosol,Mystery,31,Female,British,True,Sad,Medium
+5,78,Floral,Phenyl ethyl alcohol,Delight,19,Other,Indian,True,Calm,High
+5,79,Ocean Breeze,Dimethyl sulfide,Freedom,28,Male,Indian,True,Energized,Medium
+5,80,Rain,Geosmin,Nature,68,Female,British,True,Calm,High
+5,81,Lavender,"Linalool, Linalyl acetate",Relaxation,56,Other,French,True,Calm,Low
+5,82,Citrus,"Limonene, Citral",Happiness,55,Male,Chinese,True,Energized,High
+5,83,Pine,Pinene,Calmness,51,Male,American,True,Calm,Low
+5,84,Fresh Linen,Aldehydes,Cleanliness,55,Other,Chinese,False,Energized,Medium
+5,85,Peppermint,Menthol,Refreshment,67,Female,American,False,Energized,Low
+5,86,Vanilla,Vanillin,Comfort,51,Female,American,False,Energized,Medium
+5,87,Rose,"Citronellol, Geraniol",Romance,35,Male,Indian,False,Stressed,Low
+5,88,Eucalyptus,Eucalyptol,Healing,47,Female,American,True,Calm,Low
+5,89,Sandalwood,Santalol,Tranquility,32,Female,American,True,Neutral,Low
+5,90,Leather,Benzaldehyde,Luxury,44,Female,British,True,Energized,Low
+5,91,Coffee,"Caffeine, Niacin",Alertness,68,Male,Chinese,False,Calm,High
+5,92,Chocolate,Theobromine,Pleasure,51,Other,British,True,Sad,Low
+5,93,Burnt Wood,Guaiacol,Nostalgia,69,Female,American,False,Energized,High
+5,94,Cinnamon,Cinnamaldehyde,Warmth,55,Male,Indian,True,Energized,Medium
+5,95,Apple,Amyl acetate,Freshness,50,Male,British,True,Neutral,Medium
+5,96,Strawberry,Methyl anthranilate,Joy,41,Other,British,True,Stressed,High
+5,97,Smoky,Creosol,Mystery,32,Female,French,True,Stressed,Medium
+5,98,Floral,Phenyl ethyl alcohol,Delight,47,Female,American,False,Energized,Medium
+5,99,Ocean Breeze,Dimethyl sulfide,Freedom,59,Other,Indian,False,Calm,Low
+5,100,Rain,Geosmin,Nature,68,Other,British,True,Sad,Low
+5,101,Lavender,"Linalool, Linalyl acetate",Relaxation,34,Male,British,False,Sad,Low
+5,102,Citrus,"Limonene, Citral",Happiness,22,Male,Indian,True,Calm,High
+5,103,Pine,Pinene,Calmness,46,Other,American,True,Energized,High
+5,104,Fresh Linen,Aldehydes,Cleanliness,21,Female,French,True,Sad,Medium
+5,105,Peppermint,Menthol,Refreshment,27,Male,British,True,Stressed,Low
+5,106,Vanilla,Vanillin,Comfort,34,Male,French,False,Calm,High
+5,107,Rose,"Citronellol, Geraniol",Romance,27,Female,Chinese,True,Neutral,High
+5,108,Eucalyptus,Eucalyptol,Healing,34,Male,American,True,Energized,Low
+5,109,Sandalwood,Santalol,Tranquility,37,Female,Chinese,False,Calm,High
+5,110,Leather,Benzaldehyde,Luxury,41,Female,Chinese,True,Sad,Low
+5,111,Coffee,"Caffeine, Niacin",Alertness,22,Female,Chinese,False,Energized,Medium
+5,112,Chocolate,Theobromine,Pleasure,51,Other,American,True,Stressed,Medium
+5,113,Burnt Wood,Guaiacol,Nostalgia,23,Other,American,True,Energized,Medium
+5,114,Cinnamon,Cinnamaldehyde,Warmth,19,Other,Indian,True,Energized,Low
+5,115,Apple,Amyl acetate,Freshness,30,Female,French,True,Stressed,High
+5,116,Strawberry,Methyl anthranilate,Joy,60,Female,French,True,Stressed,Medium
+5,117,Smoky,Creosol,Mystery,60,Other,Indian,True,Energized,Medium
+5,118,Floral,Phenyl ethyl alcohol,Delight,65,Male,Indian,False,Stressed,Medium
+5,119,Ocean Breeze,Dimethyl sulfide,Freedom,28,Female,Chinese,True,Calm,High
+5,120,Rain,Geosmin,Nature,68,Male,Indian,False,Stressed,High
+5,121,Lavender,"Linalool, Linalyl acetate",Relaxation,64,Male,British,False,Stressed,Low
+5,122,Citrus,"Limonene, Citral",Happiness,40,Female,French,True,Energized,Medium
+5,123,Pine,Pinene,Calmness,33,Female,Indian,False,Calm,High
+5,124,Fresh Linen,Aldehydes,Cleanliness,48,Male,British,True,Neutral,Low
+5,125,Peppermint,Menthol,Refreshment,28,Male,British,False,Neutral,Medium
+5,126,Vanilla,Vanillin,Comfort,33,Other,British,True,Sad,High
+5,127,Rose,"Citronellol, Geraniol",Romance,25,Other,British,False,Stressed,High
+5,128,Eucalyptus,Eucalyptol,Healing,21,Female,Chinese,False,Stressed,Low
+5,129,Sandalwood,Santalol,Tranquility,57,Other,British,True,Calm,Medium
+5,130,Leather,Benzaldehyde,Luxury,21,Other,Chinese,False,Neutral,Medium
+5,131,Coffee,"Caffeine, Niacin",Alertness,42,Other,Chinese,True,Sad,High
+5,132,Chocolate,Theobromine,Pleasure,20,Other,British,True,Calm,Medium
+5,133,Burnt Wood,Guaiacol,Nostalgia,49,Male,French,True,Stressed,Low
+5,134,Cinnamon,Cinnamaldehyde,Warmth,20,Female,British,True,Neutral,High
+5,135,Apple,Amyl acetate,Freshness,44,Other,British,True,Sad,High
+5,136,Strawberry,Methyl anthranilate,Joy,46,Male,British,False,Energized,Low
+5,137,Smoky,Creosol,Mystery,49,Male,French,False,Neutral,High
+5,138,Floral,Phenyl ethyl alcohol,Delight,67,Male,American,False,Sad,Medium
+5,139,Ocean Breeze,Dimethyl sulfide,Freedom,68,Other,American,True,Calm,Medium
+5,140,Rain,Geosmin,Nature,36,Other,Chinese,False,Energized,High
+5,141,Lavender,"Linalool, Linalyl acetate",Relaxation,38,Female,Chinese,False,Sad,Low
+5,142,Citrus,"Limonene, Citral",Happiness,22,Other,French,False,Sad,Low
+5,143,Pine,Pinene,Calmness,35,Other,Indian,False,Stressed,Medium
+5,144,Fresh Linen,Aldehydes,Cleanliness,45,Male,American,False,Neutral,Low
+5,145,Peppermint,Menthol,Refreshment,59,Female,Chinese,True,Stressed,High
+5,146,Vanilla,Vanillin,Comfort,39,Other,American,True,Energized,High
+5,147,Rose,"Citronellol, Geraniol",Romance,38,Other,French,False,Sad,Medium
+5,148,Eucalyptus,Eucalyptol,Healing,23,Male,French,True,Stressed,Medium
+5,149,Sandalwood,Santalol,Tranquility,18,Male,Indian,True,Neutral,Medium
+5,150,Leather,Benzaldehyde,Luxury,22,Other,Indian,False,Energized,Low
+5,151,Coffee,"Caffeine, Niacin",Alertness,58,Female,French,False,Calm,High
+5,152,Chocolate,Theobromine,Pleasure,29,Female,Chinese,True,Stressed,High
+5,153,Burnt Wood,Guaiacol,Nostalgia,43,Male,American,False,Energized,High
+5,154,Cinnamon,Cinnamaldehyde,Warmth,63,Male,British,True,Calm,Medium
+5,155,Apple,Amyl acetate,Freshness,51,Other,Indian,True,Stressed,High
+5,156,Strawberry,Methyl anthranilate,Joy,66,Male,British,False,Energized,Low
+5,157,Smoky,Creosol,Mystery,31,Other,Chinese,True,Energized,Low
+5,158,Floral,Phenyl ethyl alcohol,Delight,43,Female,Indian,True,Stressed,High
+5,159,Ocean Breeze,Dimethyl sulfide,Freedom,62,Female,British,True,Energized,Medium
+5,160,Rain,Geosmin,Nature,44,Other,Chinese,False,Sad,High
+5,161,Lavender,"Linalool, Linalyl acetate",Relaxation,26,Male,American,False,Stressed,Low
+5,162,Citrus,"Limonene, Citral",Happiness,43,Female,Chinese,False,Energized,Low
+5,163,Pine,Pinene,Calmness,64,Male,Indian,False,Calm,Low
+5,164,Fresh Linen,Aldehydes,Cleanliness,39,Female,French,True,Calm,High
+5,165,Peppermint,Menthol,Refreshment,64,Other,American,False,Sad,Low
+5,166,Vanilla,Vanillin,Comfort,47,Other,British,False,Stressed,Medium
+5,167,Rose,"Citronellol, Geraniol",Romance,60,Other,Indian,False,Energized,High
+5,168,Eucalyptus,Eucalyptol,Healing,65,Female,French,False,Energized,High
+5,169,Sandalwood,Santalol,Tranquility,34,Male,Chinese,True,Calm,Low
+5,170,Leather,Benzaldehyde,Luxury,43,Male,French,True,Sad,Low
+5,171,Coffee,"Caffeine, Niacin",Alertness,53,Male,Indian,True,Calm,Medium
+5,172,Chocolate,Theobromine,Pleasure,18,Female,Indian,False,Calm,High
+5,173,Burnt Wood,Guaiacol,Nostalgia,25,Female,French,False,Sad,Low
+5,174,Cinnamon,Cinnamaldehyde,Warmth,66,Female,Chinese,True,Stressed,Medium
+5,175,Apple,Amyl acetate,Freshness,52,Female,French,False,Energized,Low
+5,176,Strawberry,Methyl anthranilate,Joy,69,Female,Indian,False,Stressed,High
+5,177,Smoky,Creosol,Mystery,32,Male,Indian,True,Neutral,Low
+5,178,Floral,Phenyl ethyl alcohol,Delight,64,Female,British,True,Neutral,High
+5,179,Ocean Breeze,Dimethyl sulfide,Freedom,39,Female,British,False,Neutral,Low
+5,180,Rain,Geosmin,Nature,31,Male,American,False,Sad,High
+5,181,Lavender,"Linalool, Linalyl acetate",Relaxation,43,Female,Indian,False,Calm,Medium
+5,182,Citrus,"Limonene, Citral",Happiness,45,Male,British,True,Stressed,High
+5,183,Pine,Pinene,Calmness,40,Male,French,True,Energized,Medium
+5,184,Fresh Linen,Aldehydes,Cleanliness,31,Other,Chinese,True,Neutral,High
+5,185,Peppermint,Menthol,Refreshment,41,Other,French,True,Stressed,Medium
+5,186,Vanilla,Vanillin,Comfort,19,Other,Chinese,False,Neutral,Low
+5,187,Rose,"Citronellol, Geraniol",Romance,62,Other,British,True,Neutral,High
+5,188,Eucalyptus,Eucalyptol,Healing,43,Female,American,True,Energized,Low
+5,189,Sandalwood,Santalol,Tranquility,31,Other,French,False,Sad,Medium
+5,190,Leather,Benzaldehyde,Luxury,68,Male,French,False,Calm,High
+5,191,Coffee,"Caffeine, Niacin",Alertness,24,Female,French,False,Sad,High
+5,192,Chocolate,Theobromine,Pleasure,20,Other,Chinese,True,Stressed,Low
+5,193,Burnt Wood,Guaiacol,Nostalgia,64,Male,British,False,Sad,High
+5,194,Cinnamon,Cinnamaldehyde,Warmth,40,Female,French,False,Stressed,High
+5,195,Apple,Amyl acetate,Freshness,63,Female,French,True,Stressed,Low
+5,196,Strawberry,Methyl anthranilate,Joy,60,Other,American,True,Calm,High
+5,197,Smoky,Creosol,Mystery,64,Female,American,False,Energized,Low
+5,198,Floral,Phenyl ethyl alcohol,Delight,62,Male,British,True,Calm,Low
+5,199,Ocean Breeze,Dimethyl sulfide,Freedom,35,Female,British,False,Sad,Low
+5,200,Rain,Geosmin,Nature,55,Male,Indian,False,Stressed,Low
+6,1,Lavender,"Linalool, Linalyl acetate",Relaxation,52,Female,American,True,Neutral,Low
+6,2,Citrus,"Limonene, Citral",Happiness,68,Other,Indian,False,Neutral,Medium
+6,3,Pine,Pinene,Calmness,32,Male,Chinese,True,Stressed,Medium
+6,4,Fresh Linen,Aldehydes,Cleanliness,42,Female,Indian,True,Calm,Low
+6,5,Peppermint,Menthol,Refreshment,54,Female,French,True,Energized,Medium
+6,6,Vanilla,Vanillin,Comfort,45,Female,Indian,False,Calm,Medium
+6,7,Rose,"Citronellol, Geraniol",Romance,27,Male,British,True,Stressed,High
+6,8,Eucalyptus,Eucalyptol,Healing,56,Male,Chinese,True,Stressed,Low
+6,9,Sandalwood,Santalol,Tranquility,34,Male,French,False,Energized,Medium
+6,10,Leather,Benzaldehyde,Luxury,56,Other,Indian,False,Sad,High
+6,11,Coffee,"Caffeine, Niacin",Alertness,39,Other,Chinese,False,Sad,High
+6,12,Chocolate,Theobromine,Pleasure,43,Male,Chinese,False,Energized,Low
+6,13,Burnt Wood,Guaiacol,Nostalgia,61,Female,French,True,Sad,Low
+6,14,Cinnamon,Cinnamaldehyde,Warmth,42,Other,Indian,True,Neutral,High
+6,15,Apple,Amyl acetate,Freshness,34,Male,Chinese,True,Sad,Low
+6,16,Strawberry,Methyl anthranilate,Joy,30,Female,Chinese,False,Sad,Low
+6,17,Smoky,Creosol,Mystery,37,Other,American,False,Sad,High
+6,18,Floral,Phenyl ethyl alcohol,Delight,42,Female,Chinese,True,Neutral,High
+6,19,Ocean Breeze,Dimethyl sulfide,Freedom,21,Female,American,False,Sad,Low
+6,20,Rain,Geosmin,Nature,27,Female,Indian,False,Neutral,Medium
+6,21,Lavender,"Linalool, Linalyl acetate",Relaxation,20,Female,Indian,True,Energized,Low
+6,22,Citrus,"Limonene, Citral",Happiness,58,Other,Indian,True,Calm,Medium
+6,23,Pine,Pinene,Calmness,62,Other,British,False,Energized,High
+6,24,Fresh Linen,Aldehydes,Cleanliness,35,Other,Indian,False,Calm,Medium
+6,25,Peppermint,Menthol,Refreshment,64,Male,Chinese,False,Energized,High
+6,26,Vanilla,Vanillin,Comfort,53,Other,French,True,Calm,Low
+6,27,Rose,"Citronellol, Geraniol",Romance,64,Female,American,True,Calm,Low
+6,28,Eucalyptus,Eucalyptol,Healing,39,Other,British,True,Stressed,High
+6,29,Sandalwood,Santalol,Tranquility,51,Female,Indian,True,Calm,High
+6,30,Leather,Benzaldehyde,Luxury,64,Male,Indian,True,Calm,High
+6,31,Coffee,"Caffeine, Niacin",Alertness,25,Female,French,False,Stressed,Low
+6,32,Chocolate,Theobromine,Pleasure,57,Female,French,False,Sad,Low
+6,33,Burnt Wood,Guaiacol,Nostalgia,66,Female,British,False,Sad,Medium
+6,34,Cinnamon,Cinnamaldehyde,Warmth,61,Male,American,True,Stressed,High
+6,35,Apple,Amyl acetate,Freshness,36,Other,Indian,True,Neutral,Medium
+6,36,Strawberry,Methyl anthranilate,Joy,59,Other,British,True,Calm,Low
+6,37,Smoky,Creosol,Mystery,58,Male,Chinese,False,Calm,Medium
+6,38,Floral,Phenyl ethyl alcohol,Delight,54,Female,Chinese,True,Stressed,Medium
+6,39,Ocean Breeze,Dimethyl sulfide,Freedom,23,Other,British,True,Stressed,Low
+6,40,Rain,Geosmin,Nature,69,Male,Indian,False,Neutral,Low
+6,41,Lavender,"Linalool, Linalyl acetate",Relaxation,43,Other,British,True,Sad,High
+6,42,Citrus,"Limonene, Citral",Happiness,51,Male,Indian,False,Energized,Medium
+6,43,Pine,Pinene,Calmness,62,Female,French,True,Sad,Low
+6,44,Fresh Linen,Aldehydes,Cleanliness,23,Other,British,True,Calm,Low
+6,45,Peppermint,Menthol,Refreshment,54,Male,Indian,False,Stressed,Medium
+6,46,Vanilla,Vanillin,Comfort,50,Other,British,False,Neutral,Low
+6,47,Rose,"Citronellol, Geraniol",Romance,39,Other,British,False,Sad,High
+6,48,Eucalyptus,Eucalyptol,Healing,38,Other,Indian,False,Neutral,High
+6,49,Sandalwood,Santalol,Tranquility,23,Other,Indian,False,Sad,Medium
+6,50,Leather,Benzaldehyde,Luxury,23,Male,American,False,Calm,High
+6,51,Coffee,"Caffeine, Niacin",Alertness,65,Female,British,True,Energized,Low
+6,52,Chocolate,Theobromine,Pleasure,21,Male,Chinese,True,Neutral,Low
+6,53,Burnt Wood,Guaiacol,Nostalgia,47,Male,British,False,Neutral,Low
+6,54,Cinnamon,Cinnamaldehyde,Warmth,28,Male,British,True,Energized,Low
+6,55,Apple,Amyl acetate,Freshness,47,Female,Indian,False,Neutral,Medium
+6,56,Strawberry,Methyl anthranilate,Joy,48,Other,British,True,Neutral,High
+6,57,Smoky,Creosol,Mystery,41,Other,British,False,Sad,High
+6,58,Floral,Phenyl ethyl alcohol,Delight,26,Other,Chinese,True,Sad,Low
+6,59,Ocean Breeze,Dimethyl sulfide,Freedom,20,Female,Indian,True,Energized,Medium
+6,60,Rain,Geosmin,Nature,68,Other,British,True,Calm,Low
+6,61,Lavender,"Linalool, Linalyl acetate",Relaxation,48,Female,French,True,Neutral,Low
+6,62,Citrus,"Limonene, Citral",Happiness,57,Other,American,True,Calm,Medium
+6,63,Pine,Pinene,Calmness,54,Other,Chinese,False,Energized,Medium
+6,64,Fresh Linen,Aldehydes,Cleanliness,53,Male,British,False,Energized,Low
+6,65,Peppermint,Menthol,Refreshment,41,Female,French,False,Sad,High
+6,66,Vanilla,Vanillin,Comfort,48,Male,British,True,Neutral,Low
+6,67,Rose,"Citronellol, Geraniol",Romance,23,Male,British,False,Stressed,High
+6,68,Eucalyptus,Eucalyptol,Healing,19,Male,Indian,True,Energized,High
+6,69,Sandalwood,Santalol,Tranquility,37,Female,Indian,True,Neutral,Medium
+6,70,Leather,Benzaldehyde,Luxury,45,Female,Indian,True,Calm,Medium
+6,71,Coffee,"Caffeine, Niacin",Alertness,28,Other,French,False,Sad,Low
+6,72,Chocolate,Theobromine,Pleasure,21,Male,British,True,Calm,High
+6,73,Burnt Wood,Guaiacol,Nostalgia,32,Other,American,False,Energized,High
+6,74,Cinnamon,Cinnamaldehyde,Warmth,23,Male,Chinese,False,Energized,Low
+6,75,Apple,Amyl acetate,Freshness,66,Female,Indian,True,Calm,Low
+6,76,Strawberry,Methyl anthranilate,Joy,47,Female,Indian,True,Energized,Low
+6,77,Smoky,Creosol,Mystery,55,Female,British,False,Neutral,Medium
+6,78,Floral,Phenyl ethyl alcohol,Delight,68,Male,British,False,Energized,Low
+6,79,Ocean Breeze,Dimethyl sulfide,Freedom,19,Female,French,False,Sad,Low
+6,80,Rain,Geosmin,Nature,32,Male,French,False,Neutral,High
+6,81,Lavender,"Linalool, Linalyl acetate",Relaxation,28,Other,Indian,False,Stressed,Low
+6,82,Citrus,"Limonene, Citral",Happiness,25,Male,British,False,Energized,High
+6,83,Pine,Pinene,Calmness,43,Other,American,True,Energized,High
+6,84,Fresh Linen,Aldehydes,Cleanliness,68,Male,Chinese,False,Sad,Medium
+6,85,Peppermint,Menthol,Refreshment,62,Other,British,False,Sad,Low
+6,86,Vanilla,Vanillin,Comfort,61,Female,British,False,Calm,Low
+6,87,Rose,"Citronellol, Geraniol",Romance,22,Other,French,False,Calm,High
+6,88,Eucalyptus,Eucalyptol,Healing,23,Female,Chinese,True,Calm,Medium
+6,89,Sandalwood,Santalol,Tranquility,43,Female,Indian,True,Sad,Medium
+6,90,Leather,Benzaldehyde,Luxury,21,Other,British,False,Calm,Low
+6,91,Coffee,"Caffeine, Niacin",Alertness,36,Male,Indian,False,Calm,High
+6,92,Chocolate,Theobromine,Pleasure,37,Male,British,False,Stressed,Low
+6,93,Burnt Wood,Guaiacol,Nostalgia,50,Male,Indian,True,Calm,Low
+6,94,Cinnamon,Cinnamaldehyde,Warmth,37,Male,Chinese,True,Energized,Low
+6,95,Apple,Amyl acetate,Freshness,66,Male,French,True,Sad,Low
+6,96,Strawberry,Methyl anthranilate,Joy,29,Female,Chinese,True,Neutral,High
+6,97,Smoky,Creosol,Mystery,64,Male,American,True,Stressed,Medium
+6,98,Floral,Phenyl ethyl alcohol,Delight,18,Female,French,True,Sad,Low
+6,99,Ocean Breeze,Dimethyl sulfide,Freedom,43,Female,Chinese,False,Sad,Low
+6,100,Rain,Geosmin,Nature,31,Female,American,True,Energized,Low
+6,101,Lavender,"Linalool, Linalyl acetate",Relaxation,55,Other,British,True,Calm,Low
+6,102,Citrus,"Limonene, Citral",Happiness,54,Other,British,False,Energized,Medium
+6,103,Pine,Pinene,Calmness,28,Female,Indian,True,Calm,Medium
+6,104,Fresh Linen,Aldehydes,Cleanliness,53,Other,French,False,Calm,Medium
+6,105,Peppermint,Menthol,Refreshment,30,Male,British,True,Sad,Medium
+6,106,Vanilla,Vanillin,Comfort,60,Male,French,False,Calm,Low
+6,107,Rose,"Citronellol, Geraniol",Romance,20,Female,British,False,Stressed,High
+6,108,Eucalyptus,Eucalyptol,Healing,50,Male,Indian,False,Stressed,Medium
+6,109,Sandalwood,Santalol,Tranquility,23,Female,Chinese,False,Stressed,Medium
+6,110,Leather,Benzaldehyde,Luxury,67,Female,Indian,False,Sad,Low
+6,111,Coffee,"Caffeine, Niacin",Alertness,27,Male,American,True,Energized,Low
+6,112,Chocolate,Theobromine,Pleasure,22,Other,British,True,Neutral,Low
+6,113,Burnt Wood,Guaiacol,Nostalgia,40,Male,American,False,Calm,Low
+6,114,Cinnamon,Cinnamaldehyde,Warmth,27,Male,American,False,Neutral,High
+6,115,Apple,Amyl acetate,Freshness,61,Female,French,False,Energized,High
+6,116,Strawberry,Methyl anthranilate,Joy,19,Female,British,True,Energized,Medium
+6,117,Smoky,Creosol,Mystery,30,Female,American,False,Sad,High
+6,118,Floral,Phenyl ethyl alcohol,Delight,57,Female,Chinese,False,Stressed,Medium
+6,119,Ocean Breeze,Dimethyl sulfide,Freedom,19,Other,American,False,Stressed,Medium
+6,120,Rain,Geosmin,Nature,37,Other,Chinese,False,Energized,High
+6,121,Lavender,"Linalool, Linalyl acetate",Relaxation,18,Other,French,True,Sad,Medium
+6,122,Citrus,"Limonene, Citral",Happiness,54,Female,American,False,Sad,Low
+6,123,Pine,Pinene,Calmness,26,Female,Indian,False,Calm,Medium
+6,124,Fresh Linen,Aldehydes,Cleanliness,34,Female,French,True,Stressed,Low
+6,125,Peppermint,Menthol,Refreshment,26,Other,Chinese,False,Energized,High
+6,126,Vanilla,Vanillin,Comfort,28,Female,French,False,Neutral,High
+6,127,Rose,"Citronellol, Geraniol",Romance,32,Male,American,True,Stressed,Medium
+6,128,Eucalyptus,Eucalyptol,Healing,41,Male,British,True,Calm,Low
+6,129,Sandalwood,Santalol,Tranquility,55,Female,British,True,Sad,Medium
+6,130,Leather,Benzaldehyde,Luxury,52,Male,Chinese,False,Energized,High
+6,131,Coffee,"Caffeine, Niacin",Alertness,47,Male,Chinese,False,Stressed,Medium
+6,132,Chocolate,Theobromine,Pleasure,48,Other,British,True,Neutral,Medium
+6,133,Burnt Wood,Guaiacol,Nostalgia,66,Female,Chinese,True,Calm,Low
+6,134,Cinnamon,Cinnamaldehyde,Warmth,22,Female,French,True,Calm,High
+6,135,Apple,Amyl acetate,Freshness,61,Other,Indian,False,Stressed,Medium
+6,136,Strawberry,Methyl anthranilate,Joy,67,Male,Indian,False,Neutral,Low
+6,137,Smoky,Creosol,Mystery,31,Male,French,True,Calm,Medium
+6,138,Floral,Phenyl ethyl alcohol,Delight,28,Female,Indian,False,Energized,Low
+6,139,Ocean Breeze,Dimethyl sulfide,Freedom,26,Male,American,True,Calm,Low
+6,140,Rain,Geosmin,Nature,51,Other,French,False,Neutral,Medium
+6,141,Lavender,"Linalool, Linalyl acetate",Relaxation,29,Other,Chinese,False,Sad,High
+6,142,Citrus,"Limonene, Citral",Happiness,52,Female,French,False,Sad,High
+6,143,Pine,Pinene,Calmness,52,Other,British,False,Stressed,Low
+6,144,Fresh Linen,Aldehydes,Cleanliness,18,Other,Chinese,True,Neutral,High
+6,145,Peppermint,Menthol,Refreshment,57,Female,British,False,Calm,Low
+6,146,Vanilla,Vanillin,Comfort,39,Other,Chinese,False,Calm,High
+6,147,Rose,"Citronellol, Geraniol",Romance,46,Other,Indian,True,Sad,Medium
+6,148,Eucalyptus,Eucalyptol,Healing,25,Other,French,False,Sad,High
+6,149,Sandalwood,Santalol,Tranquility,28,Male,American,True,Energized,Low
+6,150,Leather,Benzaldehyde,Luxury,58,Female,Chinese,True,Sad,Low
+6,151,Coffee,"Caffeine, Niacin",Alertness,54,Female,Chinese,False,Energized,High
+6,152,Chocolate,Theobromine,Pleasure,31,Female,British,False,Calm,Medium
+6,153,Burnt Wood,Guaiacol,Nostalgia,47,Male,Indian,True,Energized,Low
+6,154,Cinnamon,Cinnamaldehyde,Warmth,52,Male,British,True,Energized,Low
+6,155,Apple,Amyl acetate,Freshness,38,Female,British,True,Stressed,Low
+6,156,Strawberry,Methyl anthranilate,Joy,54,Male,Indian,False,Sad,Low
+6,157,Smoky,Creosol,Mystery,22,Female,American,True,Energized,Low
+6,158,Floral,Phenyl ethyl alcohol,Delight,36,Male,British,True,Calm,Medium
+6,159,Ocean Breeze,Dimethyl sulfide,Freedom,31,Other,British,True,Neutral,High
+6,160,Rain,Geosmin,Nature,43,Other,Chinese,False,Energized,Medium
+6,161,Lavender,"Linalool, Linalyl acetate",Relaxation,21,Female,Indian,True,Sad,Medium
+6,162,Citrus,"Limonene, Citral",Happiness,42,Male,French,False,Stressed,Low
+6,163,Pine,Pinene,Calmness,62,Male,American,False,Calm,Medium
+6,164,Fresh Linen,Aldehydes,Cleanliness,59,Other,American,True,Stressed,Low
+6,165,Peppermint,Menthol,Refreshment,42,Other,Indian,False,Neutral,Medium
+6,166,Vanilla,Vanillin,Comfort,35,Male,Chinese,True,Energized,Low
+6,167,Rose,"Citronellol, Geraniol",Romance,57,Male,Chinese,False,Energized,Low
+6,168,Eucalyptus,Eucalyptol,Healing,25,Male,Indian,False,Sad,Medium
+6,169,Sandalwood,Santalol,Tranquility,56,Male,Chinese,True,Energized,Medium
+6,170,Leather,Benzaldehyde,Luxury,57,Male,American,True,Calm,High
+6,171,Coffee,"Caffeine, Niacin",Alertness,31,Male,American,True,Neutral,High
+6,172,Chocolate,Theobromine,Pleasure,49,Female,French,False,Stressed,High
+6,173,Burnt Wood,Guaiacol,Nostalgia,68,Male,Indian,False,Neutral,Medium
+6,174,Cinnamon,Cinnamaldehyde,Warmth,55,Other,British,True,Energized,Medium
+6,175,Apple,Amyl acetate,Freshness,50,Female,British,True,Stressed,Low
+6,176,Strawberry,Methyl anthranilate,Joy,40,Male,French,False,Sad,High
+6,177,Smoky,Creosol,Mystery,32,Other,French,False,Neutral,Low
+6,178,Floral,Phenyl ethyl alcohol,Delight,50,Female,Chinese,False,Stressed,Low
+6,179,Ocean Breeze,Dimethyl sulfide,Freedom,42,Other,French,True,Stressed,Low
+6,180,Rain,Geosmin,Nature,34,Male,French,False,Stressed,Low
+6,181,Lavender,"Linalool, Linalyl acetate",Relaxation,50,Male,British,True,Calm,High
+6,182,Citrus,"Limonene, Citral",Happiness,64,Male,Chinese,False,Neutral,Low
+6,183,Pine,Pinene,Calmness,19,Male,French,False,Stressed,Medium
+6,184,Fresh Linen,Aldehydes,Cleanliness,31,Female,French,True,Neutral,Medium
+6,185,Peppermint,Menthol,Refreshment,57,Female,Chinese,True,Stressed,Medium
+6,186,Vanilla,Vanillin,Comfort,57,Other,Indian,True,Sad,High
+6,187,Rose,"Citronellol, Geraniol",Romance,68,Male,Chinese,False,Sad,Low
+6,188,Eucalyptus,Eucalyptol,Healing,56,Other,British,False,Sad,High
+6,189,Sandalwood,Santalol,Tranquility,68,Female,Indian,False,Energized,Low
+6,190,Leather,Benzaldehyde,Luxury,23,Male,American,True,Stressed,High
+6,191,Coffee,"Caffeine, Niacin",Alertness,23,Male,Chinese,False,Energized,High
+6,192,Chocolate,Theobromine,Pleasure,20,Female,British,True,Neutral,Low
+6,193,Burnt Wood,Guaiacol,Nostalgia,24,Female,Indian,True,Energized,High
+6,194,Cinnamon,Cinnamaldehyde,Warmth,68,Female,Chinese,True,Neutral,Low
+6,195,Apple,Amyl acetate,Freshness,25,Female,French,False,Neutral,Medium
+6,196,Strawberry,Methyl anthranilate,Joy,59,Female,Chinese,False,Neutral,Medium
+6,197,Smoky,Creosol,Mystery,69,Male,American,True,Energized,Medium
+6,198,Floral,Phenyl ethyl alcohol,Delight,32,Female,Chinese,False,Stressed,High
+6,199,Ocean Breeze,Dimethyl sulfide,Freedom,64,Male,Indian,True,Energized,Medium
+6,200,Rain,Geosmin,Nature,46,Male,Indian,True,Stressed,Low
+7,1,Lavender,"Linalool, Linalyl acetate",Relaxation,50,Female,Chinese,False,Stressed,Medium
+7,2,Citrus,"Limonene, Citral",Happiness,69,Female,Indian,True,Neutral,Medium
+7,3,Pine,Pinene,Calmness,47,Male,French,True,Energized,High
+7,4,Fresh Linen,Aldehydes,Cleanliness,56,Female,Chinese,False,Stressed,Low
+7,5,Peppermint,Menthol,Refreshment,44,Female,French,True,Sad,High
+7,6,Vanilla,Vanillin,Comfort,53,Female,French,True,Stressed,High
+7,7,Rose,"Citronellol, Geraniol",Romance,46,Other,British,True,Sad,Low
+7,8,Eucalyptus,Eucalyptol,Healing,55,Male,Chinese,True,Energized,High
+7,9,Sandalwood,Santalol,Tranquility,50,Other,Indian,True,Energized,Low
+7,10,Leather,Benzaldehyde,Luxury,54,Female,French,True,Energized,Medium
+7,11,Coffee,"Caffeine, Niacin",Alertness,44,Other,British,True,Stressed,Low
+7,12,Chocolate,Theobromine,Pleasure,50,Female,Chinese,False,Calm,Low
+7,13,Burnt Wood,Guaiacol,Nostalgia,21,Other,Chinese,False,Stressed,Low
+7,14,Cinnamon,Cinnamaldehyde,Warmth,39,Female,American,True,Stressed,High
+7,15,Apple,Amyl acetate,Freshness,19,Other,American,True,Neutral,Low
+7,16,Strawberry,Methyl anthranilate,Joy,27,Other,French,False,Neutral,Low
+7,17,Smoky,Creosol,Mystery,22,Other,American,False,Stressed,Low
+7,18,Floral,Phenyl ethyl alcohol,Delight,27,Male,French,False,Sad,Medium
+7,19,Ocean Breeze,Dimethyl sulfide,Freedom,50,Other,Indian,False,Neutral,Low
+7,20,Rain,Geosmin,Nature,55,Male,French,False,Stressed,High
+7,21,Lavender,"Linalool, Linalyl acetate",Relaxation,30,Female,American,True,Calm,Low
+7,22,Citrus,"Limonene, Citral",Happiness,48,Other,Indian,False,Sad,Low
+7,23,Pine,Pinene,Calmness,64,Female,American,False,Energized,Medium
+7,24,Fresh Linen,Aldehydes,Cleanliness,53,Female,French,False,Stressed,Low
+7,25,Peppermint,Menthol,Refreshment,62,Other,British,True,Stressed,High
+7,26,Vanilla,Vanillin,Comfort,41,Male,Chinese,True,Sad,Low
+7,27,Rose,"Citronellol, Geraniol",Romance,69,Other,American,True,Neutral,High
+7,28,Eucalyptus,Eucalyptol,Healing,32,Female,French,True,Neutral,Medium
+7,29,Sandalwood,Santalol,Tranquility,46,Female,Indian,True,Neutral,Low
+7,30,Leather,Benzaldehyde,Luxury,25,Other,American,True,Energized,Medium
+7,31,Coffee,"Caffeine, Niacin",Alertness,22,Male,American,False,Sad,Low
+7,32,Chocolate,Theobromine,Pleasure,46,Male,Chinese,True,Sad,High
+7,33,Burnt Wood,Guaiacol,Nostalgia,64,Female,French,True,Neutral,Medium
+7,34,Cinnamon,Cinnamaldehyde,Warmth,21,Female,British,False,Neutral,Low
+7,35,Apple,Amyl acetate,Freshness,29,Male,Indian,True,Calm,High
+7,36,Strawberry,Methyl anthranilate,Joy,62,Other,French,False,Calm,Medium
+7,37,Smoky,Creosol,Mystery,19,Female,Indian,False,Stressed,Low
+7,38,Floral,Phenyl ethyl alcohol,Delight,44,Male,American,True,Stressed,Medium
+7,39,Ocean Breeze,Dimethyl sulfide,Freedom,48,Female,Chinese,False,Sad,Low
+7,40,Rain,Geosmin,Nature,68,Other,Chinese,False,Sad,High
+7,41,Lavender,"Linalool, Linalyl acetate",Relaxation,68,Male,British,False,Energized,High
+7,42,Citrus,"Limonene, Citral",Happiness,53,Female,Chinese,False,Energized,Medium
+7,43,Pine,Pinene,Calmness,53,Other,American,True,Calm,Medium
+7,44,Fresh Linen,Aldehydes,Cleanliness,43,Female,British,False,Stressed,Low
+7,45,Peppermint,Menthol,Refreshment,60,Other,French,True,Calm,High
+7,46,Vanilla,Vanillin,Comfort,44,Other,Chinese,False,Calm,Low
+7,47,Rose,"Citronellol, Geraniol",Romance,22,Male,British,False,Stressed,High
+7,48,Eucalyptus,Eucalyptol,Healing,37,Other,American,False,Energized,Medium
+7,49,Sandalwood,Santalol,Tranquility,28,Female,Indian,True,Stressed,Low
+7,50,Leather,Benzaldehyde,Luxury,27,Other,Indian,True,Neutral,Low
+7,51,Coffee,"Caffeine, Niacin",Alertness,57,Other,American,True,Neutral,High
+7,52,Chocolate,Theobromine,Pleasure,55,Male,American,False,Neutral,High
+7,53,Burnt Wood,Guaiacol,Nostalgia,23,Other,Indian,False,Sad,High
+7,54,Cinnamon,Cinnamaldehyde,Warmth,25,Other,British,False,Energized,Medium
+7,55,Apple,Amyl acetate,Freshness,40,Female,Indian,False,Energized,Low
+7,56,Strawberry,Methyl anthranilate,Joy,64,Male,American,True,Sad,High
+7,57,Smoky,Creosol,Mystery,43,Male,Chinese,False,Calm,Medium
+7,58,Floral,Phenyl ethyl alcohol,Delight,63,Male,French,True,Neutral,High
+7,59,Ocean Breeze,Dimethyl sulfide,Freedom,60,Other,Chinese,False,Neutral,Low
+7,60,Rain,Geosmin,Nature,29,Male,Chinese,True,Calm,High
+7,61,Lavender,"Linalool, Linalyl acetate",Relaxation,43,Other,American,True,Stressed,Low
+7,62,Citrus,"Limonene, Citral",Happiness,30,Other,Indian,False,Stressed,Medium
+7,63,Pine,Pinene,Calmness,57,Female,British,False,Energized,Medium
+7,64,Fresh Linen,Aldehydes,Cleanliness,35,Female,Chinese,True,Sad,High
+7,65,Peppermint,Menthol,Refreshment,42,Female,Indian,False,Energized,Low
+7,66,Vanilla,Vanillin,Comfort,50,Female,British,False,Stressed,Low
+7,67,Rose,"Citronellol, Geraniol",Romance,64,Female,Chinese,True,Calm,Low
+7,68,Eucalyptus,Eucalyptol,Healing,57,Other,British,True,Energized,High
+7,69,Sandalwood,Santalol,Tranquility,60,Other,Indian,True,Neutral,Low
+7,70,Leather,Benzaldehyde,Luxury,29,Male,French,True,Neutral,Low
+7,71,Coffee,"Caffeine, Niacin",Alertness,61,Other,Indian,False,Calm,Low
+7,72,Chocolate,Theobromine,Pleasure,53,Other,American,True,Stressed,Low
+7,73,Burnt Wood,Guaiacol,Nostalgia,65,Female,British,True,Neutral,High
+7,74,Cinnamon,Cinnamaldehyde,Warmth,21,Other,French,True,Neutral,High
+7,75,Apple,Amyl acetate,Freshness,22,Female,British,False,Sad,Low
+7,76,Strawberry,Methyl anthranilate,Joy,54,Male,British,True,Energized,Low
+7,77,Smoky,Creosol,Mystery,25,Male,Chinese,False,Stressed,Medium
+7,78,Floral,Phenyl ethyl alcohol,Delight,59,Other,American,True,Energized,Medium
+7,79,Ocean Breeze,Dimethyl sulfide,Freedom,66,Male,British,True,Stressed,Low
+7,80,Rain,Geosmin,Nature,45,Other,Indian,False,Neutral,Low
+7,81,Lavender,"Linalool, Linalyl acetate",Relaxation,48,Male,Indian,True,Sad,Medium
+7,82,Citrus,"Limonene, Citral",Happiness,26,Female,Chinese,True,Energized,Medium
+7,83,Pine,Pinene,Calmness,68,Female,American,False,Neutral,Low
+7,84,Fresh Linen,Aldehydes,Cleanliness,46,Female,American,True,Stressed,High
+7,85,Peppermint,Menthol,Refreshment,31,Female,Indian,True,Energized,High
+7,86,Vanilla,Vanillin,Comfort,57,Other,French,True,Energized,Low
+7,87,Rose,"Citronellol, Geraniol",Romance,58,Male,Chinese,True,Neutral,Low
+7,88,Eucalyptus,Eucalyptol,Healing,39,Other,Chinese,False,Energized,Medium
+7,89,Sandalwood,Santalol,Tranquility,28,Female,Indian,True,Sad,Medium
+7,90,Leather,Benzaldehyde,Luxury,40,Other,Indian,False,Sad,High
+7,91,Coffee,"Caffeine, Niacin",Alertness,18,Male,French,True,Neutral,Low
+7,92,Chocolate,Theobromine,Pleasure,63,Other,French,False,Stressed,Medium
+7,93,Burnt Wood,Guaiacol,Nostalgia,54,Male,American,True,Neutral,High
+7,94,Cinnamon,Cinnamaldehyde,Warmth,38,Other,Chinese,False,Sad,High
+7,95,Apple,Amyl acetate,Freshness,43,Male,Chinese,True,Calm,High
+7,96,Strawberry,Methyl anthranilate,Joy,63,Male,Indian,False,Calm,Medium
+7,97,Smoky,Creosol,Mystery,53,Female,American,False,Energized,Medium
+7,98,Floral,Phenyl ethyl alcohol,Delight,40,Male,Chinese,True,Energized,Low
+7,99,Ocean Breeze,Dimethyl sulfide,Freedom,18,Female,American,False,Calm,Low
+7,100,Rain,Geosmin,Nature,68,Female,American,True,Sad,High
+7,101,Lavender,"Linalool, Linalyl acetate",Relaxation,57,Female,Indian,True,Energized,High
+7,102,Citrus,"Limonene, Citral",Happiness,32,Other,American,True,Neutral,Medium
+7,103,Pine,Pinene,Calmness,38,Other,French,True,Neutral,Medium
+7,104,Fresh Linen,Aldehydes,Cleanliness,64,Other,French,True,Sad,Low
+7,105,Peppermint,Menthol,Refreshment,26,Other,British,False,Energized,Low
+7,106,Vanilla,Vanillin,Comfort,26,Male,Indian,True,Neutral,Low
+7,107,Rose,"Citronellol, Geraniol",Romance,27,Male,British,True,Energized,Medium
+7,108,Eucalyptus,Eucalyptol,Healing,69,Other,French,True,Energized,High
+7,109,Sandalwood,Santalol,Tranquility,43,Male,British,True,Neutral,Low
+7,110,Leather,Benzaldehyde,Luxury,58,Male,Indian,True,Calm,Low
+7,111,Coffee,"Caffeine, Niacin",Alertness,52,Female,Indian,True,Neutral,Medium
+7,112,Chocolate,Theobromine,Pleasure,69,Female,American,False,Sad,Low
+7,113,Burnt Wood,Guaiacol,Nostalgia,42,Female,Chinese,False,Stressed,High
+7,114,Cinnamon,Cinnamaldehyde,Warmth,43,Female,American,True,Neutral,Medium
+7,115,Apple,Amyl acetate,Freshness,28,Male,Indian,False,Energized,Low
+7,116,Strawberry,Methyl anthranilate,Joy,55,Other,French,True,Energized,Low
+7,117,Smoky,Creosol,Mystery,19,Male,French,True,Neutral,Medium
+7,118,Floral,Phenyl ethyl alcohol,Delight,24,Male,American,True,Stressed,Medium
+7,119,Ocean Breeze,Dimethyl sulfide,Freedom,35,Male,Indian,True,Neutral,Low
+7,120,Rain,Geosmin,Nature,44,Female,French,True,Stressed,High
+7,121,Lavender,"Linalool, Linalyl acetate",Relaxation,51,Female,Indian,False,Stressed,Medium
+7,122,Citrus,"Limonene, Citral",Happiness,44,Female,French,False,Sad,High
+7,123,Pine,Pinene,Calmness,34,Other,Indian,False,Energized,Low
+7,124,Fresh Linen,Aldehydes,Cleanliness,60,Male,British,False,Energized,High
+7,125,Peppermint,Menthol,Refreshment,61,Other,Indian,True,Stressed,Low
+7,126,Vanilla,Vanillin,Comfort,68,Female,Indian,False,Energized,Low
+7,127,Rose,"Citronellol, Geraniol",Romance,41,Other,American,True,Calm,Low
+7,128,Eucalyptus,Eucalyptol,Healing,42,Male,British,False,Stressed,Low
+7,129,Sandalwood,Santalol,Tranquility,24,Male,Chinese,False,Energized,High
+7,130,Leather,Benzaldehyde,Luxury,69,Female,American,False,Calm,Low
+7,131,Coffee,"Caffeine, Niacin",Alertness,23,Female,Chinese,False,Sad,Low
+7,132,Chocolate,Theobromine,Pleasure,41,Other,French,True,Energized,High
+7,133,Burnt Wood,Guaiacol,Nostalgia,50,Female,Chinese,False,Calm,Medium
+7,134,Cinnamon,Cinnamaldehyde,Warmth,66,Female,Indian,False,Neutral,High
+7,135,Apple,Amyl acetate,Freshness,46,Male,Chinese,True,Neutral,High
+7,136,Strawberry,Methyl anthranilate,Joy,60,Female,American,True,Calm,High
+7,137,Smoky,Creosol,Mystery,39,Female,American,False,Stressed,Low
+7,138,Floral,Phenyl ethyl alcohol,Delight,43,Male,Chinese,True,Stressed,Low
+7,139,Ocean Breeze,Dimethyl sulfide,Freedom,45,Male,American,True,Energized,Low
+7,140,Rain,Geosmin,Nature,67,Other,American,True,Neutral,Medium
+7,141,Lavender,"Linalool, Linalyl acetate",Relaxation,38,Female,Chinese,False,Stressed,Low
+7,142,Citrus,"Limonene, Citral",Happiness,66,Male,British,True,Stressed,Medium
+7,143,Pine,Pinene,Calmness,24,Other,British,False,Neutral,Low
+7,144,Fresh Linen,Aldehydes,Cleanliness,34,Other,French,False,Sad,High
+7,145,Peppermint,Menthol,Refreshment,37,Female,American,False,Stressed,Low
+7,146,Vanilla,Vanillin,Comfort,58,Female,Chinese,False,Calm,Medium
+7,147,Rose,"Citronellol, Geraniol",Romance,66,Other,American,True,Energized,Medium
+7,148,Eucalyptus,Eucalyptol,Healing,37,Male,Indian,False,Stressed,Low
+7,149,Sandalwood,Santalol,Tranquility,39,Other,American,True,Stressed,High
+7,150,Leather,Benzaldehyde,Luxury,45,Female,American,False,Sad,Low
+7,151,Coffee,"Caffeine, Niacin",Alertness,57,Male,British,True,Calm,Low
+7,152,Chocolate,Theobromine,Pleasure,66,Male,Chinese,False,Energized,Low
+7,153,Burnt Wood,Guaiacol,Nostalgia,24,Other,American,True,Stressed,High
+7,154,Cinnamon,Cinnamaldehyde,Warmth,18,Female,British,False,Energized,Medium
+7,155,Apple,Amyl acetate,Freshness,49,Other,French,False,Neutral,High
+7,156,Strawberry,Methyl anthranilate,Joy,30,Other,British,True,Stressed,Medium
+7,157,Smoky,Creosol,Mystery,47,Other,British,False,Stressed,Medium
+7,158,Floral,Phenyl ethyl alcohol,Delight,40,Male,British,False,Neutral,Medium
+7,159,Ocean Breeze,Dimethyl sulfide,Freedom,68,Male,American,False,Sad,High
+7,160,Rain,Geosmin,Nature,36,Female,American,True,Stressed,Low
+7,161,Lavender,"Linalool, Linalyl acetate",Relaxation,49,Female,French,False,Energized,Low
+7,162,Citrus,"Limonene, Citral",Happiness,47,Other,Indian,False,Calm,Low
+7,163,Pine,Pinene,Calmness,46,Other,Indian,True,Energized,Low
+7,164,Fresh Linen,Aldehydes,Cleanliness,66,Other,Indian,True,Sad,Low
+7,165,Peppermint,Menthol,Refreshment,62,Female,French,True,Calm,High
+7,166,Vanilla,Vanillin,Comfort,46,Male,Indian,True,Energized,High
+7,167,Rose,"Citronellol, Geraniol",Romance,47,Male,Indian,True,Energized,High
+7,168,Eucalyptus,Eucalyptol,Healing,33,Other,British,False,Neutral,High
+7,169,Sandalwood,Santalol,Tranquility,57,Other,American,False,Sad,High
+7,170,Leather,Benzaldehyde,Luxury,36,Other,American,False,Neutral,High
+7,171,Coffee,"Caffeine, Niacin",Alertness,35,Other,British,True,Calm,High
+7,172,Chocolate,Theobromine,Pleasure,18,Female,British,False,Neutral,Low
+7,173,Burnt Wood,Guaiacol,Nostalgia,31,Male,British,True,Sad,Medium
+7,174,Cinnamon,Cinnamaldehyde,Warmth,68,Other,American,True,Stressed,High
+7,175,Apple,Amyl acetate,Freshness,64,Female,Indian,False,Stressed,Medium
+7,176,Strawberry,Methyl anthranilate,Joy,67,Other,British,True,Calm,High
+7,177,Smoky,Creosol,Mystery,19,Other,French,True,Stressed,High
+7,178,Floral,Phenyl ethyl alcohol,Delight,45,Male,British,False,Neutral,Low
+7,179,Ocean Breeze,Dimethyl sulfide,Freedom,66,Other,Chinese,True,Calm,Medium
+7,180,Rain,Geosmin,Nature,67,Male,British,True,Sad,Low
+7,181,Lavender,"Linalool, Linalyl acetate",Relaxation,47,Male,American,False,Calm,Low
+7,182,Citrus,"Limonene, Citral",Happiness,55,Male,British,True,Calm,Medium
+7,183,Pine,Pinene,Calmness,68,Female,Chinese,True,Energized,Low
+7,184,Fresh Linen,Aldehydes,Cleanliness,21,Female,French,False,Energized,High
+7,185,Peppermint,Menthol,Refreshment,18,Male,Indian,False,Calm,High
+7,186,Vanilla,Vanillin,Comfort,25,Other,British,False,Stressed,High
+7,187,Rose,"Citronellol, Geraniol",Romance,46,Male,Chinese,False,Energized,High
+7,188,Eucalyptus,Eucalyptol,Healing,56,Other,Chinese,True,Sad,High
+7,189,Sandalwood,Santalol,Tranquility,20,Male,French,True,Neutral,Low
+7,190,Leather,Benzaldehyde,Luxury,49,Other,American,False,Energized,Low
+7,191,Coffee,"Caffeine, Niacin",Alertness,27,Female,British,True,Calm,High
+7,192,Chocolate,Theobromine,Pleasure,27,Other,Chinese,True,Stressed,High
+7,193,Burnt Wood,Guaiacol,Nostalgia,36,Male,French,False,Neutral,Low
+7,194,Cinnamon,Cinnamaldehyde,Warmth,63,Female,Indian,False,Energized,Medium
+7,195,Apple,Amyl acetate,Freshness,51,Other,Chinese,True,Stressed,Low
+7,196,Strawberry,Methyl anthranilate,Joy,50,Other,French,False,Stressed,Low
+7,197,Smoky,Creosol,Mystery,40,Other,American,False,Stressed,Low
+7,198,Floral,Phenyl ethyl alcohol,Delight,45,Other,American,False,Calm,Low
+7,199,Ocean Breeze,Dimethyl sulfide,Freedom,49,Other,Chinese,True,Sad,Low
+7,200,Rain,Geosmin,Nature,67,Female,Chinese,False,Stressed,Medium
+8,1,Lavender,"Linalool, Linalyl acetate",Relaxation,24,Female,British,True,Neutral,High
+8,2,Citrus,"Limonene, Citral",Happiness,46,Female,French,True,Energized,High
+8,3,Pine,Pinene,Calmness,25,Female,Chinese,True,Neutral,Medium
+8,4,Fresh Linen,Aldehydes,Cleanliness,18,Male,British,False,Calm,High
+8,5,Peppermint,Menthol,Refreshment,20,Female,British,False,Calm,High
+8,6,Vanilla,Vanillin,Comfort,41,Other,Chinese,False,Neutral,High
+8,7,Rose,"Citronellol, Geraniol",Romance,40,Other,American,False,Sad,Medium
+8,8,Eucalyptus,Eucalyptol,Healing,25,Female,French,False,Calm,Medium
+8,9,Sandalwood,Santalol,Tranquility,64,Other,French,True,Calm,High
+8,10,Leather,Benzaldehyde,Luxury,54,Female,American,True,Neutral,High
+8,11,Coffee,"Caffeine, Niacin",Alertness,20,Other,Chinese,True,Calm,High
+8,12,Chocolate,Theobromine,Pleasure,68,Male,French,False,Sad,Low
+8,13,Burnt Wood,Guaiacol,Nostalgia,50,Male,Chinese,True,Sad,Low
+8,14,Cinnamon,Cinnamaldehyde,Warmth,45,Female,Chinese,True,Sad,Low
+8,15,Apple,Amyl acetate,Freshness,64,Female,British,False,Energized,Medium
+8,16,Strawberry,Methyl anthranilate,Joy,25,Female,American,False,Sad,High
+8,17,Smoky,Creosol,Mystery,51,Other,Chinese,True,Sad,Medium
+8,18,Floral,Phenyl ethyl alcohol,Delight,52,Female,Indian,True,Energized,Medium
+8,19,Ocean Breeze,Dimethyl sulfide,Freedom,49,Male,American,False,Stressed,Medium
+8,20,Rain,Geosmin,Nature,41,Other,French,False,Calm,High
+8,21,Lavender,"Linalool, Linalyl acetate",Relaxation,31,Female,British,False,Sad,Low
+8,22,Citrus,"Limonene, Citral",Happiness,49,Other,French,False,Calm,High
+8,23,Pine,Pinene,Calmness,63,Other,French,True,Neutral,High
+8,24,Fresh Linen,Aldehydes,Cleanliness,60,Female,American,True,Calm,Medium
+8,25,Peppermint,Menthol,Refreshment,33,Other,French,False,Energized,Medium
+8,26,Vanilla,Vanillin,Comfort,21,Male,Chinese,True,Calm,Medium
+8,27,Rose,"Citronellol, Geraniol",Romance,69,Male,French,True,Calm,Low
+8,28,Eucalyptus,Eucalyptol,Healing,54,Other,British,False,Calm,Low
+8,29,Sandalwood,Santalol,Tranquility,38,Female,British,True,Stressed,Low
+8,30,Leather,Benzaldehyde,Luxury,31,Other,Indian,True,Stressed,High
+8,31,Coffee,"Caffeine, Niacin",Alertness,48,Male,British,True,Neutral,Medium
+8,32,Chocolate,Theobromine,Pleasure,65,Other,French,False,Energized,High
+8,33,Burnt Wood,Guaiacol,Nostalgia,35,Other,British,False,Calm,Low
+8,34,Cinnamon,Cinnamaldehyde,Warmth,24,Male,American,True,Calm,Medium
+8,35,Apple,Amyl acetate,Freshness,27,Other,British,False,Calm,Low
+8,36,Strawberry,Methyl anthranilate,Joy,24,Other,Chinese,False,Calm,Medium
+8,37,Smoky,Creosol,Mystery,50,Female,American,False,Stressed,Medium
+8,38,Floral,Phenyl ethyl alcohol,Delight,40,Female,Indian,True,Neutral,High
+8,39,Ocean Breeze,Dimethyl sulfide,Freedom,38,Male,Chinese,True,Sad,High
+8,40,Rain,Geosmin,Nature,36,Male,French,False,Energized,Low
+8,41,Lavender,"Linalool, Linalyl acetate",Relaxation,65,Male,French,True,Calm,High
+8,42,Citrus,"Limonene, Citral",Happiness,36,Female,French,True,Neutral,High
+8,43,Pine,Pinene,Calmness,53,Male,Chinese,True,Sad,High
+8,44,Fresh Linen,Aldehydes,Cleanliness,46,Male,Chinese,True,Neutral,Medium
+8,45,Peppermint,Menthol,Refreshment,35,Male,Chinese,True,Stressed,High
+8,46,Vanilla,Vanillin,Comfort,19,Female,American,False,Sad,Low
+8,47,Rose,"Citronellol, Geraniol",Romance,18,Other,American,True,Neutral,Medium
+8,48,Eucalyptus,Eucalyptol,Healing,64,Male,French,True,Stressed,Medium
+8,49,Sandalwood,Santalol,Tranquility,22,Other,British,True,Neutral,High
+8,50,Leather,Benzaldehyde,Luxury,37,Male,French,False,Neutral,Medium
+8,51,Coffee,"Caffeine, Niacin",Alertness,28,Other,Indian,False,Sad,Low
+8,52,Chocolate,Theobromine,Pleasure,59,Female,American,False,Stressed,Low
+8,53,Burnt Wood,Guaiacol,Nostalgia,19,Female,Chinese,True,Calm,Medium
+8,54,Cinnamon,Cinnamaldehyde,Warmth,20,Male,American,False,Energized,High
+8,55,Apple,Amyl acetate,Freshness,40,Other,Chinese,False,Sad,High
+8,56,Strawberry,Methyl anthranilate,Joy,29,Female,Indian,False,Stressed,Medium
+8,57,Smoky,Creosol,Mystery,37,Male,Indian,False,Neutral,Low
+8,58,Floral,Phenyl ethyl alcohol,Delight,22,Male,American,True,Stressed,Medium
+8,59,Ocean Breeze,Dimethyl sulfide,Freedom,54,Female,Chinese,False,Energized,High
+8,60,Rain,Geosmin,Nature,55,Female,Indian,False,Energized,High
+8,61,Lavender,"Linalool, Linalyl acetate",Relaxation,47,Male,French,True,Calm,Medium
+8,62,Citrus,"Limonene, Citral",Happiness,26,Other,French,True,Calm,Low
+8,63,Pine,Pinene,Calmness,51,Other,Chinese,False,Energized,Medium
+8,64,Fresh Linen,Aldehydes,Cleanliness,61,Other,American,True,Sad,Low
+8,65,Peppermint,Menthol,Refreshment,52,Male,Indian,False,Sad,Low
+8,66,Vanilla,Vanillin,Comfort,69,Female,American,True,Neutral,Medium
+8,67,Rose,"Citronellol, Geraniol",Romance,39,Male,French,True,Calm,Medium
+8,68,Eucalyptus,Eucalyptol,Healing,61,Female,Indian,False,Neutral,Low
+8,69,Sandalwood,Santalol,Tranquility,41,Other,American,True,Calm,Low
+8,70,Leather,Benzaldehyde,Luxury,34,Other,British,False,Energized,Low
+8,71,Coffee,"Caffeine, Niacin",Alertness,27,Female,Chinese,True,Sad,Low
+8,72,Chocolate,Theobromine,Pleasure,47,Female,Chinese,False,Sad,High
+8,73,Burnt Wood,Guaiacol,Nostalgia,63,Male,British,True,Energized,Medium
+8,74,Cinnamon,Cinnamaldehyde,Warmth,40,Other,French,True,Neutral,Low
+8,75,Apple,Amyl acetate,Freshness,49,Male,Indian,True,Neutral,Medium
+8,76,Strawberry,Methyl anthranilate,Joy,34,Male,Chinese,True,Stressed,Low
+8,77,Smoky,Creosol,Mystery,67,Male,British,True,Calm,Medium
+8,78,Floral,Phenyl ethyl alcohol,Delight,68,Other,British,False,Neutral,Medium
+8,79,Ocean Breeze,Dimethyl sulfide,Freedom,34,Male,French,True,Energized,Low
+8,80,Rain,Geosmin,Nature,31,Male,French,False,Neutral,Low
+8,81,Lavender,"Linalool, Linalyl acetate",Relaxation,26,Male,American,False,Sad,Medium
+8,82,Citrus,"Limonene, Citral",Happiness,57,Male,Chinese,False,Calm,Medium
+8,83,Pine,Pinene,Calmness,19,Male,American,True,Stressed,Medium
+8,84,Fresh Linen,Aldehydes,Cleanliness,62,Male,British,False,Calm,High
+8,85,Peppermint,Menthol,Refreshment,42,Other,Indian,True,Sad,Low
+8,86,Vanilla,Vanillin,Comfort,56,Male,Indian,False,Sad,High
+8,87,Rose,"Citronellol, Geraniol",Romance,26,Female,French,False,Sad,High
+8,88,Eucalyptus,Eucalyptol,Healing,39,Male,Indian,False,Sad,Low
+8,89,Sandalwood,Santalol,Tranquility,60,Male,Indian,False,Energized,Low
+8,90,Leather,Benzaldehyde,Luxury,63,Other,Indian,False,Stressed,High
+8,91,Coffee,"Caffeine, Niacin",Alertness,21,Other,British,True,Sad,Low
+8,92,Chocolate,Theobromine,Pleasure,43,Female,Indian,False,Sad,Medium
+8,93,Burnt Wood,Guaiacol,Nostalgia,46,Female,Indian,False,Neutral,Medium
+8,94,Cinnamon,Cinnamaldehyde,Warmth,62,Other,Indian,True,Stressed,High
+8,95,Apple,Amyl acetate,Freshness,51,Other,American,True,Calm,High
+8,96,Strawberry,Methyl anthranilate,Joy,40,Male,British,True,Stressed,Low
+8,97,Smoky,Creosol,Mystery,54,Other,French,False,Stressed,Low
+8,98,Floral,Phenyl ethyl alcohol,Delight,28,Female,American,False,Stressed,High
+8,99,Ocean Breeze,Dimethyl sulfide,Freedom,23,Male,Chinese,False,Sad,High
+8,100,Rain,Geosmin,Nature,35,Female,British,False,Sad,Medium
+8,101,Lavender,"Linalool, Linalyl acetate",Relaxation,38,Male,British,False,Energized,Medium
+8,102,Citrus,"Limonene, Citral",Happiness,59,Other,Chinese,False,Calm,Low
+8,103,Pine,Pinene,Calmness,53,Female,Chinese,True,Neutral,Medium
+8,104,Fresh Linen,Aldehydes,Cleanliness,58,Male,Chinese,True,Stressed,Low
+8,105,Peppermint,Menthol,Refreshment,55,Male,French,False,Calm,Low
+8,106,Vanilla,Vanillin,Comfort,51,Other,Indian,False,Calm,Low
+8,107,Rose,"Citronellol, Geraniol",Romance,34,Other,British,False,Energized,Medium
+8,108,Eucalyptus,Eucalyptol,Healing,54,Other,Indian,False,Neutral,High
+8,109,Sandalwood,Santalol,Tranquility,42,Female,Indian,False,Stressed,High
+8,110,Leather,Benzaldehyde,Luxury,55,Male,Chinese,True,Neutral,Medium
+8,111,Coffee,"Caffeine, Niacin",Alertness,29,Other,French,True,Energized,High
+8,112,Chocolate,Theobromine,Pleasure,40,Female,American,False,Sad,Low
+8,113,Burnt Wood,Guaiacol,Nostalgia,59,Female,French,True,Calm,High
+8,114,Cinnamon,Cinnamaldehyde,Warmth,39,Female,Indian,False,Stressed,Medium
+8,115,Apple,Amyl acetate,Freshness,38,Other,French,False,Sad,High
+8,116,Strawberry,Methyl anthranilate,Joy,44,Other,Chinese,False,Energized,Low
+8,117,Smoky,Creosol,Mystery,48,Male,American,True,Neutral,Low
+8,118,Floral,Phenyl ethyl alcohol,Delight,23,Male,Chinese,True,Calm,Medium
+8,119,Ocean Breeze,Dimethyl sulfide,Freedom,44,Other,American,False,Stressed,Medium
+8,120,Rain,Geosmin,Nature,57,Female,Indian,True,Sad,Medium
+8,121,Lavender,"Linalool, Linalyl acetate",Relaxation,51,Female,American,True,Sad,Low
+8,122,Citrus,"Limonene, Citral",Happiness,29,Female,American,False,Calm,High
+8,123,Pine,Pinene,Calmness,62,Male,American,True,Neutral,High
+8,124,Fresh Linen,Aldehydes,Cleanliness,24,Female,French,True,Energized,Medium
+8,125,Peppermint,Menthol,Refreshment,27,Male,French,False,Neutral,High
+8,126,Vanilla,Vanillin,Comfort,62,Male,Indian,False,Neutral,High
+8,127,Rose,"Citronellol, Geraniol",Romance,34,Female,American,True,Neutral,Medium
+8,128,Eucalyptus,Eucalyptol,Healing,43,Female,British,False,Calm,Medium
+8,129,Sandalwood,Santalol,Tranquility,38,Other,Indian,True,Calm,Low
+8,130,Leather,Benzaldehyde,Luxury,45,Other,American,False,Energized,Low
+8,131,Coffee,"Caffeine, Niacin",Alertness,63,Female,American,False,Neutral,Low
+8,132,Chocolate,Theobromine,Pleasure,19,Male,French,False,Calm,Low
+8,133,Burnt Wood,Guaiacol,Nostalgia,60,Male,Indian,False,Energized,High
+8,134,Cinnamon,Cinnamaldehyde,Warmth,18,Male,American,True,Energized,High
+8,135,Apple,Amyl acetate,Freshness,68,Male,American,False,Neutral,Low
+8,136,Strawberry,Methyl anthranilate,Joy,53,Male,Indian,False,Stressed,Low
+8,137,Smoky,Creosol,Mystery,68,Other,British,False,Neutral,Medium
+8,138,Floral,Phenyl ethyl alcohol,Delight,43,Female,Indian,True,Stressed,High
+8,139,Ocean Breeze,Dimethyl sulfide,Freedom,46,Other,Indian,True,Energized,High
+8,140,Rain,Geosmin,Nature,38,Male,British,False,Calm,Low
+8,141,Lavender,"Linalool, Linalyl acetate",Relaxation,28,Male,Indian,False,Sad,High
+8,142,Citrus,"Limonene, Citral",Happiness,57,Male,American,False,Energized,Medium
+8,143,Pine,Pinene,Calmness,28,Male,Indian,False,Calm,Medium
+8,144,Fresh Linen,Aldehydes,Cleanliness,53,Female,British,False,Energized,High
+8,145,Peppermint,Menthol,Refreshment,66,Male,Chinese,False,Neutral,Low
+8,146,Vanilla,Vanillin,Comfort,56,Female,Indian,True,Stressed,High
+8,147,Rose,"Citronellol, Geraniol",Romance,57,Male,French,False,Energized,Medium
+8,148,Eucalyptus,Eucalyptol,Healing,52,Female,American,False,Calm,Low
+8,149,Sandalwood,Santalol,Tranquility,51,Other,American,False,Neutral,High
+8,150,Leather,Benzaldehyde,Luxury,64,Male,French,False,Sad,Low
+8,151,Coffee,"Caffeine, Niacin",Alertness,41,Female,French,False,Neutral,Low
+8,152,Chocolate,Theobromine,Pleasure,39,Other,Indian,False,Stressed,Medium
+8,153,Burnt Wood,Guaiacol,Nostalgia,22,Male,French,True,Neutral,Low
+8,154,Cinnamon,Cinnamaldehyde,Warmth,50,Male,Chinese,True,Sad,High
+8,155,Apple,Amyl acetate,Freshness,53,Male,British,True,Calm,Low
+8,156,Strawberry,Methyl anthranilate,Joy,64,Female,French,True,Energized,Low
+8,157,Smoky,Creosol,Mystery,37,Female,French,True,Stressed,High
+8,158,Floral,Phenyl ethyl alcohol,Delight,36,Other,Chinese,True,Sad,Medium
+8,159,Ocean Breeze,Dimethyl sulfide,Freedom,52,Female,American,False,Stressed,Medium
+8,160,Rain,Geosmin,Nature,69,Female,American,False,Neutral,High
+8,161,Lavender,"Linalool, Linalyl acetate",Relaxation,60,Male,Indian,False,Stressed,High
+8,162,Citrus,"Limonene, Citral",Happiness,34,Male,Chinese,False,Sad,Medium
+8,163,Pine,Pinene,Calmness,62,Male,British,False,Energized,Low
+8,164,Fresh Linen,Aldehydes,Cleanliness,60,Male,British,False,Energized,High
+8,165,Peppermint,Menthol,Refreshment,51,Male,Chinese,True,Stressed,Low
+8,166,Vanilla,Vanillin,Comfort,26,Male,British,False,Calm,High
+8,167,Rose,"Citronellol, Geraniol",Romance,43,Male,American,True,Stressed,Medium
+8,168,Eucalyptus,Eucalyptol,Healing,19,Other,British,True,Neutral,Low
+8,169,Sandalwood,Santalol,Tranquility,26,Other,British,False,Energized,Low
+8,170,Leather,Benzaldehyde,Luxury,26,Other,Chinese,False,Energized,High
+8,171,Coffee,"Caffeine, Niacin",Alertness,57,Other,Chinese,False,Energized,Low
+8,172,Chocolate,Theobromine,Pleasure,34,Male,British,False,Calm,High
+8,173,Burnt Wood,Guaiacol,Nostalgia,18,Other,French,False,Calm,Medium
+8,174,Cinnamon,Cinnamaldehyde,Warmth,42,Male,Chinese,False,Sad,Low
+8,175,Apple,Amyl acetate,Freshness,60,Other,Indian,False,Stressed,High
+8,176,Strawberry,Methyl anthranilate,Joy,57,Female,Indian,True,Stressed,Low
+8,177,Smoky,Creosol,Mystery,59,Other,American,False,Neutral,High
+8,178,Floral,Phenyl ethyl alcohol,Delight,42,Other,British,False,Energized,High
+8,179,Ocean Breeze,Dimethyl sulfide,Freedom,56,Male,French,True,Calm,High
+8,180,Rain,Geosmin,Nature,52,Other,American,False,Neutral,Medium
+8,181,Lavender,"Linalool, Linalyl acetate",Relaxation,20,Female,British,False,Neutral,Low
+8,182,Citrus,"Limonene, Citral",Happiness,67,Male,Chinese,True,Calm,Medium
+8,183,Pine,Pinene,Calmness,54,Male,Indian,False,Stressed,High
+8,184,Fresh Linen,Aldehydes,Cleanliness,61,Other,French,False,Energized,High
+8,185,Peppermint,Menthol,Refreshment,61,Male,Indian,False,Stressed,Medium
+8,186,Vanilla,Vanillin,Comfort,68,Male,Chinese,False,Neutral,Medium
+8,187,Rose,"Citronellol, Geraniol",Romance,47,Male,British,False,Energized,Low
+8,188,Eucalyptus,Eucalyptol,Healing,55,Male,Chinese,False,Sad,High
+8,189,Sandalwood,Santalol,Tranquility,51,Male,Chinese,True,Neutral,Medium
+8,190,Leather,Benzaldehyde,Luxury,29,Male,Indian,False,Stressed,High
+8,191,Coffee,"Caffeine, Niacin",Alertness,36,Female,French,False,Stressed,High
+8,192,Chocolate,Theobromine,Pleasure,54,Other,Chinese,True,Stressed,Low
+8,193,Burnt Wood,Guaiacol,Nostalgia,61,Female,Indian,True,Calm,Low
+8,194,Cinnamon,Cinnamaldehyde,Warmth,66,Male,French,False,Neutral,Low
+8,195,Apple,Amyl acetate,Freshness,34,Male,British,True,Energized,Medium
+8,196,Strawberry,Methyl anthranilate,Joy,27,Other,British,False,Stressed,High
+8,197,Smoky,Creosol,Mystery,66,Female,American,False,Stressed,Medium
+8,198,Floral,Phenyl ethyl alcohol,Delight,64,Other,Indian,True,Calm,Medium
+8,199,Ocean Breeze,Dimethyl sulfide,Freedom,29,Female,French,False,Energized,Low
+8,200,Rain,Geosmin,Nature,33,Male,Chinese,False,Neutral,High
+9,1,Lavender,"Linalool, Linalyl acetate",Relaxation,41,Other,British,True,Sad,High
+9,2,Citrus,"Limonene, Citral",Happiness,36,Other,French,True,Calm,Low
+9,3,Pine,Pinene,Calmness,25,Male,Indian,True,Neutral,High
+9,4,Fresh Linen,Aldehydes,Cleanliness,48,Other,American,True,Sad,Low
+9,5,Peppermint,Menthol,Refreshment,38,Female,British,False,Stressed,Medium
+9,6,Vanilla,Vanillin,Comfort,34,Female,French,True,Stressed,Medium
+9,7,Rose,"Citronellol, Geraniol",Romance,40,Female,French,True,Energized,Low
+9,8,Eucalyptus,Eucalyptol,Healing,54,Female,French,True,Sad,Medium
+9,9,Sandalwood,Santalol,Tranquility,33,Male,Indian,True,Stressed,Medium
+9,10,Leather,Benzaldehyde,Luxury,23,Other,Indian,True,Stressed,Low
+9,11,Coffee,"Caffeine, Niacin",Alertness,25,Female,Indian,False,Energized,Medium
+9,12,Chocolate,Theobromine,Pleasure,42,Male,Chinese,True,Neutral,High
+9,13,Burnt Wood,Guaiacol,Nostalgia,35,Other,French,False,Stressed,Medium
+9,14,Cinnamon,Cinnamaldehyde,Warmth,42,Other,British,True,Calm,Low
+9,15,Apple,Amyl acetate,Freshness,29,Male,Indian,True,Calm,High
+9,16,Strawberry,Methyl anthranilate,Joy,32,Male,Indian,True,Neutral,High
+9,17,Smoky,Creosol,Mystery,43,Female,French,True,Sad,Medium
+9,18,Floral,Phenyl ethyl alcohol,Delight,58,Other,Indian,True,Energized,High
+9,19,Ocean Breeze,Dimethyl sulfide,Freedom,62,Other,Chinese,True,Calm,Low
+9,20,Rain,Geosmin,Nature,43,Male,Chinese,True,Calm,High
+9,21,Lavender,"Linalool, Linalyl acetate",Relaxation,64,Other,Indian,True,Neutral,Medium
+9,22,Citrus,"Limonene, Citral",Happiness,49,Female,French,False,Sad,Medium
+9,23,Pine,Pinene,Calmness,27,Other,French,True,Sad,High
+9,24,Fresh Linen,Aldehydes,Cleanliness,33,Male,French,False,Neutral,Low
+9,25,Peppermint,Menthol,Refreshment,24,Male,American,True,Calm,Low
+9,26,Vanilla,Vanillin,Comfort,34,Female,Indian,False,Energized,Medium
+9,27,Rose,"Citronellol, Geraniol",Romance,40,Female,French,True,Calm,Medium
+9,28,Eucalyptus,Eucalyptol,Healing,43,Other,Chinese,True,Sad,Low
+9,29,Sandalwood,Santalol,Tranquility,38,Other,British,True,Calm,High
+9,30,Leather,Benzaldehyde,Luxury,39,Male,British,False,Energized,High
+9,31,Coffee,"Caffeine, Niacin",Alertness,24,Female,French,False,Stressed,High
+9,32,Chocolate,Theobromine,Pleasure,31,Female,British,False,Calm,High
+9,33,Burnt Wood,Guaiacol,Nostalgia,32,Female,British,False,Neutral,Low
+9,34,Cinnamon,Cinnamaldehyde,Warmth,24,Other,American,True,Stressed,Medium
+9,35,Apple,Amyl acetate,Freshness,26,Female,Chinese,True,Neutral,Medium
+9,36,Strawberry,Methyl anthranilate,Joy,68,Male,Chinese,True,Neutral,High
+9,37,Smoky,Creosol,Mystery,65,Male,American,False,Neutral,Low
+9,38,Floral,Phenyl ethyl alcohol,Delight,25,Other,American,True,Calm,Low
+9,39,Ocean Breeze,Dimethyl sulfide,Freedom,67,Other,British,False,Sad,High
+9,40,Rain,Geosmin,Nature,40,Female,Indian,False,Stressed,High
+9,41,Lavender,"Linalool, Linalyl acetate",Relaxation,46,Other,British,False,Energized,High
+9,42,Citrus,"Limonene, Citral",Happiness,35,Male,American,False,Sad,Medium
+9,43,Pine,Pinene,Calmness,48,Female,Chinese,False,Calm,High
+9,44,Fresh Linen,Aldehydes,Cleanliness,47,Male,British,True,Neutral,Medium
+9,45,Peppermint,Menthol,Refreshment,69,Female,Indian,False,Energized,Low
+9,46,Vanilla,Vanillin,Comfort,56,Other,British,False,Stressed,Low
+9,47,Rose,"Citronellol, Geraniol",Romance,52,Female,French,True,Sad,Medium
+9,48,Eucalyptus,Eucalyptol,Healing,35,Female,British,False,Sad,Medium
+9,49,Sandalwood,Santalol,Tranquility,59,Male,American,False,Energized,Medium
+9,50,Leather,Benzaldehyde,Luxury,56,Male,Chinese,True,Calm,Medium
+9,51,Coffee,"Caffeine, Niacin",Alertness,34,Female,Chinese,True,Stressed,High
+9,52,Chocolate,Theobromine,Pleasure,31,Other,American,True,Energized,Low
+9,53,Burnt Wood,Guaiacol,Nostalgia,48,Other,French,False,Neutral,High
+9,54,Cinnamon,Cinnamaldehyde,Warmth,41,Male,American,True,Stressed,Medium
+9,55,Apple,Amyl acetate,Freshness,52,Other,British,True,Sad,High
+9,56,Strawberry,Methyl anthranilate,Joy,61,Male,American,True,Energized,High
+9,57,Smoky,Creosol,Mystery,62,Other,American,False,Sad,Low
+9,58,Floral,Phenyl ethyl alcohol,Delight,51,Female,French,True,Sad,High
+9,59,Ocean Breeze,Dimethyl sulfide,Freedom,20,Male,British,False,Sad,Low
+9,60,Rain,Geosmin,Nature,54,Male,Indian,False,Calm,Medium
+9,61,Lavender,"Linalool, Linalyl acetate",Relaxation,60,Female,Indian,True,Sad,High
+9,62,Citrus,"Limonene, Citral",Happiness,57,Male,Chinese,False,Neutral,Medium
+9,63,Pine,Pinene,Calmness,43,Other,American,False,Neutral,Low
+9,64,Fresh Linen,Aldehydes,Cleanliness,40,Other,Chinese,True,Stressed,Medium
+9,65,Peppermint,Menthol,Refreshment,61,Male,French,False,Sad,Medium
+9,66,Vanilla,Vanillin,Comfort,56,Other,Indian,True,Sad,Low
+9,67,Rose,"Citronellol, Geraniol",Romance,32,Male,American,False,Energized,Medium
+9,68,Eucalyptus,Eucalyptol,Healing,66,Female,French,False,Calm,Medium
+9,69,Sandalwood,Santalol,Tranquility,21,Male,French,True,Stressed,Medium
+9,70,Leather,Benzaldehyde,Luxury,46,Female,American,True,Sad,High
+9,71,Coffee,"Caffeine, Niacin",Alertness,39,Other,French,False,Energized,Medium
+9,72,Chocolate,Theobromine,Pleasure,42,Female,American,False,Calm,Low
+9,73,Burnt Wood,Guaiacol,Nostalgia,30,Other,American,True,Stressed,High
+9,74,Cinnamon,Cinnamaldehyde,Warmth,35,Male,British,False,Stressed,High
+9,75,Apple,Amyl acetate,Freshness,50,Other,Chinese,False,Sad,Low
+9,76,Strawberry,Methyl anthranilate,Joy,33,Male,French,False,Stressed,Medium
+9,77,Smoky,Creosol,Mystery,62,Male,French,False,Energized,High
+9,78,Floral,Phenyl ethyl alcohol,Delight,59,Female,British,True,Stressed,High
+9,79,Ocean Breeze,Dimethyl sulfide,Freedom,61,Female,British,True,Neutral,High
+9,80,Rain,Geosmin,Nature,19,Female,British,True,Energized,Medium
+9,81,Lavender,"Linalool, Linalyl acetate",Relaxation,52,Female,Indian,True,Calm,High
+9,82,Citrus,"Limonene, Citral",Happiness,59,Other,Indian,True,Calm,Low
+9,83,Pine,Pinene,Calmness,51,Other,Indian,True,Sad,Medium
+9,84,Fresh Linen,Aldehydes,Cleanliness,47,Other,American,False,Sad,Low
+9,85,Peppermint,Menthol,Refreshment,30,Male,French,True,Neutral,Low
+9,86,Vanilla,Vanillin,Comfort,30,Other,Chinese,False,Calm,High
+9,87,Rose,"Citronellol, Geraniol",Romance,35,Other,American,False,Calm,High
+9,88,Eucalyptus,Eucalyptol,Healing,49,Other,French,False,Calm,High
+9,89,Sandalwood,Santalol,Tranquility,49,Female,French,True,Calm,Low
+9,90,Leather,Benzaldehyde,Luxury,52,Other,British,False,Stressed,Medium
+9,91,Coffee,"Caffeine, Niacin",Alertness,56,Male,British,True,Energized,High
+9,92,Chocolate,Theobromine,Pleasure,63,Female,American,False,Energized,High
+9,93,Burnt Wood,Guaiacol,Nostalgia,69,Male,British,False,Neutral,Low
+9,94,Cinnamon,Cinnamaldehyde,Warmth,46,Other,French,True,Stressed,Medium
+9,95,Apple,Amyl acetate,Freshness,66,Female,British,False,Calm,Low
+9,96,Strawberry,Methyl anthranilate,Joy,46,Male,Indian,False,Calm,High
+9,97,Smoky,Creosol,Mystery,61,Other,British,False,Sad,Low
+9,98,Floral,Phenyl ethyl alcohol,Delight,33,Male,French,False,Sad,High
+9,99,Ocean Breeze,Dimethyl sulfide,Freedom,61,Male,American,True,Neutral,Medium
+9,100,Rain,Geosmin,Nature,64,Male,Chinese,False,Calm,Low
+9,101,Lavender,"Linalool, Linalyl acetate",Relaxation,27,Other,British,False,Neutral,High
+9,102,Citrus,"Limonene, Citral",Happiness,47,Other,French,True,Stressed,High
+9,103,Pine,Pinene,Calmness,42,Male,Chinese,False,Energized,High
+9,104,Fresh Linen,Aldehydes,Cleanliness,56,Female,Chinese,False,Calm,High
+9,105,Peppermint,Menthol,Refreshment,37,Female,Indian,False,Stressed,Low
+9,106,Vanilla,Vanillin,Comfort,22,Other,Chinese,False,Calm,High
+9,107,Rose,"Citronellol, Geraniol",Romance,18,Other,French,True,Sad,Low
+9,108,Eucalyptus,Eucalyptol,Healing,47,Other,French,False,Neutral,High
+9,109,Sandalwood,Santalol,Tranquility,66,Other,British,True,Sad,Low
+9,110,Leather,Benzaldehyde,Luxury,20,Other,British,False,Energized,Low
+9,111,Coffee,"Caffeine, Niacin",Alertness,62,Female,British,False,Sad,High
+9,112,Chocolate,Theobromine,Pleasure,31,Other,Chinese,False,Calm,High
+9,113,Burnt Wood,Guaiacol,Nostalgia,47,Male,Chinese,True,Sad,High
+9,114,Cinnamon,Cinnamaldehyde,Warmth,67,Male,Indian,False,Calm,High
+9,115,Apple,Amyl acetate,Freshness,21,Female,British,False,Energized,Medium
+9,116,Strawberry,Methyl anthranilate,Joy,35,Male,American,True,Sad,High
+9,117,Smoky,Creosol,Mystery,54,Female,Indian,True,Neutral,High
+9,118,Floral,Phenyl ethyl alcohol,Delight,42,Female,American,True,Neutral,High
+9,119,Ocean Breeze,Dimethyl sulfide,Freedom,65,Male,Chinese,True,Neutral,Low
+9,120,Rain,Geosmin,Nature,18,Other,Indian,False,Sad,High
+9,121,Lavender,"Linalool, Linalyl acetate",Relaxation,63,Male,Indian,False,Sad,Low
+9,122,Citrus,"Limonene, Citral",Happiness,32,Male,French,False,Sad,Low
+9,123,Pine,Pinene,Calmness,26,Female,Chinese,False,Calm,Low
+9,124,Fresh Linen,Aldehydes,Cleanliness,32,Male,Chinese,True,Energized,Low
+9,125,Peppermint,Menthol,Refreshment,66,Female,Indian,False,Neutral,Medium
+9,126,Vanilla,Vanillin,Comfort,41,Other,Chinese,False,Calm,High
+9,127,Rose,"Citronellol, Geraniol",Romance,21,Other,Indian,False,Neutral,Low
+9,128,Eucalyptus,Eucalyptol,Healing,29,Other,French,False,Calm,High
+9,129,Sandalwood,Santalol,Tranquility,54,Male,Indian,True,Sad,Low
+9,130,Leather,Benzaldehyde,Luxury,54,Female,Chinese,False,Neutral,Medium
+9,131,Coffee,"Caffeine, Niacin",Alertness,60,Other,Chinese,False,Sad,Low
+9,132,Chocolate,Theobromine,Pleasure,23,Female,Indian,False,Neutral,High
+9,133,Burnt Wood,Guaiacol,Nostalgia,56,Female,Indian,True,Stressed,High
+9,134,Cinnamon,Cinnamaldehyde,Warmth,63,Other,Indian,True,Calm,Medium
+9,135,Apple,Amyl acetate,Freshness,41,Other,British,False,Stressed,High
+9,136,Strawberry,Methyl anthranilate,Joy,28,Female,Chinese,False,Calm,High
+9,137,Smoky,Creosol,Mystery,30,Other,Chinese,False,Energized,Low
+9,138,Floral,Phenyl ethyl alcohol,Delight,51,Female,British,True,Neutral,High
+9,139,Ocean Breeze,Dimethyl sulfide,Freedom,42,Female,Indian,False,Energized,Low
+9,140,Rain,Geosmin,Nature,24,Other,French,False,Energized,Medium
+9,141,Lavender,"Linalool, Linalyl acetate",Relaxation,69,Male,Indian,False,Calm,High
+9,142,Citrus,"Limonene, Citral",Happiness,21,Other,Indian,True,Stressed,Low
+9,143,Pine,Pinene,Calmness,25,Male,British,False,Sad,High
+9,144,Fresh Linen,Aldehydes,Cleanliness,37,Female,Chinese,False,Calm,Low
+9,145,Peppermint,Menthol,Refreshment,46,Female,Indian,True,Sad,Medium
+9,146,Vanilla,Vanillin,Comfort,68,Male,Chinese,True,Energized,Low
+9,147,Rose,"Citronellol, Geraniol",Romance,62,Female,American,False,Sad,High
+9,148,Eucalyptus,Eucalyptol,Healing,63,Male,Chinese,True,Stressed,Low
+9,149,Sandalwood,Santalol,Tranquility,27,Male,French,False,Calm,High
+9,150,Leather,Benzaldehyde,Luxury,60,Female,French,True,Stressed,Medium
+9,151,Coffee,"Caffeine, Niacin",Alertness,51,Male,Indian,True,Stressed,Low
+9,152,Chocolate,Theobromine,Pleasure,43,Other,Chinese,False,Calm,High
+9,153,Burnt Wood,Guaiacol,Nostalgia,58,Other,Indian,False,Stressed,High
+9,154,Cinnamon,Cinnamaldehyde,Warmth,66,Female,British,False,Neutral,High
+9,155,Apple,Amyl acetate,Freshness,20,Female,French,True,Neutral,Low
+9,156,Strawberry,Methyl anthranilate,Joy,23,Male,Indian,False,Neutral,Low
+9,157,Smoky,Creosol,Mystery,22,Male,British,False,Sad,Low
+9,158,Floral,Phenyl ethyl alcohol,Delight,22,Male,Indian,False,Stressed,Medium
+9,159,Ocean Breeze,Dimethyl sulfide,Freedom,64,Male,Chinese,False,Calm,High
+9,160,Rain,Geosmin,Nature,40,Other,Chinese,False,Calm,High
+9,161,Lavender,"Linalool, Linalyl acetate",Relaxation,66,Other,Chinese,True,Sad,Medium
+9,162,Citrus,"Limonene, Citral",Happiness,26,Female,Chinese,False,Calm,Medium
+9,163,Pine,Pinene,Calmness,52,Male,American,False,Neutral,Low
+9,164,Fresh Linen,Aldehydes,Cleanliness,37,Male,British,True,Stressed,Low
+9,165,Peppermint,Menthol,Refreshment,66,Female,British,False,Calm,Low
+9,166,Vanilla,Vanillin,Comfort,59,Male,Chinese,False,Calm,Low
+9,167,Rose,"Citronellol, Geraniol",Romance,52,Male,American,False,Energized,Low
+9,168,Eucalyptus,Eucalyptol,Healing,67,Male,Chinese,False,Energized,Low
+9,169,Sandalwood,Santalol,Tranquility,35,Male,American,False,Energized,Medium
+9,170,Leather,Benzaldehyde,Luxury,34,Male,Chinese,True,Stressed,Medium
+9,171,Coffee,"Caffeine, Niacin",Alertness,41,Female,French,True,Neutral,Medium
+9,172,Chocolate,Theobromine,Pleasure,20,Male,French,True,Neutral,High
+9,173,Burnt Wood,Guaiacol,Nostalgia,49,Female,Indian,False,Neutral,High
+9,174,Cinnamon,Cinnamaldehyde,Warmth,52,Male,Chinese,True,Stressed,Low
+9,175,Apple,Amyl acetate,Freshness,55,Other,British,False,Stressed,Medium
+9,176,Strawberry,Methyl anthranilate,Joy,30,Other,Indian,False,Energized,High
+9,177,Smoky,Creosol,Mystery,64,Other,French,False,Calm,High
+9,178,Floral,Phenyl ethyl alcohol,Delight,42,Other,Chinese,True,Sad,Medium
+9,179,Ocean Breeze,Dimethyl sulfide,Freedom,26,Female,Indian,True,Sad,High
+9,180,Rain,Geosmin,Nature,21,Female,Chinese,True,Calm,High
+9,181,Lavender,"Linalool, Linalyl acetate",Relaxation,31,Male,French,False,Energized,Medium
+9,182,Citrus,"Limonene, Citral",Happiness,54,Other,Indian,True,Calm,High
+9,183,Pine,Pinene,Calmness,51,Female,French,False,Calm,Medium
+9,184,Fresh Linen,Aldehydes,Cleanliness,28,Male,American,True,Sad,High
+9,185,Peppermint,Menthol,Refreshment,58,Male,French,True,Energized,Medium
+9,186,Vanilla,Vanillin,Comfort,20,Female,Chinese,False,Stressed,High
+9,187,Rose,"Citronellol, Geraniol",Romance,45,Other,British,False,Sad,High
+9,188,Eucalyptus,Eucalyptol,Healing,46,Male,French,True,Stressed,Medium
+9,189,Sandalwood,Santalol,Tranquility,26,Other,British,True,Energized,High
+9,190,Leather,Benzaldehyde,Luxury,20,Other,American,True,Calm,Medium
+9,191,Coffee,"Caffeine, Niacin",Alertness,42,Other,Indian,False,Neutral,Medium
+9,192,Chocolate,Theobromine,Pleasure,51,Male,Indian,False,Neutral,High
+9,193,Burnt Wood,Guaiacol,Nostalgia,29,Other,British,True,Energized,Low
+9,194,Cinnamon,Cinnamaldehyde,Warmth,59,Male,Indian,True,Neutral,High
+9,195,Apple,Amyl acetate,Freshness,26,Other,French,False,Stressed,Low
+9,196,Strawberry,Methyl anthranilate,Joy,32,Male,British,True,Neutral,Low
+9,197,Smoky,Creosol,Mystery,57,Other,Chinese,False,Energized,High
+9,198,Floral,Phenyl ethyl alcohol,Delight,42,Female,French,False,Energized,Low
+9,199,Ocean Breeze,Dimethyl sulfide,Freedom,22,Other,French,False,Stressed,Medium
+9,200,Rain,Geosmin,Nature,28,Other,French,False,Neutral,Medium
+10,1,Lavender,"Linalool, Linalyl acetate",Relaxation,51,Male,Chinese,False,Neutral,Low
+10,2,Citrus,"Limonene, Citral",Happiness,41,Male,American,False,Calm,Medium
+10,3,Pine,Pinene,Calmness,32,Other,Indian,True,Sad,High
+10,4,Fresh Linen,Aldehydes,Cleanliness,55,Female,British,False,Energized,Medium
+10,5,Peppermint,Menthol,Refreshment,25,Female,American,False,Calm,Low
+10,6,Vanilla,Vanillin,Comfort,22,Male,British,True,Energized,High
+10,7,Rose,"Citronellol, Geraniol",Romance,65,Female,Indian,False,Calm,Medium
+10,8,Eucalyptus,Eucalyptol,Healing,43,Other,Chinese,True,Sad,High
+10,9,Sandalwood,Santalol,Tranquility,35,Male,French,False,Calm,Low
+10,10,Leather,Benzaldehyde,Luxury,23,Other,French,True,Energized,Medium
+10,11,Coffee,"Caffeine, Niacin",Alertness,54,Male,Chinese,True,Neutral,High
+10,12,Chocolate,Theobromine,Pleasure,65,Male,American,False,Energized,High
+10,13,Burnt Wood,Guaiacol,Nostalgia,30,Male,American,False,Stressed,Medium
+10,14,Cinnamon,Cinnamaldehyde,Warmth,45,Male,British,False,Stressed,High
+10,15,Apple,Amyl acetate,Freshness,22,Female,Chinese,False,Stressed,High
+10,16,Strawberry,Methyl anthranilate,Joy,30,Other,American,True,Stressed,Low
+10,17,Smoky,Creosol,Mystery,34,Other,Chinese,True,Sad,Low
+10,18,Floral,Phenyl ethyl alcohol,Delight,67,Other,Indian,True,Neutral,Low
+10,19,Ocean Breeze,Dimethyl sulfide,Freedom,57,Male,French,False,Neutral,Low
+10,20,Rain,Geosmin,Nature,62,Female,French,True,Energized,Low
+10,21,Lavender,"Linalool, Linalyl acetate",Relaxation,49,Other,French,False,Calm,Low
+10,22,Citrus,"Limonene, Citral",Happiness,46,Female,Chinese,False,Energized,Medium
+10,23,Pine,Pinene,Calmness,68,Male,Chinese,True,Energized,Low
+10,24,Fresh Linen,Aldehydes,Cleanliness,20,Other,British,False,Energized,High
+10,25,Peppermint,Menthol,Refreshment,57,Female,French,True,Energized,Medium
+10,26,Vanilla,Vanillin,Comfort,51,Male,British,False,Neutral,High
+10,27,Rose,"Citronellol, Geraniol",Romance,57,Female,French,True,Calm,Low
+10,28,Eucalyptus,Eucalyptol,Healing,44,Other,British,False,Energized,Low
+10,29,Sandalwood,Santalol,Tranquility,30,Other,British,True,Neutral,High
+10,30,Leather,Benzaldehyde,Luxury,62,Male,Indian,True,Energized,High
+10,31,Coffee,"Caffeine, Niacin",Alertness,50,Male,British,False,Stressed,High
+10,32,Chocolate,Theobromine,Pleasure,23,Male,Chinese,False,Energized,Medium
+10,33,Burnt Wood,Guaiacol,Nostalgia,41,Female,British,True,Energized,Low
+10,34,Cinnamon,Cinnamaldehyde,Warmth,36,Female,French,False,Sad,High
+10,35,Apple,Amyl acetate,Freshness,33,Female,British,False,Stressed,Low
+10,36,Strawberry,Methyl anthranilate,Joy,57,Male,American,False,Calm,High
+10,37,Smoky,Creosol,Mystery,45,Other,French,True,Energized,Low
+10,38,Floral,Phenyl ethyl alcohol,Delight,50,Other,American,True,Calm,Medium
+10,39,Ocean Breeze,Dimethyl sulfide,Freedom,65,Female,French,False,Stressed,Low
+10,40,Rain,Geosmin,Nature,58,Female,Chinese,False,Energized,High
+10,41,Lavender,"Linalool, Linalyl acetate",Relaxation,30,Other,Chinese,True,Sad,Low
+10,42,Citrus,"Limonene, Citral",Happiness,60,Other,Chinese,False,Neutral,Medium
+10,43,Pine,Pinene,Calmness,62,Female,American,True,Sad,Medium
+10,44,Fresh Linen,Aldehydes,Cleanliness,42,Female,Indian,False,Sad,Low
+10,45,Peppermint,Menthol,Refreshment,59,Other,French,False,Neutral,High
+10,46,Vanilla,Vanillin,Comfort,53,Male,Chinese,False,Neutral,Medium
+10,47,Rose,"Citronellol, Geraniol",Romance,44,Female,French,True,Neutral,Medium
+10,48,Eucalyptus,Eucalyptol,Healing,55,Other,American,True,Energized,Low
+10,49,Sandalwood,Santalol,Tranquility,24,Other,Indian,True,Calm,Medium
+10,50,Leather,Benzaldehyde,Luxury,22,Other,American,True,Calm,Medium
+10,51,Coffee,"Caffeine, Niacin",Alertness,60,Other,French,False,Neutral,High
+10,52,Chocolate,Theobromine,Pleasure,62,Male,Indian,False,Sad,High
+10,53,Burnt Wood,Guaiacol,Nostalgia,68,Other,Indian,True,Stressed,High
+10,54,Cinnamon,Cinnamaldehyde,Warmth,48,Female,American,False,Neutral,Low
+10,55,Apple,Amyl acetate,Freshness,40,Male,Chinese,False,Sad,Medium
+10,56,Strawberry,Methyl anthranilate,Joy,59,Other,French,True,Sad,Low
+10,57,Smoky,Creosol,Mystery,27,Male,British,False,Energized,Medium
+10,58,Floral,Phenyl ethyl alcohol,Delight,49,Female,British,False,Energized,Medium
+10,59,Ocean Breeze,Dimethyl sulfide,Freedom,60,Other,American,True,Calm,Medium
+10,60,Rain,Geosmin,Nature,47,Female,French,False,Calm,High
+10,61,Lavender,"Linalool, Linalyl acetate",Relaxation,56,Other,French,False,Stressed,Low
+10,62,Citrus,"Limonene, Citral",Happiness,48,Other,American,False,Stressed,Low
+10,63,Pine,Pinene,Calmness,35,Other,French,True,Stressed,Medium
+10,64,Fresh Linen,Aldehydes,Cleanliness,53,Other,Chinese,True,Stressed,Low
+10,65,Peppermint,Menthol,Refreshment,19,Other,American,False,Sad,High
+10,66,Vanilla,Vanillin,Comfort,31,Male,Chinese,False,Sad,Low
+10,67,Rose,"Citronellol, Geraniol",Romance,30,Other,French,False,Calm,Medium
+10,68,Eucalyptus,Eucalyptol,Healing,46,Other,American,True,Energized,High
+10,69,Sandalwood,Santalol,Tranquility,29,Male,French,True,Energized,High
+10,70,Leather,Benzaldehyde,Luxury,56,Male,American,True,Neutral,Medium
+10,71,Coffee,"Caffeine, Niacin",Alertness,19,Male,French,False,Sad,Low
+10,72,Chocolate,Theobromine,Pleasure,49,Male,Chinese,False,Stressed,Medium
+10,73,Burnt Wood,Guaiacol,Nostalgia,30,Male,Chinese,False,Stressed,Low
+10,74,Cinnamon,Cinnamaldehyde,Warmth,63,Male,French,False,Neutral,Low
+10,75,Apple,Amyl acetate,Freshness,44,Other,American,False,Energized,High
+10,76,Strawberry,Methyl anthranilate,Joy,66,Other,British,True,Stressed,Medium
+10,77,Smoky,Creosol,Mystery,58,Female,Chinese,False,Energized,High
+10,78,Floral,Phenyl ethyl alcohol,Delight,34,Other,Chinese,False,Neutral,Medium
+10,79,Ocean Breeze,Dimethyl sulfide,Freedom,57,Other,British,False,Energized,Medium
+10,80,Rain,Geosmin,Nature,48,Male,French,True,Energized,High
+10,81,Lavender,"Linalool, Linalyl acetate",Relaxation,51,Male,American,False,Energized,Medium
+10,82,Citrus,"Limonene, Citral",Happiness,41,Other,French,True,Stressed,Medium
+10,83,Pine,Pinene,Calmness,62,Female,Indian,True,Calm,Low
+10,84,Fresh Linen,Aldehydes,Cleanliness,52,Male,Chinese,True,Sad,Medium
+10,85,Peppermint,Menthol,Refreshment,65,Other,Indian,True,Energized,Medium
+10,86,Vanilla,Vanillin,Comfort,23,Other,Chinese,True,Energized,High
+10,87,Rose,"Citronellol, Geraniol",Romance,36,Female,Chinese,False,Energized,High
+10,88,Eucalyptus,Eucalyptol,Healing,47,Female,Indian,False,Calm,Medium
+10,89,Sandalwood,Santalol,Tranquility,24,Male,Indian,True,Neutral,Low
+10,90,Leather,Benzaldehyde,Luxury,27,Female,French,True,Stressed,Low
+10,91,Coffee,"Caffeine, Niacin",Alertness,58,Other,Indian,True,Calm,High
+10,92,Chocolate,Theobromine,Pleasure,49,Other,French,False,Energized,Medium
+10,93,Burnt Wood,Guaiacol,Nostalgia,51,Female,French,False,Calm,Medium
+10,94,Cinnamon,Cinnamaldehyde,Warmth,45,Female,French,True,Calm,Low
+10,95,Apple,Amyl acetate,Freshness,32,Female,Chinese,False,Calm,Low
+10,96,Strawberry,Methyl anthranilate,Joy,47,Female,Chinese,False,Neutral,Low
+10,97,Smoky,Creosol,Mystery,54,Male,Indian,True,Sad,High
+10,98,Floral,Phenyl ethyl alcohol,Delight,46,Female,Chinese,True,Stressed,Medium
+10,99,Ocean Breeze,Dimethyl sulfide,Freedom,39,Male,Indian,False,Neutral,High
+10,100,Rain,Geosmin,Nature,21,Other,Chinese,False,Neutral,Medium
+10,101,Lavender,"Linalool, Linalyl acetate",Relaxation,37,Female,American,False,Sad,High
+10,102,Citrus,"Limonene, Citral",Happiness,49,Male,American,True,Neutral,Medium
+10,103,Pine,Pinene,Calmness,53,Female,Indian,True,Calm,Low
+10,104,Fresh Linen,Aldehydes,Cleanliness,67,Other,Chinese,True,Calm,Low
+10,105,Peppermint,Menthol,Refreshment,21,Other,Chinese,False,Energized,Low
+10,106,Vanilla,Vanillin,Comfort,44,Other,French,False,Neutral,High
+10,107,Rose,"Citronellol, Geraniol",Romance,34,Female,British,True,Energized,Low
+10,108,Eucalyptus,Eucalyptol,Healing,29,Female,Indian,False,Stressed,Medium
+10,109,Sandalwood,Santalol,Tranquility,39,Male,British,True,Calm,High
+10,110,Leather,Benzaldehyde,Luxury,34,Other,British,False,Stressed,Medium
+10,111,Coffee,"Caffeine, Niacin",Alertness,27,Female,Indian,True,Sad,High
+10,112,Chocolate,Theobromine,Pleasure,18,Other,Chinese,False,Calm,Medium
+10,113,Burnt Wood,Guaiacol,Nostalgia,39,Other,Indian,False,Stressed,Medium
+10,114,Cinnamon,Cinnamaldehyde,Warmth,43,Male,British,True,Sad,High
+10,115,Apple,Amyl acetate,Freshness,35,Male,Chinese,True,Stressed,High
+10,116,Strawberry,Methyl anthranilate,Joy,67,Male,American,True,Sad,Low
+10,117,Smoky,Creosol,Mystery,31,Male,Indian,True,Sad,Low
+10,118,Floral,Phenyl ethyl alcohol,Delight,64,Other,Indian,True,Calm,Medium
+10,119,Ocean Breeze,Dimethyl sulfide,Freedom,46,Male,Chinese,False,Energized,Medium
+10,120,Rain,Geosmin,Nature,29,Male,American,True,Sad,Medium
+10,121,Lavender,"Linalool, Linalyl acetate",Relaxation,53,Male,American,True,Sad,High
+10,122,Citrus,"Limonene, Citral",Happiness,52,Male,Chinese,True,Calm,High
+10,123,Pine,Pinene,Calmness,69,Other,French,True,Energized,Low
+10,124,Fresh Linen,Aldehydes,Cleanliness,29,Male,Indian,True,Neutral,Medium
+10,125,Peppermint,Menthol,Refreshment,24,Other,Indian,False,Neutral,Low
+10,126,Vanilla,Vanillin,Comfort,46,Female,British,True,Energized,High
+10,127,Rose,"Citronellol, Geraniol",Romance,28,Other,Chinese,True,Stressed,High
+10,128,Eucalyptus,Eucalyptol,Healing,50,Other,British,True,Calm,High
+10,129,Sandalwood,Santalol,Tranquility,23,Male,British,False,Energized,Low
+10,130,Leather,Benzaldehyde,Luxury,64,Female,American,False,Neutral,High
+10,131,Coffee,"Caffeine, Niacin",Alertness,32,Female,Indian,True,Sad,Medium
+10,132,Chocolate,Theobromine,Pleasure,49,Female,British,True,Neutral,Low
+10,133,Burnt Wood,Guaiacol,Nostalgia,68,Female,American,False,Sad,High
+10,134,Cinnamon,Cinnamaldehyde,Warmth,28,Other,Chinese,False,Calm,Low
+10,135,Apple,Amyl acetate,Freshness,40,Female,British,False,Sad,Low
+10,136,Strawberry,Methyl anthranilate,Joy,43,Other,Indian,True,Energized,High
+10,137,Smoky,Creosol,Mystery,51,Other,British,True,Sad,High
+10,138,Floral,Phenyl ethyl alcohol,Delight,63,Other,Chinese,False,Stressed,Low
+10,139,Ocean Breeze,Dimethyl sulfide,Freedom,51,Female,British,True,Energized,Low
+10,140,Rain,Geosmin,Nature,46,Male,Indian,False,Calm,High
+10,141,Lavender,"Linalool, Linalyl acetate",Relaxation,21,Male,American,False,Energized,Medium
+10,142,Citrus,"Limonene, Citral",Happiness,34,Female,Indian,False,Stressed,Low
+10,143,Pine,Pinene,Calmness,52,Male,American,True,Calm,Low
+10,144,Fresh Linen,Aldehydes,Cleanliness,30,Male,French,False,Neutral,Medium
+10,145,Peppermint,Menthol,Refreshment,58,Other,Indian,False,Stressed,High
+10,146,Vanilla,Vanillin,Comfort,56,Other,Indian,True,Calm,High
+10,147,Rose,"Citronellol, Geraniol",Romance,32,Female,Chinese,False,Sad,Medium
+10,148,Eucalyptus,Eucalyptol,Healing,46,Female,British,True,Energized,High
+10,149,Sandalwood,Santalol,Tranquility,46,Male,American,False,Calm,High
+10,150,Leather,Benzaldehyde,Luxury,28,Other,American,True,Energized,Low
+10,151,Coffee,"Caffeine, Niacin",Alertness,69,Female,Chinese,False,Sad,Low
+10,152,Chocolate,Theobromine,Pleasure,49,Female,Chinese,False,Calm,Low
+10,153,Burnt Wood,Guaiacol,Nostalgia,19,Female,British,False,Neutral,Medium
+10,154,Cinnamon,Cinnamaldehyde,Warmth,64,Female,British,False,Stressed,High
+10,155,Apple,Amyl acetate,Freshness,31,Female,Indian,False,Calm,High
+10,156,Strawberry,Methyl anthranilate,Joy,37,Female,French,True,Sad,Low
+10,157,Smoky,Creosol,Mystery,39,Male,British,True,Calm,Low
+10,158,Floral,Phenyl ethyl alcohol,Delight,28,Other,Chinese,False,Energized,Medium
+10,159,Ocean Breeze,Dimethyl sulfide,Freedom,44,Other,British,False,Calm,High
+10,160,Rain,Geosmin,Nature,20,Female,American,False,Neutral,Medium
+10,161,Lavender,"Linalool, Linalyl acetate",Relaxation,34,Other,French,True,Calm,High
+10,162,Citrus,"Limonene, Citral",Happiness,61,Other,Indian,True,Stressed,Medium
+10,163,Pine,Pinene,Calmness,45,Other,American,False,Calm,Low
+10,164,Fresh Linen,Aldehydes,Cleanliness,46,Female,American,True,Energized,Medium
+10,165,Peppermint,Menthol,Refreshment,38,Female,French,False,Calm,Medium
+10,166,Vanilla,Vanillin,Comfort,64,Other,Indian,False,Neutral,Low
+10,167,Rose,"Citronellol, Geraniol",Romance,33,Other,Chinese,False,Sad,High
+10,168,Eucalyptus,Eucalyptol,Healing,54,Female,Indian,True,Calm,High
+10,169,Sandalwood,Santalol,Tranquility,37,Male,British,False,Calm,Low
+10,170,Leather,Benzaldehyde,Luxury,23,Other,American,False,Stressed,Medium
+10,171,Coffee,"Caffeine, Niacin",Alertness,36,Male,British,False,Neutral,Medium
+10,172,Chocolate,Theobromine,Pleasure,22,Other,Chinese,True,Sad,Medium
+10,173,Burnt Wood,Guaiacol,Nostalgia,20,Male,British,True,Energized,High
+10,174,Cinnamon,Cinnamaldehyde,Warmth,18,Male,Indian,True,Calm,Medium
+10,175,Apple,Amyl acetate,Freshness,55,Male,British,False,Sad,High
+10,176,Strawberry,Methyl anthranilate,Joy,32,Female,Chinese,True,Energized,Medium
+10,177,Smoky,Creosol,Mystery,51,Male,Chinese,False,Neutral,Low
+10,178,Floral,Phenyl ethyl alcohol,Delight,52,Male,Chinese,True,Neutral,Low
+10,179,Ocean Breeze,Dimethyl sulfide,Freedom,66,Male,Indian,False,Sad,High
+10,180,Rain,Geosmin,Nature,42,Other,Chinese,True,Energized,High
+10,181,Lavender,"Linalool, Linalyl acetate",Relaxation,41,Male,American,False,Neutral,Low
+10,182,Citrus,"Limonene, Citral",Happiness,29,Other,Chinese,True,Sad,Low
+10,183,Pine,Pinene,Calmness,35,Male,British,True,Neutral,Medium
+10,184,Fresh Linen,Aldehydes,Cleanliness,32,Male,British,True,Neutral,Low
+10,185,Peppermint,Menthol,Refreshment,61,Female,British,False,Neutral,High
+10,186,Vanilla,Vanillin,Comfort,33,Other,Indian,True,Stressed,Low
+10,187,Rose,"Citronellol, Geraniol",Romance,44,Male,British,True,Energized,High
+10,188,Eucalyptus,Eucalyptol,Healing,25,Other,Indian,True,Sad,High
+10,189,Sandalwood,Santalol,Tranquility,63,Other,Indian,True,Sad,Medium
+10,190,Leather,Benzaldehyde,Luxury,42,Female,Chinese,False,Energized,Medium
+10,191,Coffee,"Caffeine, Niacin",Alertness,34,Female,American,True,Energized,Medium
+10,192,Chocolate,Theobromine,Pleasure,46,Female,Chinese,False,Energized,Medium
+10,193,Burnt Wood,Guaiacol,Nostalgia,25,Female,Chinese,False,Energized,Low
+10,194,Cinnamon,Cinnamaldehyde,Warmth,32,Female,Indian,False,Calm,Medium
+10,195,Apple,Amyl acetate,Freshness,44,Female,Indian,False,Sad,Low
+10,196,Strawberry,Methyl anthranilate,Joy,63,Female,British,True,Calm,Medium
+10,197,Smoky,Creosol,Mystery,67,Female,British,False,Neutral,Medium
+10,198,Floral,Phenyl ethyl alcohol,Delight,69,Male,Chinese,False,Neutral,High
+10,199,Ocean Breeze,Dimethyl sulfide,Freedom,24,Other,French,False,Sad,Low
+10,200,Rain,Geosmin,Nature,20,Female,French,False,Neutral,High
