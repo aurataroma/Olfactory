@@ -1,0 +1,152 @@
+from fastapi import FastAPI, HTTPException
+from pydantic import BaseModel
+from datetime import datetime, timedelta
+import numpy as np
+from typing import List, Optional
+import csv
+import io
+
+app = FastAPI()
+
+# Mocked lookup table from grouped averages
+lookup_table = {
+    ("South Indian (Tamil)", "Male", "20-35"): [0.7, 0.3, 0.2, 0.4, 0.5, -0.2, 0.8, 0.4],
+    ("German-American", "Male", "20-35"): [0.6, 0.4, 0.3, 0.7, 0.6, -0.1, 0.8, 0.2],
+    ("White American", "Female", "20-35"): [0.5, 0.6, 0.5, 0.5, 0.4, 0.3, 0.7, 0.5],
+    ("Bulgarian", "Male", "36-45"): [0.7, 0.3, 0.2, 0.8, 0.7, -0.3, 0.9, 0.3],
+    ("South Indian (Tamil)", "Male", "55-65"): [0.4, 0.5, 0.6, 0.5, 0.6, 0.2, 0.6, 0.8],
+    ("German-American", "Female", "18-25"): [0.6, 0.3, 0.4, 0.5, 0.7, -0.1, 0.6, 0.5],
+    ("African-American", "Male", "45-55"): [0.5, 0.4, 0.7, 0.4, 0.6, 0.2, 0.5, 0.7],
+    ("White American (Jewish descent)", "Male", "50-60"): [0.6, 0.5, 0.5, 0.7, 0.5, 0.3, 0.8, 0.6],
+    ("Jewish-American (Russian origin)", "Male", "35-45"): [0.5, 0.4, 0.2, 0.6, 0.7, 0.1, 0.7, 0.3],
+    ("African-American", "Female", "35-45"): [0.5, 0.4, 0.7, 0.5, 0.8, 0.2, 0.6, 0.7]
+}
+
+# Olfactory trigger overlays
+olfactory_triggers = {
+    "citrus": [0.1, 0.1, 0, 0.1, -0.1, 0.1, 0.1, 0],
+    "vanilla": [0, 0.1, 0.1, 0, -0.1, 0.1, 0, 0.2],
+    "earthy": [-0.1, 0, 0, 0, 0.1, 0.1, 0, 0.1],
+    "mint": [0.1, 0.1, 0, 0.1, -0.1, 0.2, 0.1, 0]
+}
+
+# Life event overlays
+life_events_overlays = {
+    "job_loss": [-0.2, -0.3, 0, -0.2, 0.2, -0.3, -0.2, 0],
+    "marriage": [0.2, 0.3, 0.4, 0.1, -0.2, 0.3, 0.2, 0.3],
+    "serious_illness": [-0.3, -0.2, -0.2, -0.3, 0.3, -0.4, -0.3, 0]
+}
+
+# Chemical to neurotransmitter mappings
+chemical_to_neurotransmitters = {
+    "linalool": ["GABA", "Serotonin"],
+    "limonene": ["Dopamine"],
+    "vanillin": ["Dopamine"],
+    "eugenol": ["GABA", "Serotonin"],
+    "indole": ["Serotonin"],
+    "beta-pinene": ["Dopamine"],
+    "alpha-pinene": ["Noradrenaline"],
+    "coumarin": ["GABA"],
+    "menthol": ["Dopamine", "Glutamate"],
+    "pyrazines": ["Dopamine"]
+}
+
+# In-memory log to store session outputs
+session_logs = []
+
+class EmotionalProfileRequest(BaseModel):
+    olfactory_genetics_group: str
+    gender: str
+    age_group: str
+    seed: Optional[int] = None
+    stress_profiles: Optional[List[str]] = None
+    batch_size: Optional[int] = 1
+    olfactory_trigger: Optional[str] = None
+    drift_days: Optional[int] = 0
+    personality_modifiers: Optional[List[float]] = None
+    life_events: Optional[List[str]] = None
+    olfactory_chemicals: Optional[List[str]] = None
+
+@app.post("/generate_emotional_identity")
+async def generate_emotional_identity(request: EmotionalProfileRequest):
+    outputs = []
+
+    for i in range(request.batch_size):
+        key = (request.olfactory_genetics_group, request.gender, request.age_group)
+
+        if key not in lookup_table:
+            raise HTTPException(status_code=404, detail=f"Profile match not found for {key}.")
+
+        base_vector = np.array(lookup_table[key])
+
+        if request.seed is not None:
+            np.random.seed(request.seed + i)
+
+        noise = np.random.normal(0, 0.05, base_vector.shape)
+        generated_vector = np.clip(base_vector + noise, -1.0, 1.0)
+
+        if request.stress_profiles:
+            for stress in request.stress_profiles:
+                if stress in olfactory_triggers:
+                    overlay = np.array(olfactory_triggers[stress])
+                    generated_vector = np.clip(generated_vector + overlay, -1.0, 1.0)
+
+        if request.olfactory_trigger and request.olfactory_trigger in olfactory_triggers:
+            overlay = np.array(olfactory_triggers[request.olfactory_trigger])
+            generated_vector = np.clip(generated_vector + overlay, -1.0, 1.0)
+
+        if request.life_events:
+            for event in request.life_events:
+                if event in life_events_overlays:
+                    overlay = np.array(life_events_overlays[event])
+                    generated_vector = np.clip(generated_vector + overlay, -1.0, 1.0)
+
+        if request.drift_days > 0:
+            drift_effect = np.random.normal(0, 0.01 * request.drift_days, base_vector.shape)
+            generated_vector = np.clip(generated_vector + drift_effect, -1.0, 1.0)
+
+        if request.personality_modifiers:
+            modifiers = np.array(request.personality_modifiers)
+            generated_vector = np.clip(generated_vector + modifiers, -1.0, 1.0)
+
+        neurotransmitters_triggered = []
+        if request.olfactory_chemicals:
+            for chem in request.olfactory_chemicals:
+                neurotransmitters_triggered.extend(chemical_to_neurotransmitters.get(chem, []))
+
+        output = {
+            "olfactory_genetics_group": request.olfactory_genetics_group,
+            "gender": request.gender,
+            "age_group": request.age_group,
+            "stress_profiles_applied": request.stress_profiles,
+            "olfactory_trigger_applied": request.olfactory_trigger,
+            "life_events_applied": request.life_events,
+            "drift_days": request.drift_days,
+            "personality_modifiers_applied": request.personality_modifiers,
+            "olfactory_chemicals": request.olfactory_chemicals,
+            "neurotransmitters_triggered": list(set(neurotransmitters_triggered)),
+            "emotional_behavior_vector": generated_vector.tolist(),
+            "timestamp": datetime.utcnow().isoformat()
+        }
+
+        session_logs.append(output)
+        outputs.append(output)
+
+    return outputs
+
+@app.get("/logs")
+async def get_logs():
+    return session_logs
+
+@app.get("/logs/export")
+async def export_logs():
+    output = io.StringIO()
+    writer = csv.DictWriter(output, fieldnames=["olfactory_genetics_group", "gender", "age_group", "stress_profiles_applied", "olfactory_trigger_applied", "life_events_applied", "drift_days", "personality_modifiers_applied", "olfactory_chemicals", "neurotransmitters_triggered", "emotional_behavior_vector", "timestamp"])
+    writer.writeheader()
+    for log in session_logs:
+        writer.writerow(log)
+    response = output.getvalue()
+    output.close()
+    return response
+
+# To run this server, save this file and use: uvicorn filename:app --reload
